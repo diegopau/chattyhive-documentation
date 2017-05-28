@@ -1,0 +1,6493 @@
+StartFontMetrics 2.0
+Comment Copyright Original font Comfortaa: Copyright (c) 2008 by Johan Aakerlund. All rights reserved.
+Comment Panose 2 15 6 3 7 2 0 6 0 3
+FullName chattyhiveB
+FontName chattyhiveB-Regular
+FamilyName chattyhiveB
+Weight Normal
+Notice chattyhiveA font is based on "Comfortaa" font: Copyright (c) 2011, Johan Aakerlund (aajohan@gmail.com), with Reserved Font Name "Comfortaa"
+Version 001.001
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -195 -235 1250 1016
+Ascender 1016
+Descender -234
+XHeight 547
+CapHeight 781
+UnderlinePosition -142
+UnderlineThickness 73
+EncodingScheme FontSpecific
+StartCharMetrics 608
+C 32 ; WX 273 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 195 ; N exclam ; B 39 0 156 781 ;
+C 34 ; WX 273 ; N quotedbl ; B 39 566 234 781 ;
+C 35 ; WX 625 ; N numbersign ; B 36 0 585 781 ;
+C 36 ; WX 518 ; N dollar ; B 39 -78 479 859 ;
+C 37 ; WX 859 ; N percent ; B 39 0 820 781 ;
+C 38 ; WX 703 ; N ampersand ; B 39 0 664 781 ;
+C 39 ; WX 156 ; N quotesingle ; B 39 566 117 781 ;
+C 40 ; WX 273 ; N parenleft ; B 39 -234 234 781 ;
+C 41 ; WX 273 ; N parenright ; B 39 -234 234 781 ;
+C 42 ; WX 381 ; N asterisk ; B 42 494 341 781 ;
+C 43 ; WX 547 ; N plus ; B 39 156 508 625 ;
+C 44 ; WX 195 ; N comma ; B 39 -117 156 117 ;
+C 45 ; WX 391 ; N hyphen ; B 39 234 352 313 ;
+C 46 ; WX 195 ; N period ; B 39 0 156 117 ;
+C 47 ; WX 469 ; N slash ; B 39 -78 430 781 ;
+C 48 ; WX 547 ; N zero ; B 39 0 508 781 ;
+C 49 ; WX 273 ; N one ; B 39 0 234 781 ;
+C 50 ; WX 547 ; N two ; B 39 0 508 781 ;
+C 51 ; WX 547 ; N three ; B 39 0 508 781 ;
+C 52 ; WX 625 ; N four ; B 39 0 586 781 ;
+C 53 ; WX 586 ; N five ; B 39 0 547 781 ;
+C 54 ; WX 547 ; N six ; B 39 0 508 781 ;
+C 55 ; WX 547 ; N seven ; B 39 0 508 781 ;
+C 56 ; WX 547 ; N eight ; B 39 0 508 781 ;
+C 57 ; WX 547 ; N nine ; B 39 0 508 781 ;
+C 58 ; WX 195 ; N colon ; B 39 0 156 547 ;
+C 59 ; WX 195 ; N semicolon ; B 39 -117 156 547 ;
+C 60 ; WX 547 ; N less ; B 39 78 508 625 ;
+C 61 ; WX 508 ; N equal ; B 39 195 469 508 ;
+C 62 ; WX 547 ; N greater ; B 39 78 508 625 ;
+C 63 ; WX 547 ; N question ; B 39 0 508 781 ;
+C 64 ; WX 1094 ; N at ; B 39 -234 1055 781 ;
+C 65 ; WX 703 ; N A ; B 39 0 664 781 ;
+C 66 ; WX 547 ; N B ; B 39 0 508 781 ;
+C 67 ; WX 723 ; N C ; B 39 0 689 781 ;
+C 68 ; WX 664 ; N D ; B 39 0 625 781 ;
+C 69 ; WX 625 ; N E ; B 39 0 586 781 ;
+C 70 ; WX 625 ; N F ; B 39 0 586 781 ;
+C 71 ; WX 732 ; N G ; B 39 0 689 781 ;
+C 72 ; WX 625 ; N H ; B 39 0 586 781 ;
+C 73 ; WX 234 ; N I ; B 78 0 156 781 ;
+C 74 ; WX 547 ; N J ; B 39 0 508 781 ;
+C 75 ; WX 586 ; N K ; B 39 0 547 781 ;
+C 76 ; WX 586 ; N L ; B 39 0 547 781 ;
+C 77 ; WX 859 ; N M ; B 39 0 820 781 ;
+C 78 ; WX 703 ; N N ; B 39 0 664 781 ;
+C 79 ; WX 859 ; N O ; B 39 0 820 781 ;
+C 80 ; WX 527 ; N P ; B 39 0 488 781 ;
+C 81 ; WX 859 ; N Q ; B 39 0 820 781 ;
+C 82 ; WX 586 ; N R ; B 39 0 547 781 ;
+C 83 ; WX 518 ; N S ; B 39 0 479 781 ;
+C 84 ; WX 664 ; N T ; B 39 0 625 781 ;
+C 85 ; WX 625 ; N U ; B 39 0 586 781 ;
+C 86 ; WX 703 ; N V ; B 39 0 664 781 ;
+C 87 ; WX 937 ; N W ; B 39 0 898 781 ;
+C 88 ; WX 703 ; N X ; B 39 0 664 781 ;
+C 89 ; WX 625 ; N Y ; B 39 0 586 781 ;
+C 90 ; WX 703 ; N Z ; B 39 0 664 781 ;
+C 91 ; WX 312 ; N bracketleft ; B 39 -234 273 781 ;
+C 92 ; WX 469 ; N backslash ; B 39 -78 430 781 ;
+C 93 ; WX 312 ; N bracketright ; B 39 -234 273 781 ;
+C 94 ; WX 469 ; N asciicircum ; B 39 469 430 781 ;
+C 95 ; WX 469 ; N underscore ; B -39 -78 508 0 ;
+C 96 ; WX 273 ; N grave ; B 39 586 234 781 ;
+C 97 ; WX 564 ; N a ; B 33 0 520 547 ;
+C 98 ; WX 625 ; N b ; B 42 0 579 783 ;
+C 99 ; WX 547 ; N c ; B 39 0 504 547 ;
+C 100 ; WX 625 ; N d ; B 41 0 578 782 ;
+C 101 ; WX 622 ; N e ; B 39 0 576 547 ;
+C 102 ; WX 391 ; N f ; B 39 0 391 781 ;
+C 103 ; WX 625 ; N g ; B 41 -234 578 547 ;
+C 104 ; WX 586 ; N h ; B 39 0 547 781 ;
+C 105 ; WX 234 ; N i ; B 68 0 166 713 ;
+C 106 ; WX 291 ; N j ; B 36 -235 241 712 ;
+C 107 ; WX 547 ; N k ; B 39 0 508 781 ;
+C 108 ; WX 158 ; N l ; B 40 0 118 781 ;
+C 109 ; WX 859 ; N m ; B 39 0 820 547 ;
+C 110 ; WX 586 ; N n ; B 39 0 547 547 ;
+C 111 ; WX 625 ; N o ; B 39 0 586 547 ;
+C 112 ; WX 625 ; N p ; B 41 -234 578 547 ;
+C 113 ; WX 633 ; N q ; B 41 -234 578 547 ;
+C 114 ; WX 469 ; N r ; B 39 0 445 547 ;
+C 115 ; WX 518 ; N s ; B 39 0 479 547 ;
+C 116 ; WX 391 ; N t ; B 39 0 352 781 ;
+C 117 ; WX 586 ; N u ; B 39 0 547 547 ;
+C 118 ; WX 586 ; N v ; B 39 0 547 547 ;
+C 119 ; WX 781 ; N w ; B 39 0 742 547 ;
+C 120 ; WX 547 ; N x ; B 39 0 508 547 ;
+C 121 ; WX 554 ; N y ; B 28 -233 522 547 ;
+C 122 ; WX 547 ; N z ; B 39 0 508 547 ;
+C 123 ; WX 391 ; N braceleft ; B 39 -234 352 781 ;
+C 124 ; WX 391 ; N bar ; B 156 -234 234 781 ;
+C 125 ; WX 391 ; N braceright ; B 39 -234 352 781 ;
+C 126 ; WX 469 ; N asciitilde ; B 35 296 430 431 ;
+C 128 ; WX 723 ; N Euro ; B 39 0 689 781 ;
+C 130 ; WX 234 ; N quotesinglbase ; B 59 -167 182 156 ;
+C 132 ; WX 371 ; N quotedblbase ; B 39 -166 332 156 ;
+C 133 ; WX 703 ; N ellipsis ; B 39 0 625 117 ;
+C 134 ; WX 547 ; N dagger ; B 39 -234 508 781 ;
+C 135 ; WX 547 ; N daggerdbl ; B 39 -234 508 781 ;
+C 137 ; WX 1289 ; N perthousand ; B 39 0 1250 781 ;
+C 138 ; WX 518 ; N Scaron ; B 39 0 479 996 ;
+C 139 ; WX 273 ; N guilsinglleft ; B 39 0 234 546 ;
+C 140 ; WX 518 ; N Sacute ; B 39 0 479 1015 ;
+C 141 ; WX 664 ; N Tcaron ; B 39 0 625 996 ;
+C 142 ; WX 703 ; N Zcaron ; B 39 0 664 996 ;
+C 143 ; WX 703 ; N Zacute ; B 39 0 664 1015 ;
+C 145 ; WX 234 ; N quoteleft ; B 59 459 182 781 ;
+C 146 ; WX 234 ; N quoteright ; B 59 459 182 781 ;
+C 147 ; WX 371 ; N quotedblleft ; B 39 460 332 782 ;
+C 148 ; WX 371 ; N quotedblright ; B 39 460 332 782 ;
+C 149 ; WX 391 ; N bullet ; B 78 273 313 508 ;
+C 150 ; WX 391 ; N endash ; B -39 234 430 313 ;
+C 151 ; WX 937 ; N emdash ; B -39 234 977 313 ;
+C 153 ; WX 732 ; N trademark ; B 39 469 683 781 ;
+C 154 ; WX 518 ; N scaron ; B 39 0 479 762 ;
+C 155 ; WX 273 ; N guilsinglright ; B 39 0 234 546 ;
+C 156 ; WX 518 ; N sacute ; B 39 0 479 781 ;
+C 157 ; WX 508 ; N tcaron ; B 39 0 474 781 ;
+C 158 ; WX 547 ; N zcaron ; B 39 0 508 762 ;
+C 159 ; WX 547 ; N zacute ; B 39 0 508 781 ;
+C 160 ; WX 273 ; N space ; B 0 0 0 0 ;
+C 161 ; WX 391 ; N caron ; B 39 605 352 762 ;
+C 162 ; WX 391 ; N breve ; B 39 605 352 762 ;
+C 163 ; WX 664 ; N Lslash ; B 12 0 625 781 ;
+C 164 ; WX 469 ; N currency ; B 54 186 415 547 ;
+C 165 ; WX 742 ; N Aogonek ; B 39 -195 742 781 ;
+C 166 ; WX 234 ; N brokenbar ; B 78 -234 156 859 ;
+C 167 ; WX 469 ; N section ; B 39 -234 430 781 ;
+C 168 ; WX 469 ; N dieresis ; B 68 615 400 713 ;
+C 169 ; WX 859 ; N copyright ; B 39 0 818 779 ;
+C 170 ; WX 518 ; N Scedilla ; B 39 -234 479 781 ;
+C 171 ; WX 469 ; N guillemotleft ; B 39 0 430 546 ;
+C 172 ; WX 547 ; N logicalnot ; B 39 313 508 547 ;
+C 173 ; WX 391 ; N hyphen ; B 39 234 352 313 ;
+C 174 ; WX 859 ; N registered ; B 39 0 818 779 ;
+C 175 ; WX 703 ; N Zdotaccent ; B 39 0 664 957 ;
+C 176 ; WX 469 ; N degree ; B 39 391 430 781 ;
+C 177 ; WX 547 ; N plusminus ; B 39 0 508 625 ;
+C 178 ; WX 312 ; N ogonek ; B 39 -234 273 38 ;
+C 179 ; WX 352 ; N lslash ; B 12 0 313 781 ;
+C 180 ; WX 273 ; N acute ; B 39 586 234 781 ;
+C 181 ; WX 586 ; N mu ; B 39 -234 547 547 ;
+C 182 ; WX 547 ; N paragraph ; B 39 0 508 781 ;
+C 183 ; WX 195 ; N middot ; B 39 313 156 430 ;
+C 184 ; WX 312 ; N cedilla ; B 39 -234 273 39 ;
+C 185 ; WX 664 ; N aogonek ; B 39 -195 664 547 ;
+C 186 ; WX 518 ; N scedilla ; B 39 -234 479 547 ;
+C 187 ; WX 469 ; N guillemotright ; B 39 0 430 546 ;
+C 188 ; WX 586 ; N Lcaron ; B 39 0 547 781 ;
+C 189 ; WX 352 ; N hungarumlaut ; B 39 577 317 781 ;
+C 190 ; WX 332 ; N lcaron ; B 39 0 293 781 ;
+C 191 ; WX 547 ; N zdotaccent ; B 39 0 508 723 ;
+C 192 ; WX 586 ; N Racute ; B 39 0 547 1015 ;
+C 193 ; WX 703 ; N Aacute ; B 39 0 664 1015 ;
+C 194 ; WX 703 ; N Acircumflex ; B 39 0 664 996 ;
+C 195 ; WX 703 ; N Abreve ; B 39 0 664 996 ;
+C 196 ; WX 703 ; N Adieresis ; B 39 0 664 947 ;
+C 197 ; WX 586 ; N Lacute ; B 39 0 547 1015 ;
+C 198 ; WX 723 ; N Cacute ; B 39 0 689 1015 ;
+C 199 ; WX 723 ; N Ccedilla ; B 39 -234 689 781 ;
+C 200 ; WX 723 ; N Ccaron ; B 39 0 689 996 ;
+C 201 ; WX 625 ; N Eacute ; B 39 0 586 1015 ;
+C 202 ; WX 625 ; N Eogonek ; B 39 -234 586 781 ;
+C 203 ; WX 625 ; N Edieresis ; B 39 0 586 947 ;
+C 204 ; WX 625 ; N Ecaron ; B 39 0 586 996 ;
+C 205 ; WX 234 ; N Iacute ; B 52 0 247 1015 ;
+C 206 ; WX 234 ; N Icircumflex ; B -39 0 274 996 ;
+C 207 ; WX 664 ; N Dcaron ; B 39 0 625 996 ;
+C 208 ; WX 742 ; N Dcroat ; B 0 0 703 781 ;
+C 209 ; WX 703 ; N Nacute ; B 39 0 664 1015 ;
+C 210 ; WX 703 ; N Ncaron ; B 39 0 664 996 ;
+C 211 ; WX 859 ; N Oacute ; B 39 0 820 1015 ;
+C 212 ; WX 859 ; N Ocircumflex ; B 39 0 820 996 ;
+C 213 ; WX 859 ; N Ohungarumlaut ; B 39 0 820 1015 ;
+C 214 ; WX 859 ; N Odieresis ; B 39 0 820 947 ;
+C 215 ; WX 469 ; N multiply ; B 39 156 430 547 ;
+C 216 ; WX 586 ; N Rcaron ; B 39 0 547 996 ;
+C 217 ; WX 625 ; N Uring ; B 39 0 586 1015 ;
+C 218 ; WX 625 ; N Uacute ; B 39 0 586 1015 ;
+C 219 ; WX 625 ; N Uhungarumlaut ; B 39 0 586 1015 ;
+C 220 ; WX 625 ; N Udieresis ; B 39 0 586 947 ;
+C 221 ; WX 625 ; N Yacute ; B 39 0 586 1015 ;
+C 222 ; WX 664 ; N Tcommaaccent ; B 39 -195 625 781 ;
+C 223 ; WX 547 ; N germandbls ; B 39 0 508 781 ;
+C 224 ; WX 469 ; N racute ; B 39 0 445 781 ;
+C 225 ; WX 625 ; N aacute ; B 39 0 586 781 ;
+C 226 ; WX 625 ; N acircumflex ; B 39 0 586 762 ;
+C 227 ; WX 625 ; N abreve ; B 39 0 586 762 ;
+C 228 ; WX 625 ; N adieresis ; B 39 0 586 713 ;
+C 229 ; WX 234 ; N lacute ; B 20 0 215 1015 ;
+C 230 ; WX 547 ; N cacute ; B 39 0 504 781 ;
+C 231 ; WX 547 ; N ccedilla ; B 39 -234 504 547 ;
+C 232 ; WX 547 ; N ccaron ; B 39 0 504 762 ;
+C 233 ; WX 625 ; N eacute ; B 39 0 586 781 ;
+C 234 ; WX 625 ; N eogonek ; B 39 -234 586 547 ;
+C 235 ; WX 625 ; N edieresis ; B 39 0 586 713 ;
+C 236 ; WX 625 ; N ecaron ; B 39 0 586 762 ;
+C 237 ; WX 234 ; N iacute ; B 40 0 235 781 ;
+C 238 ; WX 273 ; N icircumflex ; B -19 0 294 762 ;
+C 239 ; WX 781 ; N dcaron ; B 39 0 748 782 ;
+C 240 ; WX 703 ; N dslash ; B 39 0 664 782 ;
+C 241 ; WX 586 ; N nacute ; B 39 0 547 781 ;
+C 242 ; WX 586 ; N ncaron ; B 39 0 547 762 ;
+C 243 ; WX 625 ; N oacute ; B 39 0 586 781 ;
+C 244 ; WX 625 ; N ocircumflex ; B 39 0 586 762 ;
+C 245 ; WX 625 ; N ohungarumlaut ; B 39 0 586 801 ;
+C 246 ; WX 625 ; N odieresis ; B 39 0 586 713 ;
+C 247 ; WX 469 ; N divide ; B 39 156 430 547 ;
+C 248 ; WX 469 ; N rcaron ; B 39 0 445 762 ;
+C 249 ; WX 586 ; N uring ; B 39 0 547 781 ;
+C 250 ; WX 586 ; N uacute ; B 39 0 547 781 ;
+C 251 ; WX 586 ; N uhungarumlaut ; B 39 0 547 781 ;
+C 252 ; WX 586 ; N udieresis ; B 39 0 547 713 ;
+C 253 ; WX 547 ; N yacute ; B 39 -234 508 781 ;
+C 254 ; WX 391 ; N tcommaaccent ; B 39 -224 352 781 ;
+C 255 ; WX 195 ; N dotaccent ; B 39 606 156 723 ;
+C -1 ; WX 859 ; N AE ; B 39 0 820 781 ;
+C -1 ; WX 859 ; N AEacute ; B 39 0 820 1015 ;
+C -1 ; WX 703 ; N Agrave ; B 39 0 664 1015 ;
+C -1 ; WX 703 ; N Alpha ; B 39 0 664 781 ;
+C -1 ; WX 703 ; N Alphatonos ; B 39 0 664 781 ;
+C -1 ; WX 703 ; N Amacron ; B 39 0 664 937 ;
+C -1 ; WX 703 ; N Aring ; B 39 0 664 1015 ;
+C -1 ; WX 703 ; N Aringacute ; B 39 0 664 1016 ;
+C -1 ; WX 703 ; N Atilde ; B 39 0 664 974 ;
+C -1 ; WX 547 ; N Beta ; B 39 0 508 781 ;
+C -1 ; WX 273 ; N CR ; B 0 0 0 0 ;
+C -1 ; WX 723 ; N Ccircumflex ; B 39 0 689 996 ;
+C -1 ; WX 723 ; N Cdotaccent ; B 39 0 689 957 ;
+C -1 ; WX 703 ; N Chi ; B 39 0 664 781 ;
+C -1 ; WX 625 ; N Ebreve ; B 39 0 586 996 ;
+C -1 ; WX 625 ; N Ecircumflex ; B 39 0 586 996 ;
+C -1 ; WX 625 ; N Edotaccent ; B 39 0 586 957 ;
+C -1 ; WX 625 ; N Egrave ; B 39 0 586 1015 ;
+C -1 ; WX 625 ; N Emacron ; B 39 0 586 937 ;
+C -1 ; WX 703 ; N Eng ; B 39 0 664 781 ;
+C -1 ; WX 625 ; N Epsilon ; B 39 0 586 781 ;
+C -1 ; WX 801 ; N Epsilontonos ; B -20 0 761 781 ;
+C -1 ; WX 625 ; N Eta ; B 39 0 586 781 ;
+C -1 ; WX 801 ; N Etatonos ; B -20 0 762 781 ;
+C -1 ; WX 742 ; N Eth ; B 0 0 703 781 ;
+C -1 ; WX 625 ; N Gamma ; B 39 0 586 781 ;
+C -1 ; WX 732 ; N Gbreve ; B 39 0 689 996 ;
+C -1 ; WX 732 ; N Gcircumflex ; B 39 0 689 996 ;
+C -1 ; WX 732 ; N Gcommaaccent ; B 39 -234 689 781 ;
+C -1 ; WX 732 ; N Gdotaccent ; B 39 0 689 957 ;
+C -1 ; WX 781 ; N Hbar ; B 39 0 742 781 ;
+C -1 ; WX 625 ; N Hcircumflex ; B 39 0 586 996 ;
+C -1 ; WX 742 ; N IJ ; B 78 0 703 781 ;
+C -1 ; WX 234 ; N Ibreve ; B -39 0 274 996 ;
+C -1 ; WX 234 ; N Idieresis ; B -48 0 284 947 ;
+C -1 ; WX 234 ; N Idotaccent ; B 59 0 176 957 ;
+C -1 ; WX 234 ; N Igrave ; B -13 0 182 1015 ;
+C -1 ; WX 234 ; N Imacron ; B -39 0 274 937 ;
+C -1 ; WX 234 ; N Iogonek ; B 0 -195 234 781 ;
+C -1 ; WX 234 ; N Iota ; B 78 0 156 781 ;
+C -1 ; WX 234 ; N Iotadieresis ; B -49 0 283 947 ;
+C -1 ; WX 371 ; N Iotatonos ; B -20 0 293 781 ;
+C -1 ; WX 312 ; N Itilde ; B -41 0 354 974 ;
+C -1 ; WX 586 ; N Jcircumflex ; B 39 0 625 996 ;
+C -1 ; WX 586 ; N Kappa ; B 39 0 547 781 ;
+C -1 ; WX 586 ; N Kcommaaccent ; B 39 -215 547 781 ;
+C -1 ; WX 703 ; N Lambda ; B 39 0 664 781 ;
+C -1 ; WX 586 ; N Lcommaaccent ; B 39 -215 547 781 ;
+C -1 ; WX 586 ; N Ldot ; B 39 0 547 781 ;
+C -1 ; WX 859 ; N Mu ; B 39 0 820 781 ;
+C -1 ; WX 0 ; N NULL ; B 0 0 0 0 ;
+C -1 ; WX 703 ; N Ncommaaccent ; B 39 -215 664 781 ;
+C -1 ; WX 703 ; N Ntilde ; B 39 0 664 974 ;
+C -1 ; WX 703 ; N Nu ; B 39 0 664 781 ;
+C -1 ; WX 1055 ; N OE ; B 39 0 1016 781 ;
+C -1 ; WX 859 ; N Obreve ; B 39 0 820 996 ;
+C -1 ; WX 859 ; N Ograve ; B 39 0 820 1015 ;
+C -1 ; WX 859 ; N Omacron ; B 39 0 820 937 ;
+C -1 ; WX 859 ; N Omega ; B 39 0 820 781 ;
+C -1 ; WX 879 ; N Omegatonos ; B -20 0 840 781 ;
+C -1 ; WX 859 ; N Omicron ; B 39 0 820 781 ;
+C -1 ; WX 879 ; N Omicrontonos ; B -20 0 840 781 ;
+C -1 ; WX 859 ; N Oslash ; B 39 0 820 781 ;
+C -1 ; WX 859 ; N Oslashacute ; B 39 0 820 1015 ;
+C -1 ; WX 859 ; N Otilde ; B 39 0 820 974 ;
+C -1 ; WX 859 ; N Phi ; B 39 0 820 781 ;
+C -1 ; WX 664 ; N Pi ; B 39 0 625 781 ;
+C -1 ; WX 703 ; N Psi ; B 39 0 664 781 ;
+C -1 ; WX 586 ; N Rcommaaccent ; B 39 -215 547 781 ;
+C -1 ; WX 527 ; N Rho ; B 39 0 488 781 ;
+C -1 ; WX 518 ; N Scircumflex ; B 39 0 479 996 ;
+C -1 ; WX 625 ; N Sigma ; B 39 0 586 781 ;
+C -1 ; WX 664 ; N Tau ; B 39 0 625 781 ;
+C -1 ; WX 664 ; N Tbar ; B 39 0 625 781 ;
+C -1 ; WX 859 ; N Theta ; B 39 0 820 781 ;
+C -1 ; WX 625 ; N Thorn ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N Ubreve ; B 39 0 586 996 ;
+C -1 ; WX 625 ; N Ucircumflex ; B 39 0 586 996 ;
+C -1 ; WX 625 ; N Ugrave ; B 39 0 586 1015 ;
+C -1 ; WX 625 ; N Umacron ; B 39 0 586 937 ;
+C -1 ; WX 625 ; N Uogonek ; B 39 -233 586 781 ;
+C -1 ; WX 625 ; N Upsilon ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N Upsilondieresis ; B 39 0 586 947 ;
+C -1 ; WX 801 ; N Upsilontonos ; B -20 0 762 781 ;
+C -1 ; WX 625 ; N Utilde ; B 39 0 586 974 ;
+C -1 ; WX 937 ; N Wacute ; B 39 0 898 1015 ;
+C -1 ; WX 937 ; N Wcircumflex ; B 39 0 898 996 ;
+C -1 ; WX 937 ; N Wdieresis ; B 39 0 898 947 ;
+C -1 ; WX 937 ; N Wgrave ; B 39 0 898 1015 ;
+C -1 ; WX 625 ; N Xi ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N Ycircumflex ; B 39 0 586 996 ;
+C -1 ; WX 625 ; N Ydieresis ; B 39 0 586 947 ;
+C -1 ; WX 625 ; N Ygrave ; B 39 0 586 1015 ;
+C -1 ; WX 703 ; N Zeta ; B 39 0 664 781 ;
+C -1 ; WX 625 ; N a.001 ; B 39 0 586 547 ;
+C -1 ; WX 1094 ; N ae ; B 39 0 1055 547 ;
+C -1 ; WX 1094 ; N aeacute ; B 39 0 1055 781 ;
+C -1 ; WX 703 ; N afii00208 ; B -39 234 742 313 ;
+C -1 ; WX 703 ; N afii10017 ; B 39 0 664 781 ;
+C -1 ; WX 547 ; N afii10018 ; B 39 0 508 781 ;
+C -1 ; WX 547 ; N afii10019 ; B 39 0 508 781 ;
+C -1 ; WX 586 ; N afii10020 ; B 39 0 547 781 ;
+C -1 ; WX 781 ; N afii10021 ; B 39 -156 742 781 ;
+C -1 ; WX 625 ; N afii10022 ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N afii10023 ; B 39 0 586 947 ;
+C -1 ; WX 1016 ; N afii10024 ; B 39 0 977 781 ;
+C -1 ; WX 527 ; N afii10025 ; B 39 0 488 781 ;
+C -1 ; WX 703 ; N afii10026 ; B 39 0 664 781 ;
+C -1 ; WX 703 ; N afii10027 ; B 39 0 664 996 ;
+C -1 ; WX 586 ; N afii10028 ; B 39 0 547 781 ;
+C -1 ; WX 703 ; N afii10029 ; B 39 0 664 781 ;
+C -1 ; WX 937 ; N afii10030 ; B 39 0 898 781 ;
+C -1 ; WX 625 ; N afii10031 ; B 39 0 586 781 ;
+C -1 ; WX 859 ; N afii10032 ; B 39 0 820 781 ;
+C -1 ; WX 625 ; N afii10033 ; B 39 0 586 781 ;
+C -1 ; WX 527 ; N afii10034 ; B 39 0 488 781 ;
+C -1 ; WX 723 ; N afii10035 ; B 39 0 689 781 ;
+C -1 ; WX 664 ; N afii10036 ; B 39 0 625 781 ;
+C -1 ; WX 702 ; N afii10037 ; B 39 0 664 781 ;
+C -1 ; WX 859 ; N afii10038 ; B 39 0 820 781 ;
+C -1 ; WX 703 ; N afii10039 ; B 39 0 664 781 ;
+C -1 ; WX 703 ; N afii10040 ; B 39 -156 664 781 ;
+C -1 ; WX 625 ; N afii10041 ; B 39 0 586 781 ;
+C -1 ; WX 781 ; N afii10042 ; B 39 0 742 781 ;
+C -1 ; WX 859 ; N afii10043 ; B 39 -156 820 781 ;
+C -1 ; WX 664 ; N afii10044 ; B 0 0 625 781 ;
+C -1 ; WX 703 ; N afii10045 ; B 39 0 664 781 ;
+C -1 ; WX 547 ; N afii10046 ; B 39 0 508 781 ;
+C -1 ; WX 723 ; N afii10047 ; B 40 0 690 781 ;
+C -1 ; WX 1016 ; N afii10048 ; B 39 0 977 781 ;
+C -1 ; WX 586 ; N afii10049 ; B 39 0 547 781 ;
+C -1 ; WX 586 ; N afii10050 ; B 39 0 547 938 ;
+C -1 ; WX 801 ; N afii10051 ; B 39 0 762 781 ;
+C -1 ; WX 586 ; N afii10052 ; B 39 0 547 1015 ;
+C -1 ; WX 723 ; N afii10053 ; B 39 0 689 781 ;
+C -1 ; WX 518 ; N afii10054 ; B 39 0 479 781 ;
+C -1 ; WX 234 ; N afii10055 ; B 78 0 156 781 ;
+C -1 ; WX 234 ; N afii10056 ; B -48 0 284 947 ;
+C -1 ; WX 547 ; N afii10057 ; B 39 0 508 781 ;
+C -1 ; WX 1016 ; N afii10058 ; B 39 0 977 781 ;
+C -1 ; WX 937 ; N afii10059 ; B 39 0 898 781 ;
+C -1 ; WX 801 ; N afii10060 ; B 39 0 762 781 ;
+C -1 ; WX 586 ; N afii10061 ; B 39 0 547 1016 ;
+C -1 ; WX 702 ; N afii10062 ; B 39 0 664 996 ;
+C -1 ; WX 625 ; N afii10065 ; B 39 0 586 547 ;
+C -1 ; WX 625 ; N afii10066 ; B 39 0 586 781 ;
+C -1 ; WX 508 ; N afii10067 ; B 39 0 469 547 ;
+C -1 ; WX 430 ; N afii10068 ; B 39 0 391 547 ;
+C -1 ; WX 625 ; N afii10069 ; B 39 -234 586 547 ;
+C -1 ; WX 625 ; N afii10070 ; B 39 0 586 547 ;
+C -1 ; WX 625 ; N afii10071 ; B 39 0 586 713 ;
+C -1 ; WX 859 ; N afii10072 ; B 39 0 820 547 ;
+C -1 ; WX 469 ; N afii10073 ; B 53 0 430 547 ;
+C -1 ; WX 586 ; N afii10074 ; B 39 0 547 547 ;
+C -1 ; WX 586 ; N afii10075 ; B 39 0 547 762 ;
+C -1 ; WX 508 ; N afii10076 ; B 39 0 469 547 ;
+C -1 ; WX 586 ; N afii10077 ; B 39 -1 547 546 ;
+C -1 ; WX 781 ; N afii10078 ; B 39 -1 742 546 ;
+C -1 ; WX 527 ; N afii10079 ; B 39 0 488 547 ;
+C -1 ; WX 625 ; N afii10080 ; B 39 0 586 547 ;
+C -1 ; WX 586 ; N afii10081 ; B 39 0 547 547 ;
+C -1 ; WX 625 ; N afii10082 ; B 39 -234 586 547 ;
+C -1 ; WX 547 ; N afii10083 ; B 39 0 504 547 ;
+C -1 ; WX 859 ; N afii10084 ; B 39 0 820 547 ;
+C -1 ; WX 547 ; N afii10085 ; B 39 -234 508 547 ;
+C -1 ; WX 937 ; N afii10086 ; B 39 -234 898 781 ;
+C -1 ; WX 547 ; N afii10087 ; B 39 0 508 547 ;
+C -1 ; WX 664 ; N afii10088 ; B 39 -156 625 547 ;
+C -1 ; WX 508 ; N afii10089 ; B 39 0 469 547 ;
+C -1 ; WX 859 ; N afii10090 ; B 39 0 820 547 ;
+C -1 ; WX 937 ; N afii10091 ; B 39 -156 898 547 ;
+C -1 ; WX 625 ; N afii10092 ; B 20 0 586 547 ;
+C -1 ; WX 625 ; N afii10093 ; B 39 0 586 547 ;
+C -1 ; WX 488 ; N afii10094 ; B 39 0 449 547 ;
+C -1 ; WX 547 ; N afii10095 ; B 39 0 504 547 ;
+C -1 ; WX 781 ; N afii10096 ; B 39 0 742 547 ;
+C -1 ; WX 488 ; N afii10097 ; B 20 0 449 547 ;
+C -1 ; WX 430 ; N afii10098 ; B 39 0 391 703 ;
+C -1 ; WX 645 ; N afii10099 ; B 20 -234 605 781 ;
+C -1 ; WX 430 ; N afii10100 ; B 39 0 391 781 ;
+C -1 ; WX 547 ; N afii10101 ; B 42 0 507 547 ;
+C -1 ; WX 518 ; N afii10102 ; B 39 0 479 547 ;
+C -1 ; WX 234 ; N afii10103 ; B 68 0 166 713 ;
+C -1 ; WX 293 ; N afii10104 ; B -19 0 313 713 ;
+C -1 ; WX 320 ; N afii10105 ; B 0 -234 283 713 ;
+C -1 ; WX 879 ; N afii10106 ; B 39 0 840 547 ;
+C -1 ; WX 859 ; N afii10107 ; B 39 0 821 547 ;
+C -1 ; WX 645 ; N afii10108 ; B 20 0 605 781 ;
+C -1 ; WX 508 ; N afii10109 ; B 39 0 469 781 ;
+C -1 ; WX 547 ; N afii10110 ; B 39 -234 508 762 ;
+C -1 ; WX 625 ; N afii10145 ; B 39 -156 586 781 ;
+C -1 ; WX 547 ; N afii10193 ; B 39 -156 508 547 ;
+C -1 ; WX 625 ; N afii10846 ; B 39 0 586 547 ;
+C -1 ; WX 937 ; N afii61248 ; B 39 0 898 781 ;
+C -1 ; WX 391 ; N afii61289 ; B 39 0 352 781 ;
+C -1 ; WX 1172 ; N afii61352 ; B 39 0 1133 781 ;
+C -1 ; WX 625 ; N agrave ; B 39 0 586 781 ;
+C -1 ; WX 703 ; N alpha ; B 39 0 664 547 ;
+C -1 ; WX 703 ; N alphatonos ; B 39 0 664 781 ;
+C -1 ; WX 625 ; N amacron ; B 39 0 586 703 ;
+C -1 ; WX 195 ; N anoteleia ; B 39 430 156 547 ;
+C -1 ; WX 469 ; N approxequal ; B 35 234 430 542 ;
+C -1 ; WX 625 ; N aring ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N aringacute ; B 39 0 586 986 ;
+C -1 ; WX 937 ; N arrowboth ; B 39 78 898 469 ;
+C -1 ; WX 469 ; N arrowdown ; B 39 -156 430 703 ;
+C -1 ; WX 939 ; N arrowleft ; B 39 78 898 469 ;
+C -1 ; WX 937 ; N arrowright ; B 39 78 898 469 ;
+C -1 ; WX 469 ; N arrowup ; B 39 -156 430 703 ;
+C -1 ; WX 469 ; N arrowupdn ; B 39 -156 430 703 ;
+C -1 ; WX 469 ; N arrowupdnbse ; B 39 -156 430 703 ;
+C -1 ; WX 625 ; N atilde ; B 39 0 586 740 ;
+C -1 ; WX 625 ; N b.001 ; B 39 0 586 782 ;
+C -1 ; WX 547 ; N beta ; B 39 -234 508 781 ;
+C -1 ; WX 547 ; N ccircumflex ; B 39 0 504 762 ;
+C -1 ; WX 547 ; N cdotaccent ; B 39 0 504 723 ;
+C -1 ; WX 547 ; N cent ; B 42 -156 508 703 ;
+C -1 ; WX 547 ; N chi ; B 39 -234 508 547 ;
+C -1 ; WX 391 ; N circumflex ; B 39 605 352 762 ;
+C -1 ; WX 312 ; N commaaccent ; B 40 -215 274 -18 ;
+C -1 ; WX 625 ; N d.001 ; B 39 0 586 782 ;
+C -1 ; WX 625 ; N delta ; B 39 0 586 781 ;
+C -1 ; WX 469 ; N dieresistonos ; B 29 586 439 781 ;
+C -1 ; WX 234 ; N dotlessi ; B 78 0 156 547 ;
+C -1 ; WX 625 ; N e.001 ; B 39 0 586 547 ;
+C -1 ; WX 625 ; N ebreve ; B 39 0 586 762 ;
+C -1 ; WX 625 ; N ecircumflex ; B 39 0 586 762 ;
+C -1 ; WX 625 ; N edotaccent ; B 39 0 586 723 ;
+C -1 ; WX 625 ; N egrave ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N emacron ; B 39 0 586 703 ;
+C -1 ; WX 586 ; N eng ; B 39 -234 547 547 ;
+C -1 ; WX 430 ; N epsilon ; B 39 0 401 547 ;
+C -1 ; WX 430 ; N epsilontonos ; B 39 0 401 781 ;
+C -1 ; WX 508 ; N equivalence ; B 39 117 469 586 ;
+C -1 ; WX 625 ; N estimated ; B 39 0 586 547 ;
+C -1 ; WX 586 ; N eta ; B 39 -234 547 547 ;
+C -1 ; WX 586 ; N etatonos ; B 39 -234 547 781 ;
+C -1 ; WX 625 ; N eth ; B 39 0 586 782 ;
+C -1 ; WX 391 ; N exclamdbl ; B 39 0 351 781 ;
+C -1 ; WX 195 ; N exclamdown ; B 39 -234 156 546 ;
+C -1 ; WX 898 ; N fiveeighths ; B 39 0 867 781 ;
+C -1 ; WX 469 ; N florin ; B 0 -234 469 781 ;
+C -1 ; WX 312 ; N fraction ; B -195 0 508 781 ;
+C -1 ; WX 742 ; N franc ; B 39 0 703 781 ;
+C -1 ; WX 625 ; N g.001 ; B 39 -234 586 547 ;
+C -1 ; WX 586 ; N gamma ; B 39 -234 547 547 ;
+C -1 ; WX 625 ; N gbreve ; B 39 -234 586 762 ;
+C -1 ; WX 625 ; N gcircumflex ; B 39 -234 586 762 ;
+C -1 ; WX 625 ; N gcommaaccent ; B 39 -234 586 908 ;
+C -1 ; WX 625 ; N gdotaccent ; B 39 -234 586 723 ;
+C -1 ; WX 547 ; N greaterequal ; B 39 40 508 703 ;
+C -1 ; WX 645 ; N hbar ; B 20 0 605 781 ;
+C -1 ; WX 586 ; N hcircumflex ; B 39 0 547 996 ;
+C -1 ; WX 273 ; N ibreve ; B -19 0 294 762 ;
+C -1 ; WX 293 ; N idieresis ; B -18 0 314 713 ;
+C -1 ; WX 234 ; N igrave ; B 0 0 195 781 ;
+C -1 ; WX 430 ; N ij ; B 68 -234 361 713 ;
+C -1 ; WX 273 ; N imacron ; B -19 0 294 703 ;
+C -1 ; WX 703 ; N increment ; B 39 0 664 781 ;
+C -1 ; WX 781 ; N infinity ; B 39 156 742 547 ;
+C -1 ; WX 547 ; N integral ; B 40 -107 506 894 ;
+C -1 ; WX 625 ; N intersection ; B 39 0 586 781 ;
+C -1 ; WX 234 ; N iogonek ; B 0 -195 234 713 ;
+C -1 ; WX 234 ; N iota ; B 78 0 156 547 ;
+C -1 ; WX 293 ; N iotadieresis ; B -20 0 313 713 ;
+C -1 ; WX 371 ; N iotadieresistonos ; B -20 0 391 781 ;
+C -1 ; WX 234 ; N iotatonos ; B 39 0 234 781 ;
+C -1 ; WX 352 ; N itilde ; B -21 0 374 740 ;
+C -1 ; WX 320 ; N j.001 ; B 0 -234 283 713 ;
+C -1 ; WX 371 ; N jcircumflex ; B 0 -234 391 757 ;
+C -1 ; WX 547 ; N kappa ; B 39 0 508 547 ;
+C -1 ; WX 547 ; N kcommaaccent ; B 39 -215 508 781 ;
+C -1 ; WX 547 ; N kgreenlandic ; B 39 0 508 547 ;
+C -1 ; WX 547 ; N lambda ; B 39 0 508 781 ;
+C -1 ; WX 234 ; N lcommaaccent ; B 1 -215 235 781 ;
+C -1 ; WX 312 ; N ldot ; B 39 0 273 781 ;
+C -1 ; WX 547 ; N lessequal ; B 39 40 508 703 ;
+C -1 ; WX 508 ; N lira ; B 39 0 469 781 ;
+C -1 ; WX 312 ; N longs ; B 39 0 313 781 ;
+C -1 ; WX 547 ; N minus ; B 39 313 508 391 ;
+C -1 ; WX 195 ; N minute ; B 35 576 156 781 ;
+C -1 ; WX 703 ; N napostrophe ; B 41 0 665 781 ;
+C -1 ; WX 586 ; N ncommaaccent ; B 39 -215 547 547 ;
+C -1 ; WX 508 ; N notequal ; B 39 0 469 703 ;
+C -1 ; WX 586 ; N ntilde ; B 39 0 547 740 ;
+C -1 ; WX 586 ; N nu ; B 39 0 547 547 ;
+C -1 ; WX 625 ; N obreve ; B 39 0 586 762 ;
+C -1 ; WX 1094 ; N oe ; B 39 0 1055 547 ;
+C -1 ; WX 625 ; N ograve ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N omacron ; B 39 0 586 703 ;
+C -1 ; WX 703 ; N omega ; B 39 0 664 547 ;
+C -1 ; WX 703 ; N omegatonos ; B 39 0 664 781 ;
+C -1 ; WX 625 ; N omicron ; B 39 0 586 547 ;
+C -1 ; WX 625 ; N omicrontonos ; B 39 0 586 781 ;
+C -1 ; WX 781 ; N oneeighth ; B 39 0 742 782 ;
+C -1 ; WX 781 ; N onehalf ; B 39 0 742 782 ;
+C -1 ; WX 703 ; N onequarter ; B 39 0 664 782 ;
+C -1 ; WX 469 ; N ordfeminine ; B 39 391 430 781 ;
+C -1 ; WX 312 ; N ordmasculine ; B 39 393 272 781 ;
+C -1 ; WX 703 ; N orthogonal ; B 39 0 664 625 ;
+C -1 ; WX 625 ; N oslash ; B 39 0 586 547 ;
+C -1 ; WX 625 ; N oslashacute ; B 39 0 586 781 ;
+C -1 ; WX 625 ; N otilde ; B 39 0 586 740 ;
+C -1 ; WX 547 ; N overscore ; B 39 859 508 938 ;
+C -1 ; WX 625 ; N p.001 ; B 39 -234 586 547 ;
+C -1 ; WX 625 ; N partialdiff ; B 39 0 586 781 ;
+C -1 ; WX 977 ; N peseta ; B 39 0 938 781 ;
+C -1 ; WX 625 ; N phi ; B 39 -234 586 547 ;
+C -1 ; WX 625 ; N pi ; B 39 0 586 547 ;
+C -1 ; WX 703 ; N product ; B 39 -234 664 781 ;
+C -1 ; WX 703 ; N psi ; B 39 -234 664 547 ;
+C -1 ; WX 625 ; N q.001 ; B 39 -234 586 547 ;
+C -1 ; WX 547 ; N questiondown ; B 39 -234 508 546 ;
+C -1 ; WX 234 ; N quotereversed ; B 59 459 182 781 ;
+C -1 ; WX 781 ; N radical ; B 39 0 742 859 ;
+C -1 ; WX 469 ; N rcommaaccent ; B 39 -215 445 547 ;
+C -1 ; WX 625 ; N rho ; B 39 -234 586 547 ;
+C -1 ; WX 273 ; N ring ; B 39 584 236 781 ;
+C -1 ; WX 518 ; N scircumflex ; B 39 0 479 762 ;
+C -1 ; WX 352 ; N second ; B 35 576 313 781 ;
+C -1 ; WX 781 ; N seveneighths ; B 39 0 742 781 ;
+C -1 ; WX 703 ; N sigma ; B 39 0 664 547 ;
+C -1 ; WX 508 ; N sigma1 ; B 39 -234 469 547 ;
+C -1 ; WX 508 ; N sterling ; B 39 0 469 781 ;
+C -1 ; WX 703 ; N summation ; B 39 -234 664 781 ;
+C -1 ; WX 547 ; N tau ; B 39 0 508 547 ;
+C -1 ; WX 391 ; N tbar ; B 39 0 352 781 ;
+C -1 ; WX 547 ; N theta ; B 39 0 508 781 ;
+C -1 ; WX 625 ; N thorn ; B 39 -234 586 782 ;
+C -1 ; WX 859 ; N threeeighths ; B 39 0 828 781 ;
+C -1 ; WX 781 ; N threequarters ; B 39 0 742 781 ;
+C -1 ; WX 469 ; N tilde ; B 35 606 430 740 ;
+C -1 ; WX 273 ; N tonos ; B 39 586 234 781 ;
+C -1 ; WX 586 ; N ubreve ; B 39 0 547 762 ;
+C -1 ; WX 586 ; N ucircumflex ; B 39 0 547 762 ;
+C -1 ; WX 586 ; N ugrave ; B 39 0 547 781 ;
+C -1 ; WX 586 ; N umacron ; B 39 0 547 703 ;
+C -1 ; WX 464 ; N underscoredbl ; B -39 -214 508 0 ;
+C -1 ; WX 312 ; N uni00B2 ; B 39 395 271 781 ;
+C -1 ; WX 312 ; N uni00B3 ; B 39 392 273 781 ;
+C -1 ; WX 234 ; N uni00B9 ; B 59 393 156 781 ;
+C -1 ; WX 625 ; N uni0259 ; B 39 0 586 547 ;
+C -1 ; WX 391 ; N uni02C9 ; B 39 625 352 703 ;
+C -1 ; WX 703 ; N uni0394 ; B 39 0 664 781 ;
+C -1 ; WX 859 ; N uni03A9 ; B 39 0 820 781 ;
+C -1 ; WX 585 ; N uni03BC ; B 39 -234 547 547 ;
+C -1 ; WX 664 ; N uni0492 ; B 39 0 625 781 ;
+C -1 ; WX 508 ; N uni0493 ; B 39 0 469 547 ;
+C -1 ; WX 1016 ; N uni0496 ; B 39 -156 977 781 ;
+C -1 ; WX 859 ; N uni0497 ; B 39 -156 820 547 ;
+C -1 ; WX 586 ; N uni049A ; B 39 -156 547 781 ;
+C -1 ; WX 508 ; N uni049B ; B 39 -156 469 547 ;
+C -1 ; WX 586 ; N uni049C ; B 39 0 547 781 ;
+C -1 ; WX 508 ; N uni049D ; B 39 0 469 547 ;
+C -1 ; WX 703 ; N uni04A2 ; B 39 -156 664 781 ;
+C -1 ; WX 586 ; N uni04A3 ; B 39 -156 566 547 ;
+C -1 ; WX 625 ; N uni04AE ; B 39 0 586 781 ;
+C -1 ; WX 586 ; N uni04AF ; B 39 -234 547 547 ;
+C -1 ; WX 625 ; N uni04B0 ; B 39 0 586 781 ;
+C -1 ; WX 586 ; N uni04B1 ; B 39 -234 547 547 ;
+C -1 ; WX 703 ; N uni04B2 ; B 39 -156 664 781 ;
+C -1 ; WX 547 ; N uni04B3 ; B 39 -156 508 547 ;
+C -1 ; WX 625 ; N uni04B8 ; B 39 0 586 781 ;
+C -1 ; WX 508 ; N uni04B9 ; B 39 0 469 547 ;
+C -1 ; WX 625 ; N uni04BA ; B 39 0 586 781 ;
+C -1 ; WX 586 ; N uni04BB ; B 39 0 547 781 ;
+C -1 ; WX 859 ; N uni04D8 ; B 39 0 820 781 ;
+C -1 ; WX 859 ; N uni04E8 ; B 39 0 820 781 ;
+C -1 ; WX 625 ; N uni04E9 ; B 39 0 586 547 ;
+C -1 ; WX 469 ; N uni203E ; B -39 859 508 937 ;
+C -1 ; WX 332 ; N uni207F ; B 39 391 293 664 ;
+C -1 ; WX 547 ; N uniF001 ; B 39 0 518 781 ;
+C -1 ; WX 586 ; N uniF002 ; B 39 0 547 781 ;
+C -1 ; WX 625 ; N uogonek ; B 39 -195 625 547 ;
+C -1 ; WX 586 ; N upsilon ; B 39 0 547 547 ;
+C -1 ; WX 586 ; N upsilondieresis ; B 39 0 547 713 ;
+C -1 ; WX 586 ; N upsilondieresistonos ; B 39 0 547 781 ;
+C -1 ; WX 586 ; N upsilontonos ; B 39 0 547 781 ;
+C -1 ; WX 586 ; N utilde ; B 39 0 547 740 ;
+C -1 ; WX 781 ; N wacute ; B 39 0 742 781 ;
+C -1 ; WX 781 ; N wcircumflex ; B 39 0 742 762 ;
+C -1 ; WX 781 ; N wdieresis ; B 39 0 742 713 ;
+C -1 ; WX 781 ; N wgrave ; B 39 0 742 781 ;
+C -1 ; WX 469 ; N xi ; B 39 -234 449 781 ;
+C -1 ; WX 547 ; N y.001 ; B 39 -234 508 547 ;
+C -1 ; WX 547 ; N ycircumflex ; B 39 -234 508 762 ;
+C -1 ; WX 547 ; N ydieresis ; B 39 -234 508 713 ;
+C -1 ; WX 625 ; N yen ; B 39 0 586 781 ;
+C -1 ; WX 547 ; N ygrave ; B 39 -234 508 781 ;
+C -1 ; WX 547 ; N zeta ; B 39 -234 508 781 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 5537
+KPX plus j.001 -50
+
+KPX period j.001 -10
+
+KPX four five -10
+
+KPX seven eight -40
+
+KPX A C -48
+KPX A G -80
+KPX A O -58
+KPX A Q -48
+KPX A S -16
+KPX A T -180
+KPX A V -172
+KPX A W -139
+KPX A Y -173
+KPX A f -36
+KPX A j.001 -120
+KPX A t -72
+KPX A v -110
+KPX A w -97
+KPX A y.001 -125
+KPX A Ccedilla -48
+KPX A Eth -40
+KPX A Ograve -48
+KPX A Oacute -48
+KPX A Ocircumflex -48
+KPX A Otilde -48
+KPX A Odieresis -48
+KPX A Yacute -173
+KPX A yacute -125
+KPX A ydieresis -125
+KPX A florin -130
+
+KPX B C -6
+KPX B H -6
+KPX B O -6
+KPX B T -89
+KPX B V -82
+KPX B W -71
+KPX B Y -82
+KPX B j.001 -142
+KPX B x -32
+KPX B y.001 -41
+KPX B Yacute -86
+KPX B yacute -32
+KPX B ydieresis -32
+KPX B florin -90
+
+KPX C C -38
+KPX C G -38
+KPX C O -38
+KPX C Q -38
+KPX C f -44
+KPX C j.001 -125
+KPX C t -20
+KPX C v -51
+KPX C w -70
+KPX C y.001 -57
+KPX C Ccedilla -38
+KPX C Ograve -38
+KPX C Oacute -38
+KPX C Ocircumflex -38
+KPX C Otilde -38
+KPX C Odieresis -38
+KPX C yacute -39
+KPX C ydieresis -30
+KPX C florin -105
+
+KPX D A -74
+KPX D T -86
+KPX D V -62
+KPX D X -86
+KPX D Y -85
+KPX D Z -101
+KPX D j.001 -135
+KPX D Agrave -91
+KPX D Aacute -91
+KPX D Acircumflex -91
+KPX D Atilde -91
+KPX D Adieresis -91
+KPX D Aring -91
+KPX D AE -91
+KPX D Yacute -85
+KPX D Zdotaccent -77
+KPX D Zcaron -77
+KPX D AEacute -91
+
+KPX E C -72
+KPX E G -72
+KPX E O -72
+KPX E Q -72
+KPX E c -32
+KPX E f -30
+KPX E j.001 -104
+KPX E t -45
+KPX E v -70
+KPX E w -81
+KPX E y.001 -75
+KPX E Ccedilla -72
+KPX E Eth -40
+KPX E Ograve -63
+KPX E Oacute -72
+KPX E Ocircumflex -72
+KPX E Otilde -63
+KPX E Odieresis -72
+KPX E ae -23
+KPX E ccedilla -72
+KPX E eth -28
+KPX E yacute -53
+KPX E ydieresis -32
+KPX E florin -91
+
+KPX F A -89
+KPX F C -63
+KPX F G -70
+KPX F J -72
+KPX F O -63
+KPX F Q -63
+KPX F S -48
+KPX F a.001 -101
+KPX F c -106
+KPX F d.001 -110
+KPX F e.001 -101
+KPX F f -77
+KPX F g.001 -79
+KPX F j.001 -108
+KPX F m -66
+KPX F n -63
+KPX F o -79
+KPX F p.001 -79
+KPX F q.001 -79
+KPX F r -62
+KPX F s -62
+KPX F t -30
+KPX F u -87
+KPX F v -94
+KPX F w -81
+KPX F x -124
+KPX F y.001 -109
+KPX F z -29
+KPX F Agrave -89
+KPX F Aacute -85
+KPX F Acircumflex -89
+KPX F Atilde -82
+KPX F Adieresis -89
+KPX F Aring -97
+KPX F AE -139
+KPX F Ccedilla -63
+KPX F Eth -24
+KPX F Ograve -63
+KPX F Oacute -63
+KPX F Ocircumflex -63
+KPX F Otilde -63
+KPX F Odieresis -63
+KPX F Oslash -63
+KPX F agrave -79
+KPX F aacute -79
+KPX F acircumflex -79
+KPX F adieresis -63
+KPX F aring -79
+KPX F ae -85
+KPX F ccedilla -78
+KPX F egrave -79
+KPX F eacute -79
+KPX F ecircumflex -79
+KPX F edieresis -63
+KPX F eth -74
+KPX F ograve -79
+KPX F oacute -79
+KPX F ocircumflex -79
+KPX F odieresis -63
+KPX F oslash -79
+KPX F ugrave -63
+KPX F uacute -63
+KPX F ucircumflex -48
+KPX F udieresis -32
+KPX F yacute -109
+KPX F ydieresis -32
+KPX F dotlessi -96
+KPX F zacute -124
+KPX F zdotaccent -121
+KPX F florin -153
+KPX F Aringacute -161
+KPX F aringacute -69
+KPX F AEacute -223
+KPX F aeacute -69
+KPX F Oslashacute -53
+KPX F oslashacute -69
+
+KPX G O -4
+KPX G f -29
+KPX G j.001 -97
+KPX G t -29
+KPX G florin -91
+
+KPX H j.001 -78
+
+KPX I I -13
+KPX I J -20
+KPX I j.001 -94
+KPX I Igrave -29
+KPX I Iacute -32
+KPX I Icircumflex -36
+KPX I Idieresis -25
+KPX I dotlessi -25
+KPX I florin -46
+
+KPX J j.001 -71
+
+KPX K C -95
+KPX K G -101
+KPX K O -86
+KPX K Q -86
+KPX K a.001 -43
+KPX K c -40
+KPX K d.001 -43
+KPX K e.001 -41
+KPX K f -32
+KPX K j.001 -88
+KPX K o -41
+KPX K q.001 -41
+KPX K t -35
+KPX K v -57
+KPX K w -88
+KPX K y.001 -35
+KPX K Ccedilla -51
+KPX K Ograve -86
+KPX K Oacute -86
+KPX K Ocircumflex -86
+KPX K Otilde -86
+KPX K Odieresis -86
+KPX K agrave -49
+KPX K aacute -41
+KPX K acircumflex -37
+KPX K atilde -34
+KPX K adieresis -41
+KPX K aring -37
+KPX K ae -46
+KPX K ccedilla -42
+KPX K egrave -37
+KPX K eacute -37
+KPX K ecircumflex -46
+KPX K edieresis -46
+KPX K eth -42
+KPX K ograve -37
+KPX K oacute -43
+KPX K ocircumflex -41
+KPX K otilde -37
+KPX K odieresis -46
+KPX K yacute -70
+KPX K ydieresis -77
+KPX K florin -83
+
+KPX L C -81
+KPX L G -74
+KPX L O -81
+KPX L Q -70
+KPX L T -154
+KPX L U -39
+KPX L V -135
+KPX L W -112
+KPX L Y -151
+KPX L a.001 -25
+KPX L b.001 -25
+KPX L c -40
+KPX L d.001 -25
+KPX L e.001 -25
+KPX L f -22
+KPX L j.001 -108
+KPX L o -25
+KPX L q.001 -25
+KPX L t -53
+KPX L v -116
+KPX L w -88
+KPX L y.001 -71
+KPX L Ccedilla -69
+KPX L Ograve -81
+KPX L Oacute -77
+KPX L Ocircumflex -89
+KPX L Otilde -74
+KPX L Odieresis -92
+KPX L Ugrave -39
+KPX L Uacute -39
+KPX L Ucircumflex -39
+KPX L Udieresis -39
+KPX L Yacute -135
+KPX L agrave -25
+KPX L aacute -25
+KPX L acircumflex -25
+KPX L atilde -25
+KPX L adieresis -25
+KPX L aring -25
+KPX L ae -31
+KPX L ccedilla -40
+KPX L egrave -25
+KPX L eacute -25
+KPX L ecircumflex -25
+KPX L edieresis -25
+KPX L eth -20
+KPX L ograve -25
+KPX L oacute -25
+KPX L ocircumflex -25
+KPX L otilde -25
+KPX L odieresis -25
+KPX L yacute -64
+KPX L ydieresis -75
+KPX L florin -83
+
+KPX M j.001 -92
+
+KPX N j.001 -86
+
+KPX O A -64
+KPX O S -32
+KPX O T -52
+KPX O U 4
+KPX O V -64
+KPX O W -36
+KPX O X -109
+KPX O Y -109
+KPX O Z -110
+KPX O j.001 -125
+KPX O Agrave -64
+KPX O Aacute -64
+KPX O Acircumflex -64
+KPX O Atilde -64
+KPX O Adieresis -64
+KPX O Aring -64
+KPX O AE -81
+KPX O Yacute -109
+KPX O Zdotaccent -72
+KPX O Zcaron -72
+KPX O AEacute -42
+
+KPX P A -110
+KPX P J -86
+KPX P T -27
+KPX P X -26
+KPX P Y -26
+KPX P Z -27
+KPX P e.001 -26
+KPX P j.001 -119
+KPX P Agrave -95
+KPX P Aacute -118
+KPX P Acircumflex -122
+KPX P Atilde -103
+KPX P Adieresis -99
+KPX P Aring -114
+KPX P AE -157
+KPX P Yacute -26
+KPX P Aringacute -79
+KPX P AEacute -140
+
+KPX Q T -68
+KPX Q V -64
+KPX Q W -36
+KPX Q Y -109
+KPX Q j.001 -80
+KPX Q Yacute -109
+
+KPX R G -37
+KPX R J -46
+KPX R S -18
+KPX R T -54
+KPX R U -10
+KPX R V -39
+KPX R Y -54
+KPX R a.001 -49
+KPX R c -52
+KPX R d.001 -43
+KPX R e.001 -46
+KPX R j.001 -73
+KPX R o -43
+KPX R q.001 -37
+KPX R Yacute -54
+KPX R agrave -41
+KPX R aacute -43
+KPX R acircumflex -37
+KPX R atilde -37
+KPX R adieresis -37
+KPX R aring -37
+KPX R ae -40
+KPX R ccedilla -40
+KPX R egrave -41
+KPX R eacute -46
+KPX R ecircumflex -43
+KPX R edieresis -41
+KPX R eth -36
+KPX R ograve -46
+KPX R oacute -46
+KPX R ocircumflex -41
+KPX R otilde -34
+KPX R odieresis -37
+KPX R florin -52
+
+KPX S T -10
+KPX S j.001 -87
+KPX S y.001 -33
+KPX S yacute -33
+KPX S ydieresis -33
+KPX S florin -91
+
+KPX T A -158
+KPX T C -93
+KPX T G -78
+KPX T J -131
+KPX T O -63
+KPX T Q -82
+KPX T S -22
+KPX T a.001 -135
+KPX T c -150
+KPX T d.001 -116
+KPX T e.001 -139
+KPX T f -93
+KPX T g.001 -119
+KPX T j.001 -132
+KPX T m -100
+KPX T n -89
+KPX T o -116
+KPX T p.001 -119
+KPX T q.001 -126
+KPX T r -46
+KPX T s -67
+KPX T t -23
+KPX T u -56
+KPX T v -74
+KPX T w -56
+KPX T x -67
+KPX T y.001 -71
+KPX T z -44
+KPX T Agrave -82
+KPX T Aacute -74
+KPX T Acircumflex -78
+KPX T Atilde -93
+KPX T Adieresis -86
+KPX T Aring -93
+KPX T AE -135
+KPX T Ccedilla -46
+KPX T Ograve -74
+KPX T Oacute -85
+KPX T Ocircumflex -74
+KPX T Otilde -78
+KPX T Odieresis -85
+KPX T Oslash -85
+KPX T agrave -104
+KPX T aacute -116
+KPX T acircumflex -85
+KPX T atilde -72
+KPX T adieresis -116
+KPX T aring -55
+KPX T ae -135
+KPX T ccedilla -136
+KPX T egrave -104
+KPX T eacute -116
+KPX T ecircumflex -85
+KPX T edieresis -116
+KPX T idieresis -8
+KPX T eth -85
+KPX T ograve -85
+KPX T oacute -78
+KPX T ocircumflex -85
+KPX T otilde -25
+KPX T odieresis -74
+KPX T oslash -74
+KPX T ugrave -40
+KPX T uacute -71
+KPX T ucircumflex -85
+KPX T udieresis -59
+KPX T yacute -83
+KPX T ydieresis -79
+KPX T dotlessi -141
+KPX T zacute -169
+KPX T zdotaccent -123
+KPX T florin -146
+KPX T Aringacute -154
+KPX T aringacute -108
+KPX T AEacute -185
+KPX T aeacute -185
+KPX T Oslashacute -92
+KPX T oslashacute -185
+
+KPX U N 10
+KPX U j.001 -91
+
+KPX V A -113
+KPX V C -48
+KPX V G -48
+KPX V J -104
+KPX V O -80
+KPX V Q -34
+KPX V S -31
+KPX V a.001 -95
+KPX V c -109
+KPX V d.001 -95
+KPX V e.001 -95
+KPX V f -46
+KPX V g.001 -95
+KPX V j.001 -132
+KPX V m -37
+KPX V o -95
+KPX V p.001 -95
+KPX V q.001 -95
+KPX V r -32
+KPX V s -78
+KPX V t -31
+KPX V w -36
+KPX V x -48
+KPX V y.001 -33
+KPX V z -33
+KPX V Agrave -113
+KPX V Aacute -113
+KPX V Acircumflex -113
+KPX V Atilde -113
+KPX V Adieresis -113
+KPX V Aring -113
+KPX V AE -117
+KPX V Ccedilla -48
+KPX V Eth -25
+KPX V Ograve -34
+KPX V Oacute -34
+KPX V Ocircumflex -34
+KPX V Otilde -34
+KPX V Odieresis -34
+KPX V Oslash -34
+KPX V agrave -95
+KPX V aacute -95
+KPX V acircumflex -80
+KPX V adieresis -64
+KPX V aring -95
+KPX V ae -101
+KPX V ccedilla -63
+KPX V egrave -95
+KPX V eacute -95
+KPX V ecircumflex -80
+KPX V edieresis -64
+KPX V eth -105
+KPX V ograve -95
+KPX V oacute -95
+KPX V ocircumflex -80
+KPX V odieresis -64
+KPX V oslash -95
+KPX V yacute -33
+KPX V ydieresis -33
+KPX V dotlessi -66
+KPX V florin -108
+KPX V Aringacute -162
+KPX V aringacute -85
+KPX V AEacute -193
+KPX V aeacute -85
+KPX V oslashacute -85
+
+KPX W A -74
+KPX W C -49
+KPX W G -49
+KPX W J -93
+KPX W O -35
+KPX W Q -35
+KPX W S -32
+KPX W a.001 -65
+KPX W c -80
+KPX W d.001 -65
+KPX W e.001 -65
+KPX W f -32
+KPX W g.001 -65
+KPX W j.001 -108
+KPX W m -22
+KPX W o -65
+KPX W p.001 -65
+KPX W q.001 -65
+KPX W r -33
+KPX W s -64
+KPX W t -32
+KPX W w -21
+KPX W x -34
+KPX W y.001 -34
+KPX W z -34
+KPX W Agrave -78
+KPX W Aacute -78
+KPX W Acircumflex -89
+KPX W Atilde -78
+KPX W Adieresis -66
+KPX W Aring -93
+KPX W AE -82
+KPX W Ccedilla -49
+KPX W Ograve -35
+KPX W Oacute -35
+KPX W Ocircumflex -35
+KPX W Otilde -35
+KPX W Odieresis -35
+KPX W Oslash -35
+KPX W agrave -65
+KPX W aacute -65
+KPX W acircumflex -65
+KPX W atilde -35
+KPX W adieresis -65
+KPX W aring -65
+KPX W ae -87
+KPX W ccedilla -80
+KPX W egrave -65
+KPX W eacute -65
+KPX W ecircumflex -65
+KPX W edieresis -65
+KPX W eth -76
+KPX W ograve -65
+KPX W oacute -65
+KPX W ocircumflex -65
+KPX W otilde -35
+KPX W odieresis -65
+KPX W oslash -65
+KPX W yacute -34
+KPX W ydieresis -34
+KPX W dotlessi -52
+KPX W florin -81
+KPX W Aringacute -104
+KPX W AEacute -104
+
+KPX X C -95
+KPX X G -68
+KPX X O -80
+KPX X Q -80
+KPX X c -33
+KPX X f -32
+KPX X j.001 -65
+KPX X t -32
+KPX X v -80
+KPX X w -98
+KPX X y.001 -50
+KPX X Ccedilla -56
+KPX X Eth -26
+KPX X Ograve -53
+KPX X Oacute -80
+KPX X Ocircumflex -53
+KPX X Otilde -53
+KPX X Odieresis -80
+KPX X ae -40
+KPX X ccedilla -33
+KPX X eth -29
+KPX X yacute -63
+KPX X ydieresis -54
+KPX X florin -92
+
+KPX Y A -117
+KPX Y C -78
+KPX Y G -78
+KPX Y J -94
+KPX Y O -63
+KPX Y Q -63
+KPX Y S -30
+KPX Y a.001 -83
+KPX Y c -79
+KPX Y d.001 -79
+KPX Y e.001 -79
+KPX Y f -77
+KPX Y g.001 -82
+KPX Y j.001 -98
+KPX Y m -82
+KPX Y n -63
+KPX Y o -94
+KPX Y p.001 -82
+KPX Y q.001 -89
+KPX Y r -77
+KPX Y s -64
+KPX Y t -30
+KPX Y u -63
+KPX Y v -63
+KPX Y w -81
+KPX Y x -78
+KPX Y y.001 -78
+KPX Y z -78
+KPX Y Agrave -94
+KPX Y Aacute -79
+KPX Y Acircumflex -79
+KPX Y Atilde -79
+KPX Y Adieresis -79
+KPX Y Aring -79
+KPX Y AE -79
+KPX Y Ccedilla -78
+KPX Y Eth -24
+KPX Y Ograve -63
+KPX Y Oacute -63
+KPX Y Ocircumflex -63
+KPX Y Otilde -63
+KPX Y Odieresis -63
+KPX Y Oslash -63
+KPX Y agrave -79
+KPX Y aacute -79
+KPX Y acircumflex -64
+KPX Y atilde -33
+KPX Y adieresis -64
+KPX Y aring -48
+KPX Y ae -79
+KPX Y ccedilla -83
+KPX Y egrave -79
+KPX Y eacute -79
+KPX Y ecircumflex -64
+KPX Y edieresis -64
+KPX Y eth -79
+KPX Y ograve -79
+KPX Y oacute -79
+KPX Y ocircumflex -64
+KPX Y otilde -33
+KPX Y odieresis -64
+KPX Y oslash -79
+KPX Y ugrave -63
+KPX Y uacute -63
+KPX Y ucircumflex -63
+KPX Y udieresis -48
+KPX Y yacute -78
+KPX Y ydieresis -47
+KPX Y dotlessi -111
+KPX Y zacute -53
+KPX Y zdotaccent -53
+KPX Y florin -137
+KPX Y Aringacute -161
+KPX Y aringacute -100
+KPX Y AEacute -161
+KPX Y aeacute -161
+KPX Y Oslashacute -53
+KPX Y oslashacute -161
+
+KPX Z C -94
+KPX Z G -94
+KPX Z O -80
+KPX Z Q -80
+KPX Z a.001 -34
+KPX Z c -48
+KPX Z d.001 -34
+KPX Z e.001 -34
+KPX Z f -31
+KPX Z j.001 -56
+KPX Z o -34
+KPX Z q.001 -34
+KPX Z t -31
+KPX Z v -79
+KPX Z w -97
+KPX Z y.001 -94
+KPX Z Ccedilla -94
+KPX Z Eth -25
+KPX Z Ograve -80
+KPX Z Oacute -80
+KPX Z Ocircumflex -80
+KPX Z Otilde -80
+KPX Z Odieresis -80
+KPX Z agrave -34
+KPX Z aacute -34
+KPX Z acircumflex -34
+KPX Z adieresis -34
+KPX Z aring -34
+KPX Z ae -40
+KPX Z ccedilla -48
+KPX Z egrave -34
+KPX Z eacute -34
+KPX Z ecircumflex -34
+KPX Z edieresis -34
+KPX Z eth -29
+KPX Z ograve -34
+KPX Z oacute -34
+KPX Z ocircumflex -34
+KPX Z odieresis -34
+KPX Z yacute -94
+KPX Z ydieresis -33
+KPX Z florin -92
+
+KPX underscore underscore -19
+
+KPX a d.001 -10
+KPX a j.001 -120
+KPX a j -54
+
+KPX b j -60
+KPX b t -20
+
+KPX c T -137
+KPX c V -60
+KPX c Y -72
+KPX c d.001 -10
+KPX c j.001 -84
+KPX c Yacute -72
+KPX c j -50
+KPX c one -50
+
+KPX d j -40
+
+KPX e v -40
+KPX e f -10
+KPX e j -70
+KPX e t -36
+
+KPX f A -61
+KPX f J -87
+KPX f e.001 -28
+KPX f g.001 -40
+KPX f j.001 -110
+KPX f o -36
+KPX f Agrave -61
+KPX f Aacute -38
+KPX f Acircumflex -38
+KPX f Atilde -38
+KPX f Adieresis -38
+KPX f Aring -38
+KPX f AE -68
+KPX f Aringacute -81
+KPX f AEacute -81
+KPX f a -10
+KPX f g -40
+KPX f j -50
+
+KPX g j -20
+
+KPX h T -150
+KPX h V -114
+KPX h W -70
+KPX h Y -127
+KPX h f -21
+KPX h i -40
+KPX h j.001 -116
+KPX h t -36
+KPX h v -22
+KPX h y.001 -22
+KPX h Yacute -127
+KPX h icircumflex -21
+KPX h idieresis -24
+KPX h yacute -22
+KPX h ydieresis -22
+KPX h florin -67
+KPX h j -50
+
+KPX i c -22
+KPX i e.001 -22
+KPX i j.001 -130
+KPX i florin -81
+KPX i j -100
+
+KPX j j -10
+
+KPX k T -123
+KPX k V -44
+KPX k Y -90
+KPX k a.001 -31
+KPX k c -45
+KPX k d.001 -31
+KPX k e.001 -31
+KPX k j.001 -110
+KPX k o -31
+KPX k q.001 -31
+KPX k Yacute -90
+KPX k agrave -31
+KPX k aacute -31
+KPX k acircumflex -31
+KPX k atilde -31
+KPX k adieresis -31
+KPX k aring -31
+KPX k ae -37
+KPX k ccedilla -45
+KPX k egrave -31
+KPX k eacute -31
+KPX k ecircumflex -31
+KPX k edieresis -31
+KPX k eth -26
+KPX k ograve -31
+KPX k oacute -31
+KPX k ocircumflex -31
+KPX k otilde -31
+KPX k odieresis -31
+KPX k j -56
+
+KPX l j.001 -80
+KPX l ae -20
+KPX l florin -85
+KPX l a 6
+KPX l j -60
+
+KPX m T -127
+KPX m V -107
+KPX m W -63
+KPX m Y -108
+KPX m j.001 -110
+KPX m t -29
+KPX m y.001 -31
+KPX m Yacute -112
+KPX m icircumflex -29
+KPX m idieresis -33
+KPX m yacute -31
+KPX m ydieresis -31
+KPX m florin -49
+
+KPX n T -108
+KPX n V -114
+KPX n W -70
+KPX n Y -93
+KPX n f -21
+KPX n j.001 -110
+KPX n t -36
+KPX n v -22
+KPX n y.001 -22
+KPX n Yacute -108
+KPX n icircumflex -21
+KPX n idieresis -24
+KPX n yacute -22
+KPX n ydieresis -22
+KPX n florin -67
+KPX n j -50
+
+KPX o A -29
+KPX o T -125
+KPX o V -122
+KPX o W -78
+KPX o X -60
+KPX o Y -110
+KPX o Z -60
+KPX o f -28
+KPX o j.001 -120
+KPX o t -44
+KPX o v -44
+KPX o w -26
+KPX o x -45
+KPX o y.001 -30
+KPX o z -45
+KPX o Agrave -29
+KPX o Aacute -29
+KPX o Acircumflex -29
+KPX o Atilde -29
+KPX o Adieresis -29
+KPX o Aring -29
+KPX o AE -31
+KPX o Yacute -110
+KPX o icircumflex -28
+KPX o idieresis -32
+KPX o yacute -30
+KPX o ydieresis -30
+KPX o florin -76
+KPX o j -60
+
+KPX p j -70
+KPX p t -20
+
+KPX r A -90
+KPX r J -114
+KPX r T -109
+KPX r V -29
+KPX r X -105
+KPX r Y -75
+KPX r Z -98
+KPX r c -30
+KPX r g.001 -40
+KPX r j.001 -100
+KPX r o -30
+KPX r s -12
+KPX r Agrave -90
+KPX r Aacute -90
+KPX r Acircumflex -90
+KPX r Atilde -90
+KPX r Adieresis -90
+KPX r Aring -90
+KPX r AE -117
+KPX r Yacute -75
+KPX r Zdotaccent -127
+KPX r Zcaron -125
+KPX r Aringacute -66
+KPX r AEacute -143
+KPX r g -40
+KPX r j -60
+KPX r d -30
+KPX r a -10
+
+KPX s T -114
+KPX s V -77
+KPX s W -34
+KPX s Y -125
+KPX s e.001 -20
+KPX s j.001 -120
+KPX s t -6
+KPX s Yacute -99
+KPX s j -50
+
+KPX t T -90
+KPX t V -74
+KPX t W -31
+KPX t Y -89
+KPX t a.001 -30
+KPX t c -44
+KPX t d.001 -30
+KPX t e.001 -30
+KPX t j.001 -70
+KPX t o -30
+KPX t q.001 -30
+KPX t u -10
+KPX t Yacute -89
+KPX t agrave -30
+KPX t aacute -30
+KPX t acircumflex -30
+KPX t atilde -30
+KPX t adieresis -30
+KPX t aring -30
+KPX t ae -36
+KPX t ccedilla -44
+KPX t egrave -30
+KPX t eacute -30
+KPX t ecircumflex -30
+KPX t edieresis -30
+KPX t eth -25
+KPX t ograve -30
+KPX t oacute -30
+KPX t ocircumflex -30
+KPX t otilde -30
+KPX t odieresis -30
+KPX t florin -57
+KPX t j -70
+KPX t w -24
+KPX t e -44
+KPX t t -34
+KPX t y -10
+KPX t d -20
+
+KPX u T -121
+KPX u V -52
+KPX u W -24
+KPX u Y -98
+KPX u i -16
+KPX u j.001 -90
+KPX u l 6
+KPX u Yacute -98
+KPX u icircumflex -21
+KPX u idieresis -24
+KPX u j -60
+
+KPX v A -79
+KPX v J -82
+KPX v T -121
+KPX v V -52
+KPX v W -24
+KPX v X -113
+KPX v Y -98
+KPX v Z -117
+KPX v a.001 -23
+KPX v c -38
+KPX v d.001 -23
+KPX v e.001 -59
+KPX v g.001 -23
+KPX v j.001 -136
+KPX v o -58
+KPX v p.001 -23
+KPX v q.001 -23
+KPX v Agrave -75
+KPX v Aacute -71
+KPX v Acircumflex -75
+KPX v Atilde -71
+KPX v Adieresis -79
+KPX v Aring -86
+KPX v AE -98
+KPX v Yacute -98
+KPX v agrave -23
+KPX v aacute -23
+KPX v acircumflex -23
+KPX v atilde -23
+KPX v adieresis -23
+KPX v aring -23
+KPX v ae -44
+KPX v ccedilla -38
+KPX v egrave -23
+KPX v eacute -23
+KPX v ecircumflex -23
+KPX v edieresis -23
+KPX v icircumflex -21
+KPX v idieresis -24
+KPX v eth -34
+KPX v ograve -23
+KPX v oacute -23
+KPX v ocircumflex -23
+KPX v otilde -23
+KPX v odieresis -23
+KPX v oslash -23
+KPX v Zdotaccent -137
+KPX v Zcaron -137
+KPX v Aringacute -91
+KPX v AEacute -137
+KPX v j -70
+KPX v e -60
+
+KPX w A -122
+KPX w J -44
+KPX w T -161
+KPX w V -61
+KPX w X -106
+KPX w Y -65
+KPX w Z -107
+KPX w j.001 -120
+KPX w Agrave -122
+KPX w Aacute -122
+KPX w Acircumflex -122
+KPX w Atilde -122
+KPX w Adieresis -122
+KPX w Aring -122
+KPX w AE -108
+KPX w Yacute -72
+KPX w ae -22
+KPX w icircumflex -29
+KPX w idieresis -32
+KPX w Zdotaccent -71
+KPX w Zcaron -71
+KPX w Aringacute -71
+KPX w AEacute -71
+KPX w j -70
+
+KPX x T -103
+KPX x V -44
+KPX x Y -90
+KPX x a.001 -31
+KPX x c -45
+KPX x d.001 -31
+KPX x e.001 -31
+KPX x j.001 -75
+KPX x o -31
+KPX x q.001 -31
+KPX x Yacute -90
+KPX x agrave -31
+KPX x aacute -31
+KPX x acircumflex -31
+KPX x atilde -31
+KPX x adieresis -31
+KPX x aring -31
+KPX x ae -37
+KPX x ccedilla -45
+KPX x egrave -31
+KPX x eacute -31
+KPX x ecircumflex -31
+KPX x edieresis -31
+KPX x eth -26
+KPX x ograve -31
+KPX x oacute -31
+KPX x ocircumflex -31
+KPX x otilde -31
+KPX x odieresis -31
+KPX x e -20
+KPX x j -50
+
+KPX y j -60
+
+KPX z T -146
+KPX z V -44
+KPX z Y -31
+KPX z a.001 -31
+KPX z c -45
+KPX z d.001 -31
+KPX z e.001 -31
+KPX z j.001 -88
+KPX z o -31
+KPX z q.001 -31
+KPX z Yacute -73
+KPX z agrave -31
+KPX z aacute -31
+KPX z acircumflex -31
+KPX z atilde -31
+KPX z adieresis -31
+KPX z aring -31
+KPX z ae -37
+KPX z ccedilla -45
+KPX z egrave -31
+KPX z eacute -31
+KPX z ecircumflex -31
+KPX z edieresis -31
+KPX z eth -26
+KPX z ograve -31
+KPX z oacute -31
+KPX z ocircumflex -31
+KPX z otilde -31
+KPX z odieresis -31
+KPX z j -50
+
+KPX Zcaron C -70
+KPX Zcaron G -70
+KPX Zcaron O -70
+KPX Zcaron Q -70
+KPX Zcaron j.001 -92
+KPX Zcaron v -70
+KPX Zcaron w -70
+KPX Zcaron y.001 -70
+KPX Zcaron Ccedilla -70
+KPX Zcaron Ograve -70
+KPX Zcaron Oacute -70
+KPX Zcaron Ocircumflex -70
+KPX Zcaron Otilde -70
+KPX Zcaron Odieresis -70
+KPX Zcaron yacute -70
+KPX Zcaron florin -92
+
+KPX zcaron j.001 -90
+
+KPX zacute j.001 -90
+
+KPX Zdotaccent C -70
+KPX Zdotaccent G -70
+KPX Zdotaccent O -70
+KPX Zdotaccent Q -70
+KPX Zdotaccent j.001 -92
+KPX Zdotaccent v -70
+KPX Zdotaccent w -70
+KPX Zdotaccent y.001 -70
+KPX Zdotaccent Ccedilla -70
+KPX Zdotaccent Ograve -70
+KPX Zdotaccent Oacute -70
+KPX Zdotaccent Ocircumflex -70
+KPX Zdotaccent Otilde -70
+KPX Zdotaccent Odieresis -70
+KPX Zdotaccent yacute -70
+KPX Zdotaccent florin -92
+
+KPX zdotaccent T -129
+KPX zdotaccent Y -67
+KPX zdotaccent j.001 -90
+KPX zdotaccent Yacute -67
+
+KPX Aacute C -48
+KPX Aacute G -48
+KPX Aacute O -34
+KPX Aacute Q -34
+KPX Aacute T -121
+KPX Aacute V -98
+KPX Aacute W -78
+KPX Aacute Y -117
+KPX Aacute f -31
+KPX Aacute j.001 -101
+KPX Aacute t -46
+KPX Aacute v -110
+KPX Aacute w -97
+KPX Aacute y.001 -125
+KPX Aacute Ccedilla -48
+KPX Aacute Eth -25
+KPX Aacute Ograve -34
+KPX Aacute Oacute -34
+KPX Aacute Ocircumflex -34
+KPX Aacute Otilde -34
+KPX Aacute Odieresis -34
+KPX Aacute Yacute -98
+KPX Aacute yacute -30
+KPX Aacute ydieresis -26
+KPX Aacute florin -92
+
+KPX Acircumflex C -48
+KPX Acircumflex G -48
+KPX Acircumflex O -34
+KPX Acircumflex Q -34
+KPX Acircumflex T -105
+KPX Acircumflex V -98
+KPX Acircumflex W -59
+KPX Acircumflex Y -98
+KPX Acircumflex f -31
+KPX Acircumflex j.001 -52
+KPX Acircumflex t -46
+KPX Acircumflex v -110
+KPX Acircumflex w -97
+KPX Acircumflex y.001 -125
+KPX Acircumflex Ccedilla -48
+KPX Acircumflex Eth -25
+KPX Acircumflex Ograve -34
+KPX Acircumflex Oacute -34
+KPX Acircumflex Ocircumflex -34
+KPX Acircumflex Otilde -34
+KPX Acircumflex Odieresis -34
+KPX Acircumflex Yacute -98
+KPX Acircumflex yacute -30
+KPX Acircumflex ydieresis -26
+KPX Acircumflex florin -92
+
+KPX Adieresis C -48
+KPX Adieresis G -48
+KPX Adieresis O -34
+KPX Adieresis Q -34
+KPX Adieresis T -115
+KPX Adieresis V -104
+KPX Adieresis W -92
+KPX Adieresis Y -104
+KPX Adieresis f -31
+KPX Adieresis j.001 -77
+KPX Adieresis t -46
+KPX Adieresis v -77
+KPX Adieresis w -97
+KPX Adieresis y.001 -125
+KPX Adieresis Ccedilla -48
+KPX Adieresis Eth -25
+KPX Adieresis Ograve -34
+KPX Adieresis Oacute -34
+KPX Adieresis Ocircumflex -34
+KPX Adieresis Otilde -34
+KPX Adieresis Odieresis -34
+KPX Adieresis Yacute -104
+KPX Adieresis yacute -37
+KPX Adieresis ydieresis -32
+KPX Adieresis florin -92
+
+KPX Ccedilla C -44
+KPX Ccedilla G -67
+KPX Ccedilla O -44
+KPX Ccedilla Q -44
+KPX Ccedilla f -75
+KPX Ccedilla j.001 -102
+KPX Ccedilla t -63
+KPX Ccedilla v -121
+KPX Ccedilla w -60
+KPX Ccedilla y.001 -99
+KPX Ccedilla Ccedilla -51
+KPX Ccedilla Igrave -37
+KPX Ccedilla Iacute -51
+KPX Ccedilla Icircumflex -47
+KPX Ccedilla Idieresis -37
+KPX Ccedilla Eth -29
+KPX Ccedilla Ograve -44
+KPX Ccedilla Oacute -67
+KPX Ccedilla Ocircumflex -44
+KPX Ccedilla Otilde -44
+KPX Ccedilla Odieresis -44
+KPX Ccedilla iacute -26
+KPX Ccedilla yacute -100
+KPX Ccedilla ydieresis -80
+KPX Ccedilla florin -81
+
+KPX Eacute C -62
+KPX Eacute G -62
+KPX Eacute O -63
+KPX Eacute Q -63
+KPX Eacute c -31
+KPX Eacute j.001 -89
+KPX Eacute v -93
+KPX Eacute w -81
+KPX Eacute y.001 -25
+KPX Eacute Ccedilla -62
+KPX Eacute Ograve -63
+KPX Eacute Oacute -63
+KPX Eacute Ocircumflex -63
+KPX Eacute Otilde -63
+KPX Eacute Odieresis -63
+KPX Eacute ae -23
+KPX Eacute ccedilla -31
+KPX Eacute eth -27
+KPX Eacute yacute -26
+KPX Eacute ydieresis -31
+KPX Eacute florin -91
+
+KPX Edieresis C -62
+KPX Edieresis G -62
+KPX Edieresis O -63
+KPX Edieresis Q -63
+KPX Edieresis c -31
+KPX Edieresis j.001 -88
+KPX Edieresis v -93
+KPX Edieresis w -81
+KPX Edieresis y.001 -42
+KPX Edieresis Ccedilla -62
+KPX Edieresis Ograve -63
+KPX Edieresis Oacute -63
+KPX Edieresis Ocircumflex -63
+KPX Edieresis Otilde -63
+KPX Edieresis Odieresis -63
+KPX Edieresis ae -23
+KPX Edieresis ccedilla -31
+KPX Edieresis eth -27
+KPX Edieresis yacute -32
+KPX Edieresis ydieresis -31
+KPX Edieresis florin -91
+
+KPX Iacute j.001 -97
+KPX Iacute florin -42
+
+KPX Icircumflex j.001 -101
+KPX Icircumflex florin -40
+
+KPX Oacute A -64
+KPX Oacute S -32
+KPX Oacute T -65
+KPX Oacute V -64
+KPX Oacute W -36
+KPX Oacute X -109
+KPX Oacute Y -109
+KPX Oacute Z -110
+KPX Oacute j.001 -84
+KPX Oacute Agrave -64
+KPX Oacute Aacute -64
+KPX Oacute Acircumflex -64
+KPX Oacute Atilde -64
+KPX Oacute Adieresis -64
+KPX Oacute Aring -64
+KPX Oacute AE -81
+KPX Oacute Yacute -109
+KPX Oacute Zdotaccent -72
+KPX Oacute Zcaron -72
+KPX Oacute AEacute -42
+
+KPX Ocircumflex A -64
+KPX Ocircumflex S -32
+KPX Ocircumflex T -53
+KPX Ocircumflex V -64
+KPX Ocircumflex W -36
+KPX Ocircumflex X -109
+KPX Ocircumflex Y -109
+KPX Ocircumflex Z -110
+KPX Ocircumflex j.001 -91
+KPX Ocircumflex Agrave -64
+KPX Ocircumflex Aacute -64
+KPX Ocircumflex Acircumflex -64
+KPX Ocircumflex Atilde -64
+KPX Ocircumflex Adieresis -64
+KPX Ocircumflex Aring -64
+KPX Ocircumflex AE -81
+KPX Ocircumflex Yacute -109
+KPX Ocircumflex Zdotaccent -72
+KPX Ocircumflex Zcaron -72
+KPX Ocircumflex AEacute -42
+
+KPX Odieresis A -64
+KPX Odieresis S -32
+KPX Odieresis T -73
+KPX Odieresis V -64
+KPX Odieresis W -36
+KPX Odieresis X -109
+KPX Odieresis Y -54
+KPX Odieresis Z -110
+KPX Odieresis j.001 -96
+KPX Odieresis Agrave -64
+KPX Odieresis Aacute -64
+KPX Odieresis Acircumflex -64
+KPX Odieresis Atilde -64
+KPX Odieresis Adieresis -64
+KPX Odieresis Aring -64
+KPX Odieresis AE -81
+KPX Odieresis Yacute -46
+KPX Odieresis Zdotaccent -72
+KPX Odieresis Zcaron -72
+KPX Odieresis AEacute -42
+
+KPX Uacute j.001 -77
+
+KPX Udieresis j.001 -91
+
+KPX Yacute A -100
+KPX Yacute C -78
+KPX Yacute G -78
+KPX Yacute J -104
+KPX Yacute O -63
+KPX Yacute Q -63
+KPX Yacute S -30
+KPX Yacute a.001 -88
+KPX Yacute c -88
+KPX Yacute d.001 -100
+KPX Yacute e.001 -96
+KPX Yacute f -77
+KPX Yacute g.001 -91
+KPX Yacute j.001 -96
+KPX Yacute m -82
+KPX Yacute n -63
+KPX Yacute o -88
+KPX Yacute p.001 -91
+KPX Yacute q.001 -87
+KPX Yacute r -77
+KPX Yacute s -62
+KPX Yacute t -30
+KPX Yacute u -63
+KPX Yacute v -63
+KPX Yacute w -81
+KPX Yacute x -78
+KPX Yacute y.001 -78
+KPX Yacute z -78
+KPX Yacute Agrave -96
+KPX Yacute Aacute -100
+KPX Yacute Acircumflex -111
+KPX Yacute Atilde -96
+KPX Yacute Adieresis -96
+KPX Yacute Aring -92
+KPX Yacute AE -92
+KPX Yacute Ccedilla -78
+KPX Yacute Eth -24
+KPX Yacute Ograve -63
+KPX Yacute Oacute -63
+KPX Yacute Ocircumflex -63
+KPX Yacute Otilde -63
+KPX Yacute Odieresis -63
+KPX Yacute Oslash -63
+KPX Yacute agrave -85
+KPX Yacute aacute -92
+KPX Yacute acircumflex -81
+KPX Yacute atilde -33
+KPX Yacute adieresis -77
+KPX Yacute aring -62
+KPX Yacute ae -96
+KPX Yacute ccedilla -93
+KPX Yacute egrave -85
+KPX Yacute eacute -100
+KPX Yacute ecircumflex -73
+KPX Yacute edieresis -73
+KPX Yacute eth -81
+KPX Yacute ograve -88
+KPX Yacute oacute -85
+KPX Yacute ocircumflex -70
+KPX Yacute otilde -33
+KPX Yacute odieresis -77
+KPX Yacute oslash -88
+KPX Yacute ugrave -63
+KPX Yacute uacute -63
+KPX Yacute ucircumflex -63
+KPX Yacute udieresis -48
+KPX Yacute yacute -78
+KPX Yacute ydieresis -47
+KPX Yacute dotlessi -111
+KPX Yacute zacute -53
+KPX Yacute zdotaccent -53
+KPX Yacute florin -137
+KPX Yacute Aringacute -161
+KPX Yacute aringacute -100
+KPX Yacute AEacute -161
+KPX Yacute aeacute -161
+KPX Yacute Oslashacute -53
+KPX Yacute oslashacute -161
+
+KPX germandbls T -41
+KPX germandbls V -60
+KPX germandbls W -47
+KPX germandbls Y -53
+KPX germandbls j.001 -95
+KPX germandbls y.001 -30
+KPX germandbls Yacute -45
+KPX germandbls yacute -30
+KPX germandbls ydieresis -30
+KPX germandbls florin -90
+
+KPX aacute T -50
+KPX aacute V -122
+KPX aacute W -78
+KPX aacute Y -61
+KPX aacute f -28
+KPX aacute j.001 -88
+KPX aacute t -44
+KPX aacute v -30
+KPX aacute y.001 -30
+KPX aacute Yacute -58
+KPX aacute icircumflex -28
+KPX aacute idieresis -32
+KPX aacute yacute -30
+KPX aacute ydieresis -30
+KPX aacute florin -76
+
+KPX acircumflex T -104
+KPX acircumflex V -43
+KPX acircumflex W -78
+KPX acircumflex Y -97
+KPX acircumflex f -28
+KPX acircumflex j.001 -101
+KPX acircumflex t -44
+KPX acircumflex v -30
+KPX acircumflex y.001 -30
+KPX acircumflex Yacute -82
+KPX acircumflex yacute -30
+KPX acircumflex ydieresis -30
+KPX acircumflex florin -76
+
+KPX adieresis T -141
+KPX adieresis V -53
+KPX adieresis W -78
+KPX adieresis Y -87
+KPX adieresis f -28
+KPX adieresis j.001 -95
+KPX adieresis t -44
+KPX adieresis v -30
+KPX adieresis y.001 -30
+KPX adieresis Yacute -76
+KPX adieresis yacute -30
+KPX adieresis ydieresis -30
+KPX adieresis florin -76
+
+KPX ccedilla T -121
+KPX ccedilla V -60
+KPX ccedilla Y -90
+KPX ccedilla j.001 -20
+KPX ccedilla Yacute -83
+
+KPX eacute A -45
+KPX eacute S -59
+KPX eacute T -63
+KPX eacute V -122
+KPX eacute W -78
+KPX eacute X -60
+KPX eacute Y -60
+KPX eacute Z -60
+KPX eacute f -28
+KPX eacute j.001 -90
+KPX eacute t -44
+KPX eacute v -30
+KPX eacute x -45
+KPX eacute y.001 -30
+KPX eacute z -45
+KPX eacute Agrave -45
+KPX eacute Aacute -45
+KPX eacute Acircumflex -45
+KPX eacute Atilde -45
+KPX eacute Adieresis -45
+KPX eacute Aring -45
+KPX eacute AE -46
+KPX eacute Yacute -52
+KPX eacute icircumflex -28
+KPX eacute idieresis -32
+KPX eacute yacute -30
+KPX eacute ydieresis -30
+KPX eacute florin -76
+
+KPX edieresis A -45
+KPX edieresis S -59
+KPX edieresis T -93
+KPX edieresis V -91
+KPX edieresis W -78
+KPX edieresis X -60
+KPX edieresis Y -69
+KPX edieresis Z -60
+KPX edieresis f -28
+KPX edieresis j.001 -92
+KPX edieresis t -44
+KPX edieresis v -30
+KPX edieresis x -45
+KPX edieresis y.001 -30
+KPX edieresis z -45
+KPX edieresis Agrave -45
+KPX edieresis Aacute -45
+KPX edieresis Acircumflex -45
+KPX edieresis Atilde -45
+KPX edieresis Adieresis -45
+KPX edieresis Aring -45
+KPX edieresis AE -46
+KPX edieresis Yacute -43
+KPX edieresis yacute -30
+KPX edieresis ydieresis -30
+KPX edieresis florin -76
+
+KPX iacute j.001 -109
+KPX iacute dotlessi -24
+KPX iacute florin -54
+
+KPX icircumflex j.001 -84
+KPX icircumflex dotlessi -21
+
+KPX nacute j -50
+
+KPX oacute A -29
+KPX oacute T -56
+KPX oacute V -122
+KPX oacute W -78
+KPX oacute X -60
+KPX oacute Y -78
+KPX oacute Z -60
+KPX oacute f -28
+KPX oacute j.001 -105
+KPX oacute t -44
+KPX oacute v -30
+KPX oacute x -45
+KPX oacute y.001 -30
+KPX oacute z -45
+KPX oacute Agrave -29
+KPX oacute Aacute -29
+KPX oacute Acircumflex -29
+KPX oacute Atilde -29
+KPX oacute Adieresis -29
+KPX oacute Aring -29
+KPX oacute AE -31
+KPX oacute Yacute -52
+KPX oacute icircumflex -28
+KPX oacute idieresis -32
+KPX oacute yacute -30
+KPX oacute ydieresis -30
+KPX oacute florin -76
+
+KPX ocircumflex A -29
+KPX ocircumflex T -83
+KPX ocircumflex V -106
+KPX ocircumflex W -78
+KPX ocircumflex X -60
+KPX ocircumflex Y -67
+KPX ocircumflex Z -60
+KPX ocircumflex f -28
+KPX ocircumflex j.001 -109
+KPX ocircumflex t -44
+KPX ocircumflex v -30
+KPX ocircumflex x -45
+KPX ocircumflex y.001 -30
+KPX ocircumflex z -45
+KPX ocircumflex Agrave -29
+KPX ocircumflex Aacute -29
+KPX ocircumflex Acircumflex -29
+KPX ocircumflex Atilde -29
+KPX ocircumflex Adieresis -29
+KPX ocircumflex Aring -29
+KPX ocircumflex AE -31
+KPX ocircumflex Yacute -67
+KPX ocircumflex yacute -30
+KPX ocircumflex ydieresis -30
+KPX ocircumflex florin -76
+
+KPX odieresis A -29
+KPX odieresis T -111
+KPX odieresis V -91
+KPX odieresis W -78
+KPX odieresis X -60
+KPX odieresis Y -65
+KPX odieresis Z -60
+KPX odieresis f -28
+KPX odieresis j.001 -111
+KPX odieresis t -44
+KPX odieresis v -30
+KPX odieresis x -45
+KPX odieresis y.001 -30
+KPX odieresis z -45
+KPX odieresis Agrave -29
+KPX odieresis Aacute -29
+KPX odieresis Acircumflex -29
+KPX odieresis Atilde -29
+KPX odieresis Adieresis -29
+KPX odieresis Aring -29
+KPX odieresis AE -31
+KPX odieresis Yacute -58
+KPX odieresis yacute -30
+KPX odieresis ydieresis -30
+KPX odieresis florin -76
+
+KPX uacute T -45
+KPX uacute V -52
+KPX uacute W -24
+KPX uacute Y -30
+KPX uacute j.001 -95
+KPX uacute Yacute -30
+KPX uacute icircumflex -21
+KPX uacute idieresis -24
+
+KPX udieresis T -105
+KPX udieresis V -52
+KPX udieresis W -24
+KPX udieresis Y -47
+KPX udieresis j.001 -108
+KPX udieresis Yacute -47
+
+KPX yacute A -64
+KPX yacute J -43
+KPX yacute T -44
+KPX yacute V -44
+KPX yacute X -44
+KPX yacute Y -44
+KPX yacute Z -44
+KPX yacute j.001 -110
+KPX yacute Agrave -68
+KPX yacute Aacute -57
+KPX yacute Acircumflex -61
+KPX yacute Atilde -57
+KPX yacute Adieresis -57
+KPX yacute Aring -61
+KPX yacute AE -61
+KPX yacute Yacute -44
+KPX yacute Aringacute -83
+KPX yacute AEacute -114
+
+KPX AE C -49
+KPX AE G -49
+KPX AE J -32
+KPX AE O -50
+KPX AE Q -50
+KPX AE a.001 -50
+KPX AE c -64
+KPX AE d.001 -50
+KPX AE e.001 -50
+KPX AE f -47
+KPX AE g.001 -35
+KPX AE j.001 -101
+KPX AE o -50
+KPX AE q.001 -50
+KPX AE t -47
+KPX AE u -34
+KPX AE v -96
+KPX AE w -83
+KPX AE y.001 -95
+KPX AE Ccedilla -49
+KPX AE Ograve -50
+KPX AE Oacute -50
+KPX AE Ocircumflex -50
+KPX AE Otilde -50
+KPX AE Odieresis -50
+KPX AE agrave -50
+KPX AE aacute -50
+KPX AE acircumflex -50
+KPX AE atilde -50
+KPX AE adieresis -50
+KPX AE aring -50
+KPX AE ae -56
+KPX AE ccedilla -64
+KPX AE egrave -50
+KPX AE eacute -50
+KPX AE ecircumflex -50
+KPX AE edieresis -50
+KPX AE eth -45
+KPX AE ograve -50
+KPX AE oacute -50
+KPX AE ocircumflex -50
+KPX AE otilde -50
+KPX AE odieresis -50
+KPX AE ugrave -34
+KPX AE uacute -34
+KPX AE ucircumflex -34
+KPX AE udieresis -34
+KPX AE yacute -95
+KPX AE ydieresis -64
+KPX AE florin -95
+
+KPX AEacute j.001 -95
+KPX AEacute v -57
+KPX AEacute w -42
+KPX AEacute y.001 -57
+KPX AEacute yacute -57
+KPX AEacute florin -95
+
+KPX Agrave C -48
+KPX Agrave G -48
+KPX Agrave O -34
+KPX Agrave Q -34
+KPX Agrave T -102
+KPX Agrave V -121
+KPX Agrave W -59
+KPX Agrave Y -121
+KPX Agrave f -31
+KPX Agrave j.001 -98
+KPX Agrave t -46
+KPX Agrave v -67
+KPX Agrave w -97
+KPX Agrave y.001 -125
+KPX Agrave Ccedilla -48
+KPX Agrave Eth -25
+KPX Agrave Ograve -34
+KPX Agrave Oacute -34
+KPX Agrave Ocircumflex -34
+KPX Agrave Otilde -34
+KPX Agrave Odieresis -34
+KPX Agrave Yacute -109
+KPX Agrave yacute -61
+KPX Agrave ydieresis -30
+KPX Agrave florin -92
+
+KPX Alpha Epsilontonos -88
+KPX Alpha Etatonos -88
+KPX Alpha Iotatonos -88
+KPX Alpha Omicrontonos -42
+KPX Alpha Upsilontonos -88
+KPX Alpha iotadieresistonos -42
+KPX Alpha Tau -178
+KPX Alpha Upsilon -162
+KPX Alpha Psi -85
+KPX Alpha Upsilondieresis -162
+KPX Alpha gamma -101
+KPX Alpha nu -101
+KPX Alpha tau -101
+KPX Alpha chi -39
+
+KPX Alphatonos Epsilontonos -88
+KPX Alphatonos Etatonos -88
+KPX Alphatonos Iotatonos -88
+KPX Alphatonos Omicrontonos -42
+KPX Alphatonos Upsilontonos -88
+KPX Alphatonos iotadieresistonos -42
+KPX Alphatonos Tau -178
+KPX Alphatonos Upsilon -162
+KPX Alphatonos Psi -85
+KPX Alphatonos Upsilondieresis -162
+KPX Alphatonos gamma -101
+KPX Alphatonos nu -101
+KPX Alphatonos tau -101
+KPX Alphatonos chi -39
+
+KPX Aring C -48
+KPX Aring G -48
+KPX Aring O -34
+KPX Aring Q -34
+KPX Aring T -109
+KPX Aring V -112
+KPX Aring W -89
+KPX Aring Y -120
+KPX Aring f -31
+KPX Aring j.001 -93
+KPX Aring t -46
+KPX Aring v -82
+KPX Aring w -97
+KPX Aring y.001 -125
+KPX Aring Ccedilla -48
+KPX Aring Eth -25
+KPX Aring Ograve -34
+KPX Aring Oacute -34
+KPX Aring Ocircumflex -34
+KPX Aring Otilde -34
+KPX Aring Odieresis -34
+KPX Aring Yacute -101
+KPX Aring yacute -45
+KPX Aring ydieresis -41
+KPX Aring florin -92
+
+KPX Aringacute T -162
+KPX Aringacute V -162
+KPX Aringacute W -101
+KPX Aringacute Y -162
+KPX Aringacute j.001 -92
+KPX Aringacute v -85
+KPX Aringacute w -70
+KPX Aringacute y.001 -85
+KPX Aringacute Yacute -162
+KPX Aringacute yacute -85
+KPX Aringacute ydieresis -85
+KPX Aringacute florin -92
+
+KPX Atilde C -48
+KPX Atilde G -48
+KPX Atilde O -34
+KPX Atilde Q -34
+KPX Atilde T -100
+KPX Atilde V -100
+KPX Atilde W -38
+KPX Atilde Y -100
+KPX Atilde f -31
+KPX Atilde j.001 -54
+KPX Atilde t -46
+KPX Atilde v -110
+KPX Atilde w -97
+KPX Atilde y.001 -125
+KPX Atilde Ccedilla -48
+KPX Atilde Eth -25
+KPX Atilde Ograve -34
+KPX Atilde Oacute -34
+KPX Atilde Ocircumflex -34
+KPX Atilde Otilde -34
+KPX Atilde Odieresis -34
+KPX Atilde Yacute -100
+KPX Atilde yacute -32
+KPX Atilde ydieresis -28
+KPX Atilde florin -92
+
+KPX Beta Tau -52
+KPX Beta Upsilon -52
+KPX Beta Upsilondieresis -52
+
+KPX Chi Theta -70
+KPX Chi Omicron -70
+KPX Chi Phi -101
+KPX Chi gamma -70
+KPX Chi nu -70
+KPX Chi tau -70
+KPX Chi chi -39
+
+KPX Ecircumflex C -62
+KPX Ecircumflex G -62
+KPX Ecircumflex O -63
+KPX Ecircumflex Q -63
+KPX Ecircumflex c -31
+KPX Ecircumflex j.001 -85
+KPX Ecircumflex v -93
+KPX Ecircumflex w -81
+KPX Ecircumflex y.001 -25
+KPX Ecircumflex Ccedilla -62
+KPX Ecircumflex Ograve -63
+KPX Ecircumflex Oacute -63
+KPX Ecircumflex Ocircumflex -63
+KPX Ecircumflex Otilde -63
+KPX Ecircumflex Odieresis -63
+KPX Ecircumflex ae -23
+KPX Ecircumflex ccedilla -31
+KPX Ecircumflex eth -27
+KPX Ecircumflex yacute -26
+KPX Ecircumflex ydieresis -31
+KPX Ecircumflex florin -91
+
+KPX Egrave C -62
+KPX Egrave G -62
+KPX Egrave O -63
+KPX Egrave Q -63
+KPX Egrave c -31
+KPX Egrave j.001 -90
+KPX Egrave v -29
+KPX Egrave w -81
+KPX Egrave y.001 -37
+KPX Egrave Ccedilla -62
+KPX Egrave Ograve -63
+KPX Egrave Oacute -63
+KPX Egrave Ocircumflex -63
+KPX Egrave Otilde -63
+KPX Egrave Odieresis -63
+KPX Egrave ae -23
+KPX Egrave ccedilla -31
+KPX Egrave eth -27
+KPX Egrave yacute -38
+KPX Egrave ydieresis -31
+KPX Egrave florin -91
+
+KPX Epsilon Theta -53
+KPX Epsilon Omicron -53
+KPX Epsilon Phi -53
+KPX Epsilon gamma -84
+KPX Epsilon nu -84
+KPX Epsilon tau -115
+
+KPX Epsilontonos Theta -42
+KPX Epsilontonos Omicron -42
+KPX Epsilontonos Phi -42
+KPX Epsilontonos gamma -88
+KPX Epsilontonos nu -88
+KPX Epsilontonos tau -119
+KPX Epsilontonos chi -42
+KPX Epsilontonos psi -42
+
+KPX Eth A -63
+KPX Eth T -109
+KPX Eth V -63
+KPX Eth X -93
+KPX Eth Y -93
+KPX Eth Z -109
+KPX Eth j.001 -86
+KPX Eth Agrave -63
+KPX Eth Aacute -63
+KPX Eth Acircumflex -63
+KPX Eth Atilde -63
+KPX Eth Adieresis -63
+KPX Eth Aring -63
+KPX Eth AE -64
+KPX Eth Yacute -93
+KPX Eth Zdotaccent -71
+KPX Eth Zcaron -71
+KPX Eth AEacute -41
+
+KPX Gamma Alpha -176
+KPX Gamma uni0394 -192
+KPX Gamma Theta -100
+KPX Gamma Lambda -176
+KPX Gamma Omicron -100
+KPX Gamma Phi -195
+KPX Gamma uni03A9 -100
+KPX Gamma alphatonos -207
+KPX Gamma epsilontonos -115
+KPX Gamma etatonos -192
+KPX Gamma alpha -226
+KPX Gamma gamma -198
+KPX Gamma epsilon -191
+KPX Gamma eta -195
+KPX Gamma iota -209
+KPX Gamma kappa -219
+KPX Gamma uni03BC -201
+KPX Gamma nu -201
+KPX Gamma omicron -207
+KPX Gamma pi -201
+KPX Gamma rho -216
+KPX Gamma sigma1 -235
+KPX Gamma sigma -210
+KPX Gamma tau -231
+KPX Gamma upsilon -229
+KPX Gamma phi -210
+KPX Gamma chi -201
+KPX Gamma psi -235
+KPX Gamma omega -231
+KPX Gamma upsilondieresis -87
+KPX Gamma omicrontonos -207
+KPX Gamma upsilontonos -192
+KPX Gamma omegatonos -253
+
+KPX Idieresis I -24
+KPX Idieresis j.001 -111
+KPX Idieresis dotlessi -24
+KPX Idieresis florin -50
+
+KPX Igrave I -21
+KPX Igrave j.001 -138
+KPX Igrave dotlessi -21
+KPX Igrave florin -45
+
+KPX Kappa Theta -61
+KPX Kappa Omicron -61
+KPX Kappa Phi -91
+KPX Kappa gamma -122
+KPX Kappa nu -122
+KPX Kappa tau -106
+KPX Kappa chi -45
+
+KPX Lambda Epsilontonos -88
+KPX Lambda Etatonos -88
+KPX Lambda Iotatonos -88
+KPX Lambda Omicrontonos -42
+KPX Lambda Upsilontonos -88
+KPX Lambda iotadieresistonos -42
+KPX Lambda Tau -178
+KPX Lambda Upsilon -162
+KPX Lambda Psi -85
+KPX Lambda Upsilondieresis -162
+KPX Lambda gamma -101
+KPX Lambda nu -101
+KPX Lambda tau -101
+KPX Lambda chi -39
+
+KPX Ntilde j.001 -89
+
+KPX Ograve A -64
+KPX Ograve S -32
+KPX Ograve T -66
+KPX Ograve V -64
+KPX Ograve W -36
+KPX Ograve X -109
+KPX Ograve Y -109
+KPX Ograve Z -110
+KPX Ograve j.001 -78
+KPX Ograve Agrave -64
+KPX Ograve Aacute -64
+KPX Ograve Acircumflex -64
+KPX Ograve Atilde -64
+KPX Ograve Adieresis -64
+KPX Ograve Aring -64
+KPX Ograve AE -81
+KPX Ograve Yacute -109
+KPX Ograve Zdotaccent -72
+KPX Ograve Zcaron -72
+KPX Ograve AEacute -42
+
+KPX Omegatonos Tau -89
+KPX Omegatonos Upsilon -58
+KPX Omegatonos Upsilondieresis -58
+
+KPX Omicron Zeta -72
+KPX Omicron Sigma -72
+KPX Omicron Tau -88
+KPX Omicron Upsilon -72
+KPX Omicron Chi -72
+KPX Omicron Upsilondieresis -72
+
+KPX Omicrontonos Zeta -74
+KPX Omicrontonos Sigma -74
+KPX Omicrontonos Tau -89
+KPX Omicrontonos Upsilon -58
+KPX Omicrontonos Chi -74
+KPX Omicrontonos Upsilondieresis -58
+
+KPX Oslash A -64
+KPX Oslash S -32
+KPX Oslash j.001 -87
+KPX Oslash Agrave -64
+KPX Oslash Aacute -64
+KPX Oslash Acircumflex -64
+KPX Oslash Atilde -64
+KPX Oslash Adieresis -64
+KPX Oslash Aring -64
+KPX Oslash AE -81
+KPX Oslash AEacute -42
+
+KPX Oslashacute j.001 -95
+KPX Oslashacute AE -42
+KPX Oslashacute AEacute -42
+
+KPX Otilde A -64
+KPX Otilde S -32
+KPX Otilde T -67
+KPX Otilde V -64
+KPX Otilde W -36
+KPX Otilde X -109
+KPX Otilde Y -109
+KPX Otilde Z -110
+KPX Otilde j.001 -83
+KPX Otilde Agrave -64
+KPX Otilde Aacute -64
+KPX Otilde Acircumflex -64
+KPX Otilde Atilde -64
+KPX Otilde Adieresis -64
+KPX Otilde Aring -64
+KPX Otilde AE -81
+KPX Otilde Yacute -109
+KPX Otilde Zdotaccent -72
+KPX Otilde Zcaron -72
+KPX Otilde AEacute -42
+
+KPX Phi Zeta -103
+KPX Phi Sigma -103
+KPX Phi Tau -180
+KPX Phi Upsilon -88
+KPX Phi Chi -103
+KPX Phi Upsilondieresis -88
+KPX Phi lambda -42
+
+KPX Psi Alpha -85
+KPX Psi uni0394 -101
+KPX Psi Lambda -85
+
+KPX Rho Alpha -79
+KPX Rho uni0394 -94
+KPX Rho Lambda -79
+KPX Rho lambda -79
+
+KPX Sigma Theta -84
+KPX Sigma Omicron -84
+KPX Sigma Phi -130
+KPX Sigma gamma -130
+KPX Sigma nu -130
+KPX Sigma tau -115
+
+KPX Tau Alpha -185
+KPX Tau uni0394 -185
+KPX Tau Theta -92
+KPX Tau Lambda -185
+KPX Tau Omicron -92
+KPX Tau Phi -185
+KPX Tau uni03A9 -92
+KPX Tau alphatonos -185
+KPX Tau epsilontonos -108
+KPX Tau etatonos -185
+KPX Tau alpha -185
+KPX Tau gamma -185
+KPX Tau epsilon -185
+KPX Tau eta -185
+KPX Tau iota -224
+KPX Tau kappa -185
+KPX Tau uni03BC -185
+KPX Tau nu -185
+KPX Tau omicron -185
+KPX Tau pi -185
+KPX Tau rho -185
+KPX Tau sigma1 -185
+KPX Tau sigma -185
+KPX Tau tau -185
+KPX Tau upsilon -185
+KPX Tau phi -185
+KPX Tau chi -185
+KPX Tau psi -185
+KPX Tau omega -185
+KPX Tau upsilondieresis -46
+KPX Tau omicrontonos -185
+KPX Tau upsilontonos -185
+KPX Tau omegatonos -185
+
+KPX Theta Zeta -72
+KPX Theta Sigma -72
+KPX Theta Tau -88
+KPX Theta Upsilon -72
+KPX Theta Chi -72
+KPX Theta Upsilondieresis -72
+
+KPX Thorn A -62
+KPX Thorn T -137
+KPX Thorn V -62
+KPX Thorn X -83
+KPX Thorn Y -91
+KPX Thorn Z -91
+KPX Thorn j.001 -141
+KPX Thorn Agrave -62
+KPX Thorn Aacute -62
+KPX Thorn Acircumflex -62
+KPX Thorn Atilde -62
+KPX Thorn Adieresis -62
+KPX Thorn Aring -62
+KPX Thorn AE -79
+KPX Thorn Yacute -91
+KPX Thorn Zdotaccent -115
+KPX Thorn Zcaron -115
+KPX Thorn AEacute -69
+
+KPX Ucircumflex j.001 -85
+
+KPX Ugrave j.001 -83
+
+KPX Upsilon Alpha -161
+KPX Upsilon uni0394 -161
+KPX Upsilon Theta -53
+KPX Upsilon Lambda -161
+KPX Upsilon Omicron -53
+KPX Upsilon Phi -84
+KPX Upsilon uni03A9 -53
+KPX Upsilon alphatonos -161
+KPX Upsilon epsilontonos -84
+KPX Upsilon etatonos -53
+KPX Upsilon alpha -161
+KPX Upsilon gamma -53
+KPX Upsilon epsilon -115
+KPX Upsilon eta -53
+KPX Upsilon iota -108
+KPX Upsilon kappa -53
+KPX Upsilon uni03BC -53
+KPX Upsilon nu -53
+KPX Upsilon omicron -161
+KPX Upsilon pi -53
+KPX Upsilon rho -161
+KPX Upsilon sigma1 -161
+KPX Upsilon sigma -161
+KPX Upsilon tau -53
+KPX Upsilon upsilon -53
+KPX Upsilon phi -146
+KPX Upsilon chi -53
+KPX Upsilon psi -53
+KPX Upsilon omega -130
+KPX Upsilon omicrontonos -161
+KPX Upsilon upsilontonos -53
+KPX Upsilon omegatonos -130
+
+KPX Upsilondieresis Alpha -161
+KPX Upsilondieresis uni0394 -161
+KPX Upsilondieresis Theta -53
+KPX Upsilondieresis Lambda -161
+KPX Upsilondieresis Omicron -53
+KPX Upsilondieresis Phi -84
+KPX Upsilondieresis uni03A9 -53
+KPX Upsilondieresis alphatonos -161
+KPX Upsilondieresis epsilontonos -84
+KPX Upsilondieresis etatonos -53
+KPX Upsilondieresis alpha -161
+KPX Upsilondieresis gamma -53
+KPX Upsilondieresis epsilon -115
+KPX Upsilondieresis eta -53
+KPX Upsilondieresis iota -108
+KPX Upsilondieresis kappa -53
+KPX Upsilondieresis uni03BC -53
+KPX Upsilondieresis nu -53
+KPX Upsilondieresis omicron -161
+KPX Upsilondieresis pi -53
+KPX Upsilondieresis rho -161
+KPX Upsilondieresis sigma1 -161
+KPX Upsilondieresis sigma -161
+KPX Upsilondieresis tau -53
+KPX Upsilondieresis upsilon -53
+KPX Upsilondieresis phi -146
+KPX Upsilondieresis chi -53
+KPX Upsilondieresis psi -53
+KPX Upsilondieresis omega -130
+KPX Upsilondieresis omicrontonos -161
+KPX Upsilondieresis upsilontonos -53
+KPX Upsilondieresis omegatonos -130
+
+KPX Upsilontonos Alpha -165
+KPX Upsilontonos uni0394 -165
+KPX Upsilontonos Theta -57
+KPX Upsilontonos Lambda -165
+KPX Upsilontonos Omicron -57
+KPX Upsilontonos Phi -88
+KPX Upsilontonos uni03A9 -57
+KPX Upsilontonos alphatonos -165
+KPX Upsilontonos epsilontonos -88
+KPX Upsilontonos etatonos -57
+KPX Upsilontonos alpha -165
+KPX Upsilontonos gamma -57
+KPX Upsilontonos epsilon -119
+KPX Upsilontonos eta -57
+KPX Upsilontonos iota -111
+KPX Upsilontonos kappa -57
+KPX Upsilontonos uni03BC -57
+KPX Upsilontonos nu -57
+KPX Upsilontonos omicron -165
+KPX Upsilontonos pi -57
+KPX Upsilontonos rho -165
+KPX Upsilontonos sigma1 -165
+KPX Upsilontonos sigma -165
+KPX Upsilontonos tau -57
+KPX Upsilontonos upsilon -57
+KPX Upsilontonos phi -149
+KPX Upsilontonos chi -57
+KPX Upsilontonos psi -57
+KPX Upsilontonos omega -134
+KPX Upsilontonos upsilondieresis -42
+KPX Upsilontonos omicrontonos -165
+KPX Upsilontonos upsilontonos -57
+KPX Upsilontonos omegatonos -134
+
+KPX Wacute afii10023 -191
+KPX Wacute afii10057 -58
+KPX Wacute afii10058 -104
+KPX Wacute afii10059 -179
+KPX Wacute afii10017 -104
+KPX Wacute afii10021 -104
+KPX Wacute afii10029 -104
+KPX Wacute afii10030 -104
+KPX Wacute afii10035 -187
+KPX Wacute afii10043 -112
+KPX Wacute afii10077 -104
+KPX Wacute afii10078 -104
+KPX Wacute afii10104 -122
+KPX Wacute afii10105 -96
+KPX Wacute afii10106 -104
+KPX Wacute uni0493 -99
+KPX Wacute afii10846 -43
+
+KPX Wdieresis afii10023 -191
+KPX Wdieresis afii10057 -58
+KPX Wdieresis afii10058 -104
+KPX Wdieresis afii10059 -179
+KPX Wdieresis afii10017 -104
+KPX Wdieresis afii10021 -104
+KPX Wdieresis afii10029 -104
+KPX Wdieresis afii10030 -104
+KPX Wdieresis afii10035 -187
+KPX Wdieresis afii10043 -112
+KPX Wdieresis afii10077 -104
+KPX Wdieresis afii10078 -104
+KPX Wdieresis afii10104 -122
+KPX Wdieresis afii10105 -96
+KPX Wdieresis afii10106 -104
+KPX Wdieresis uni0493 -99
+KPX Wdieresis afii10846 -43
+
+KPX Wgrave afii10023 -191
+KPX Wgrave afii10057 -58
+KPX Wgrave afii10058 -104
+KPX Wgrave afii10059 -179
+KPX Wgrave afii10017 -104
+KPX Wgrave afii10021 -104
+KPX Wgrave afii10029 -104
+KPX Wgrave afii10030 -104
+KPX Wgrave afii10035 -187
+KPX Wgrave afii10043 -112
+KPX Wgrave afii10077 -104
+KPX Wgrave afii10078 -104
+KPX Wgrave afii10104 -122
+KPX Wgrave afii10105 -96
+KPX Wgrave afii10106 -104
+KPX Wgrave uni0493 -99
+KPX Wgrave afii10846 -43
+
+KPX Xi tau -115
+
+KPX Ygrave afii10023 -160
+KPX Ygrave afii10053 -53
+KPX Ygrave afii10057 -161
+KPX Ygrave afii10058 -161
+KPX Ygrave afii10059 -148
+KPX Ygrave afii10017 -161
+KPX Ygrave afii10021 -161
+KPX Ygrave afii10022 -115
+KPX Ygrave afii10029 -161
+KPX Ygrave afii10030 -100
+KPX Ygrave afii10032 -53
+KPX Ygrave afii10035 -140
+KPX Ygrave afii10038 -84
+KPX Ygrave afii10065 -161
+KPX Ygrave afii10067 -53
+KPX Ygrave afii10068 -115
+KPX Ygrave afii10069 -161
+KPX Ygrave afii10070 -161
+KPX Ygrave afii10072 -53
+KPX Ygrave afii10073 -115
+KPX Ygrave afii10074 -53
+KPX Ygrave afii10076 -53
+KPX Ygrave afii10077 -161
+KPX Ygrave afii10078 -161
+KPX Ygrave afii10079 -53
+KPX Ygrave afii10080 -161
+KPX Ygrave afii10081 -53
+KPX Ygrave afii10082 -161
+KPX Ygrave afii10083 -161
+KPX Ygrave afii10084 -53
+KPX Ygrave afii10085 -53
+KPX Ygrave afii10086 -161
+KPX Ygrave afii10087 -53
+KPX Ygrave afii10088 -53
+KPX Ygrave afii10089 -53
+KPX Ygrave afii10090 -53
+KPX Ygrave afii10091 -53
+KPX Ygrave afii10092 -49
+KPX Ygrave afii10093 -53
+KPX Ygrave afii10094 -53
+KPX Ygrave afii10095 -100
+KPX Ygrave afii10096 -53
+KPX Ygrave afii10097 -142
+KPX Ygrave afii10071 -53
+KPX Ygrave afii10100 -84
+KPX Ygrave afii10101 -164
+KPX Ygrave afii10102 -115
+KPX Ygrave afii10104 -106
+KPX Ygrave afii10105 -106
+KPX Ygrave afii10106 -161
+KPX Ygrave afii10107 -53
+KPX Ygrave afii10109 -53
+KPX Ygrave afii10193 -53
+KPX Ygrave afii10098 -115
+KPX Ygrave uni0493 -129
+KPX Ygrave uni0497 -53
+KPX Ygrave uni049B -53
+KPX Ygrave uni049D -53
+KPX Ygrave uni04A3 -53
+KPX Ygrave uni04AF -53
+KPX Ygrave uni04B1 -53
+KPX Ygrave uni04B3 -53
+KPX Ygrave uni04B9 -53
+KPX Ygrave uni04D8 -69
+KPX Ygrave afii10846 -161
+KPX Ygrave uni04E8 -53
+KPX Ygrave uni04E9 -161
+KPX Ygrave wgrave -53
+KPX Ygrave wacute -53
+KPX Ygrave wdieresis -53
+
+KPX Zeta Theta -70
+KPX Zeta Omicron -70
+KPX Zeta Phi -101
+KPX Zeta gamma -70
+KPX Zeta nu -70
+KPX Zeta tau -70
+KPX Zeta chi -39
+KPX Zeta psi -39
+
+KPX a.001 T -172
+KPX a.001 V -122
+KPX a.001 W -78
+KPX a.001 Y -149
+KPX a.001 f -28
+KPX a.001 j.001 -126
+KPX a.001 t -44
+KPX a.001 v -30
+KPX a.001 y.001 -30
+KPX a.001 Yacute -146
+KPX a.001 icircumflex -28
+KPX a.001 idieresis -32
+KPX a.001 yacute -30
+KPX a.001 ydieresis -30
+KPX a.001 florin -76
+
+KPX ae A -62
+KPX ae S -60
+KPX ae T -110
+KPX ae V -139
+KPX ae W -80
+KPX ae X -77
+KPX ae Y -110
+KPX ae Z -77
+KPX ae f -45
+KPX ae i -24
+KPX ae j.001 -94
+KPX ae t -61
+KPX ae v -47
+KPX ae w -34
+KPX ae x -62
+KPX ae y.001 -47
+KPX ae z -62
+KPX ae Agrave -62
+KPX ae Aacute -62
+KPX ae Acircumflex -62
+KPX ae Atilde -62
+KPX ae Adieresis -62
+KPX ae Aring -62
+KPX ae AE -63
+KPX ae Igrave -23
+KPX ae Iacute -26
+KPX ae Icircumflex -29
+KPX ae Yacute -125
+KPX ae igrave -21
+KPX ae icircumflex -45
+KPX ae idieresis -49
+KPX ae yacute -47
+KPX ae ydieresis -47
+KPX ae florin -68
+
+KPX aeacute T -168
+KPX aeacute V -76
+KPX aeacute Y -153
+KPX aeacute j.001 -83
+KPX aeacute Yacute -153
+KPX aeacute florin -68
+
+KPX afii10017 afii10051 -178
+KPX afii10017 afii10060 -178
+KPX afii10017 afii10036 -178
+KPX afii10017 afii10041 -85
+KPX afii10017 afii10044 -46
+KPX afii10017 afii10085 -101
+KPX afii10017 afii10089 -39
+KPX afii10017 afii10092 -66
+KPX afii10017 afii10104 -104
+KPX afii10017 afii10105 -92
+KPX afii10017 afii10110 -101
+KPX afii10017 uni04AE -162
+KPX afii10017 uni04AF -101
+KPX afii10017 uni04B0 -55
+KPX afii10017 uni04B8 -85
+KPX afii10017 uni04B9 -39
+KPX afii10017 Wgrave -101
+KPX afii10017 wgrave -70
+KPX afii10017 Wacute -101
+KPX afii10017 wacute -70
+KPX afii10017 Wdieresis -101
+KPX afii10017 wdieresis -70
+KPX afii10017 Ygrave -162
+KPX afii10017 ygrave -101
+
+KPX afii10018 afii10092 -63
+KPX afii10018 afii10104 -123
+KPX afii10018 afii10105 -90
+
+KPX afii10019 afii10051 -52
+KPX afii10019 afii10052 -106
+KPX afii10019 afii10056 -311
+KPX afii10019 afii10060 -52
+KPX afii10019 afii10145 -165
+KPX afii10019 afii10031 -106
+KPX afii10019 afii10034 -119
+KPX afii10019 afii10036 -52
+KPX afii10019 afii10037 -255
+KPX afii10019 afii10049 -309
+KPX afii10019 afii10066 -313
+KPX afii10019 afii10067 -313
+KPX afii10019 afii10068 -304
+KPX afii10019 afii10069 -305
+KPX afii10019 afii10070 -310
+KPX afii10019 afii10072 -313
+KPX afii10019 afii10073 -313
+KPX afii10019 afii10075 -313
+KPX afii10019 afii10076 -305
+KPX afii10019 afii10077 -308
+KPX afii10019 afii10078 -311
+KPX afii10019 afii10079 -307
+KPX afii10019 afii10080 -312
+KPX afii10019 afii10081 -317
+KPX afii10019 afii10082 -305
+KPX afii10019 afii10083 -311
+KPX afii10019 afii10084 -290
+KPX afii10019 afii10085 -311
+KPX afii10019 afii10086 -307
+KPX afii10019 afii10087 -311
+KPX afii10019 afii10088 -311
+KPX afii10019 afii10089 -311
+KPX afii10019 afii10090 -313
+KPX afii10019 afii10091 -306
+KPX afii10019 afii10092 -313
+KPX afii10019 afii10093 -316
+KPX afii10019 afii10094 -313
+KPX afii10019 afii10095 -311
+KPX afii10019 afii10096 -314
+KPX afii10019 afii10097 -288
+KPX afii10019 afii10100 -313
+KPX afii10019 afii10101 -298
+KPX afii10019 afii10104 -165
+KPX afii10019 afii10105 -302
+KPX afii10019 afii10106 -288
+KPX afii10019 afii10108 -143
+KPX afii10019 afii10110 -311
+KPX afii10019 afii10050 -218
+KPX afii10019 afii10098 -98
+KPX afii10019 uni0492 -313
+KPX afii10019 uni0496 -313
+KPX afii10019 uni049A -313
+KPX afii10019 uni049C -313
+KPX afii10019 uni04A2 -313
+KPX afii10019 uni04AE -313
+KPX afii10019 uni04B0 -339
+KPX afii10019 uni04B2 -311
+KPX afii10019 uni04B8 -311
+KPX afii10019 uni04BB -105
+KPX afii10019 uni04D8 -305
+KPX afii10019 afii10846 -106
+KPX afii10019 uni04E8 -307
+KPX afii10019 Wgrave -212
+KPX afii10019 Wacute -258
+KPX afii10019 Wdieresis -305
+KPX afii10019 Ygrave -52
+
+KPX afii10020 afii10053 -91
+KPX afii10020 afii10057 -307
+KPX afii10020 afii10058 -184
+KPX afii10020 afii10017 -184
+KPX afii10020 afii10021 -229
+KPX afii10020 afii10029 -184
+KPX afii10020 afii10030 -106
+KPX afii10020 afii10032 -91
+KPX afii10020 afii10035 -91
+KPX afii10020 afii10038 -260
+KPX afii10020 afii10065 -189
+KPX afii10020 afii10066 -61
+KPX afii10020 afii10067 -174
+KPX afii10020 afii10068 -196
+KPX afii10020 afii10069 -239
+KPX afii10020 afii10070 -217
+KPX afii10020 afii10072 -199
+KPX afii10020 afii10073 -232
+KPX afii10020 afii10074 -239
+KPX afii10020 afii10076 -202
+KPX afii10020 afii10077 -196
+KPX afii10020 afii10078 -279
+KPX afii10020 afii10079 -217
+KPX afii10020 afii10080 -199
+KPX afii10020 afii10081 -192
+KPX afii10020 afii10082 -165
+KPX afii10020 afii10083 -202
+KPX afii10020 afii10084 -199
+KPX afii10020 afii10085 -187
+KPX afii10020 afii10086 -187
+KPX afii10020 afii10087 -189
+KPX afii10020 afii10088 -189
+KPX afii10020 afii10089 -168
+KPX afii10020 afii10090 -174
+KPX afii10020 afii10091 -202
+KPX afii10020 afii10092 -259
+KPX afii10020 afii10093 -257
+KPX afii10020 afii10094 -217
+KPX afii10020 afii10095 -220
+KPX afii10020 afii10096 -242
+KPX afii10020 afii10097 -238
+KPX afii10020 afii10071 -85
+KPX afii10020 afii10100 -106
+KPX afii10020 afii10101 -244
+KPX afii10020 afii10102 -211
+KPX afii10020 afii10105 -132
+KPX afii10020 afii10106 -306
+KPX afii10020 afii10107 -227
+KPX afii10020 afii10109 -153
+KPX afii10020 afii10193 -227
+KPX afii10020 afii10098 -199
+KPX afii10020 uni0493 -263
+KPX afii10020 uni0497 -217
+KPX afii10020 uni049B -202
+KPX afii10020 uni049D -217
+KPX afii10020 uni04A3 -196
+KPX afii10020 uni04AF -202
+KPX afii10020 uni04B1 -202
+KPX afii10020 uni04B3 -232
+KPX afii10020 uni04B9 -202
+KPX afii10020 uni04D8 -104
+KPX afii10020 afii10846 -208
+KPX afii10020 uni04E8 -91
+KPX afii10020 uni04E9 -196
+KPX afii10020 wgrave -177
+KPX afii10020 wacute -217
+KPX afii10020 wdieresis -137
+
+KPX afii10021 afii10051 -179
+KPX afii10021 afii10053 -56
+KPX afii10021 afii10060 -179
+KPX afii10021 afii10032 -56
+KPX afii10021 afii10035 -56
+KPX afii10021 afii10036 -179
+KPX afii10021 afii10038 -71
+KPX afii10021 afii10041 -133
+KPX afii10021 afii10044 -47
+KPX afii10021 afii10083 -142
+KPX afii10021 afii10085 -41
+KPX afii10021 afii10089 -71
+KPX afii10021 afii10092 -67
+KPX afii10021 afii10104 -120
+KPX afii10021 afii10110 -41
+KPX afii10021 uni04AE -98
+KPX afii10021 uni04AF -133
+KPX afii10021 uni04B0 -86
+KPX afii10021 uni04B8 -133
+KPX afii10021 uni04B9 -71
+KPX afii10021 uni04D8 -56
+KPX afii10021 uni04E8 -56
+KPX afii10021 Wgrave -102
+KPX afii10021 wgrave -71
+KPX afii10021 Wacute -102
+KPX afii10021 wacute -71
+KPX afii10021 Wdieresis -102
+KPX afii10021 wdieresis -71
+KPX afii10021 Ygrave -164
+KPX afii10021 ygrave -41
+
+KPX afii10022 afii10053 -53
+KPX afii10022 afii10032 -53
+KPX afii10022 afii10035 -53
+KPX afii10022 afii10037 -126
+KPX afii10022 afii10038 -53
+KPX afii10022 afii10083 -135
+KPX afii10022 afii10085 -84
+KPX afii10022 afii10088 -150
+KPX afii10022 afii10089 -53
+KPX afii10022 afii10092 -64
+KPX afii10022 afii10104 -113
+KPX afii10022 afii10105 -91
+KPX afii10022 uni04AE -106
+KPX afii10022 uni04AF -84
+KPX afii10022 uni04B8 -136
+KPX afii10022 uni04B9 -53
+KPX afii10022 uni04D8 -53
+KPX afii10022 uni04E8 -53
+KPX afii10022 wgrave -69
+KPX afii10022 wacute -69
+KPX afii10022 wdieresis -69
+
+KPX afii10023 afii10023 -153
+KPX afii10023 afii10053 -53
+KPX afii10023 afii10059 -156
+KPX afii10023 afii10032 -53
+KPX afii10023 afii10035 -148
+KPX afii10023 afii10038 -53
+KPX afii10023 afii10085 -84
+KPX afii10023 afii10089 -53
+KPX afii10023 afii10092 -64
+KPX afii10023 afii10104 -99
+KPX afii10023 afii10105 -91
+KPX afii10023 uni04A3 -135
+KPX afii10023 uni04AF -84
+KPX afii10023 uni04B9 -53
+KPX afii10023 uni04D8 -53
+KPX afii10023 uni04E8 -53
+KPX afii10023 wgrave -69
+KPX afii10023 wacute -69
+KPX afii10023 wdieresis -135
+
+KPX afii10024 afii10053 -60
+KPX afii10024 afii10032 -60
+KPX afii10024 afii10035 -60
+KPX afii10024 afii10038 -90
+KPX afii10024 afii10085 -105
+KPX afii10024 afii10089 -105
+KPX afii10024 afii10092 -71
+KPX afii10024 afii10104 -113
+KPX afii10024 afii10105 -97
+KPX afii10024 uni04AF -121
+KPX afii10024 uni04B9 -105
+KPX afii10024 uni04D8 -60
+KPX afii10024 uni04E8 -60
+KPX afii10024 wgrave -75
+KPX afii10024 wacute -75
+KPX afii10024 wdieresis -75
+
+KPX afii10025 afii10104 -120
+KPX afii10025 afii10105 -86
+
+KPX afii10026 afii10104 -120
+KPX afii10026 afii10105 -77
+
+KPX afii10027 afii10034 -106
+KPX afii10027 afii10037 -135
+KPX afii10027 afii10083 -145
+KPX afii10027 afii10088 -160
+KPX afii10027 afii10104 -122
+KPX afii10027 afii10105 -77
+KPX afii10027 afii10098 -101
+KPX afii10027 uni04AE -116
+KPX afii10027 uni04B8 -129
+
+KPX afii10028 afii10053 -61
+KPX afii10028 afii10032 -61
+KPX afii10028 afii10035 -61
+KPX afii10028 afii10038 -91
+KPX afii10028 afii10085 -106
+KPX afii10028 afii10089 -106
+KPX afii10028 afii10092 -56
+KPX afii10028 afii10104 -105
+KPX afii10028 afii10105 -83
+KPX afii10028 uni04AF -122
+KPX afii10028 uni04B9 -106
+KPX afii10028 uni04D8 -61
+KPX afii10028 uni04E8 -61
+KPX afii10028 wgrave -76
+KPX afii10028 wacute -76
+KPX afii10028 wdieresis -76
+
+KPX afii10029 afii10051 -178
+KPX afii10029 afii10060 -178
+KPX afii10029 afii10036 -178
+KPX afii10029 afii10041 -85
+KPX afii10029 afii10044 -46
+KPX afii10029 afii10085 -101
+KPX afii10029 afii10089 -39
+KPX afii10029 afii10092 -66
+KPX afii10029 afii10104 -130
+KPX afii10029 afii10105 -92
+KPX afii10029 afii10110 -101
+KPX afii10029 uni04AE -162
+KPX afii10029 uni04AF -101
+KPX afii10029 uni04B0 -55
+KPX afii10029 uni04B8 -85
+KPX afii10029 uni04B9 -39
+KPX afii10029 Wgrave -101
+KPX afii10029 wgrave -70
+KPX afii10029 Wacute -101
+KPX afii10029 wacute -70
+KPX afii10029 Wdieresis -101
+KPX afii10029 wdieresis -70
+KPX afii10029 Ygrave -162
+KPX afii10029 ygrave -101
+
+KPX afii10030 afii10051 -104
+KPX afii10030 afii10060 -104
+KPX afii10030 afii10036 -104
+KPX afii10030 afii10041 -43
+KPX afii10030 afii10044 -50
+KPX afii10030 afii10085 -43
+KPX afii10030 afii10104 -127
+KPX afii10030 afii10105 -96
+KPX afii10030 afii10110 -43
+KPX afii10030 uni04AE -104
+KPX afii10030 uni04AF -43
+KPX afii10030 uni04B8 -43
+KPX afii10030 Wgrave -104
+KPX afii10030 wgrave -43
+KPX afii10030 Wacute -104
+KPX afii10030 wacute -43
+KPX afii10030 Wdieresis -104
+KPX afii10030 wdieresis -43
+KPX afii10030 Ygrave -104
+KPX afii10030 ygrave -43
+
+KPX afii10031 afii10023 -123
+KPX afii10031 afii10059 -111
+KPX afii10031 afii10035 -118
+KPX afii10031 afii10043 -105
+KPX afii10031 afii10104 -115
+KPX afii10031 afii10105 -76
+KPX afii10031 uni04B1 -104
+
+KPX afii10032 afii10051 -88
+KPX afii10032 afii10060 -88
+KPX afii10032 afii10062 -42
+KPX afii10032 afii10021 -57
+KPX afii10032 afii10024 -72
+KPX afii10032 afii10036 -88
+KPX afii10032 afii10037 -42
+KPX afii10032 afii10039 -72
+KPX afii10032 afii10044 -49
+KPX afii10032 afii10077 -42
+KPX afii10032 afii10104 -116
+KPX afii10032 afii10105 -95
+KPX afii10032 afii10106 -42
+KPX afii10032 uni0496 -72
+KPX afii10032 uni04AE -72
+KPX afii10032 uni04B2 -72
+KPX afii10032 Ygrave -72
+
+KPX afii10033 afii10056 -271
+KPX afii10033 afii10104 -110
+KPX afii10033 afii10105 -76
+
+KPX afii10034 afii10057 -125
+KPX afii10034 afii10058 -79
+KPX afii10034 afii10017 -79
+KPX afii10034 afii10021 -125
+KPX afii10034 afii10029 -79
+KPX afii10034 afii10037 -126
+KPX afii10034 afii10077 -109
+KPX afii10034 afii10078 -63
+KPX afii10034 afii10083 -166
+KPX afii10034 afii10084 -115
+KPX afii10034 afii10088 -258
+KPX afii10034 afii10091 -115
+KPX afii10034 afii10104 -144
+KPX afii10034 afii10105 -86
+KPX afii10034 afii10106 -109
+KPX afii10034 afii10098 -122
+KPX afii10034 uni04AE -122
+KPX afii10034 uni04B0 -148
+KPX afii10034 uni04B8 -136
+KPX afii10034 Ygrave -99
+
+KPX afii10035 afii10052 -106
+KPX afii10035 afii10056 -188
+KPX afii10035 afii10145 -165
+KPX afii10035 afii10031 -107
+KPX afii10035 afii10034 -119
+KPX afii10035 afii10037 -194
+KPX afii10035 afii10038 -59
+KPX afii10035 afii10049 -186
+KPX afii10035 afii10066 -189
+KPX afii10035 afii10067 -189
+KPX afii10035 afii10068 -181
+KPX afii10035 afii10069 -182
+KPX afii10035 afii10070 -187
+KPX afii10035 afii10072 -189
+KPX afii10035 afii10073 -189
+KPX afii10035 afii10075 -189
+KPX afii10035 afii10076 -182
+KPX afii10035 afii10077 -185
+KPX afii10035 afii10078 -188
+KPX afii10035 afii10079 -184
+KPX afii10035 afii10080 -189
+KPX afii10035 afii10081 -194
+KPX afii10035 afii10082 -182
+KPX afii10035 afii10083 -188
+KPX afii10035 afii10084 -167
+KPX afii10035 afii10085 -188
+KPX afii10035 afii10086 -184
+KPX afii10035 afii10087 -188
+KPX afii10035 afii10088 -188
+KPX afii10035 afii10089 -188
+KPX afii10035 afii10090 -189
+KPX afii10035 afii10091 -183
+KPX afii10035 afii10092 -189
+KPX afii10035 afii10093 -193
+KPX afii10035 afii10094 -189
+KPX afii10035 afii10095 -188
+KPX afii10035 afii10096 -191
+KPX afii10035 afii10097 -165
+KPX afii10035 afii10100 -189
+KPX afii10035 afii10101 -175
+KPX afii10035 afii10104 -165
+KPX afii10035 afii10105 -179
+KPX afii10035 afii10106 -165
+KPX afii10035 afii10108 -144
+KPX afii10035 afii10110 -188
+KPX afii10035 afii10050 -188
+KPX afii10035 afii10098 -98
+KPX afii10035 uni0492 -189
+KPX afii10035 uni0496 -189
+KPX afii10035 uni049A -189
+KPX afii10035 uni049C -189
+KPX afii10035 uni04A2 -189
+KPX afii10035 uni04AE -189
+KPX afii10035 uni04AF -105
+KPX afii10035 uni04B0 -216
+KPX afii10035 uni04B1 -59
+KPX afii10035 uni04B2 -188
+KPX afii10035 uni04B8 -188
+KPX afii10035 uni04B9 -89
+KPX afii10035 uni04BB -106
+KPX afii10035 uni04D8 -182
+KPX afii10035 afii10846 -107
+KPX afii10035 uni04E8 -184
+KPX afii10035 Wgrave -182
+KPX afii10035 wgrave -43
+KPX afii10035 Wacute -182
+KPX afii10035 wacute -43
+KPX afii10035 Wdieresis -182
+KPX afii10035 wdieresis -43
+KPX afii10035 ygrave -59
+
+KPX afii10036 afii10053 -92
+KPX afii10036 afii10056 -224
+KPX afii10036 afii10057 -185
+KPX afii10036 afii10058 -185
+KPX afii10036 afii10145 -155
+KPX afii10036 afii10017 -185
+KPX afii10036 afii10021 -185
+KPX afii10036 afii10029 -185
+KPX afii10036 afii10030 -108
+KPX afii10036 afii10032 -92
+KPX afii10036 afii10035 -92
+KPX afii10036 afii10038 -185
+KPX afii10036 afii10049 -145
+KPX afii10036 afii10065 -185
+KPX afii10036 afii10066 -62
+KPX afii10036 afii10067 -185
+KPX afii10036 afii10068 -171
+KPX afii10036 afii10069 -141
+KPX afii10036 afii10070 -185
+KPX afii10036 afii10072 -103
+KPX afii10036 afii10073 -185
+KPX afii10036 afii10074 -185
+KPX afii10036 afii10076 -172
+KPX afii10036 afii10077 -185
+KPX afii10036 afii10078 -185
+KPX afii10036 afii10079 -143
+KPX afii10036 afii10080 -185
+KPX afii10036 afii10081 -153
+KPX afii10036 afii10082 -141
+KPX afii10036 afii10083 -185
+KPX afii10036 afii10084 -185
+KPX afii10036 afii10085 -147
+KPX afii10036 afii10086 -185
+KPX afii10036 afii10087 -185
+KPX afii10036 afii10088 -185
+KPX afii10036 afii10089 -185
+KPX afii10036 afii10090 -185
+KPX afii10036 afii10091 -185
+KPX afii10036 afii10092 -165
+KPX afii10036 afii10093 -185
+KPX afii10036 afii10094 -185
+KPX afii10036 afii10095 -185
+KPX afii10036 afii10096 -104
+KPX afii10036 afii10097 -109
+KPX afii10036 afii10071 -62
+KPX afii10036 afii10100 -149
+KPX afii10036 afii10101 -104
+KPX afii10036 afii10102 -185
+KPX afii10036 afii10104 -140
+KPX afii10036 afii10105 -154
+KPX afii10036 afii10106 -185
+KPX afii10036 afii10107 -185
+KPX afii10036 afii10109 -154
+KPX afii10036 afii10193 -185
+KPX afii10036 afii10098 -185
+KPX afii10036 uni0492 -133
+KPX afii10036 uni0493 -185
+KPX afii10036 uni0497 -185
+KPX afii10036 uni049B -185
+KPX afii10036 uni049D -185
+KPX afii10036 uni04A3 -185
+KPX afii10036 uni04AF -185
+KPX afii10036 uni04B1 -185
+KPX afii10036 uni04B3 -185
+KPX afii10036 uni04B9 -185
+KPX afii10036 uni04D8 -172
+KPX afii10036 afii10846 -185
+KPX afii10036 uni04E8 -143
+KPX afii10036 uni04E9 -185
+KPX afii10036 wgrave -139
+KPX afii10036 wacute -185
+KPX afii10036 wdieresis -139
+
+KPX afii10037 afii10023 -190
+KPX afii10037 afii10057 -176
+KPX afii10037 afii10058 -176
+KPX afii10037 afii10059 -179
+KPX afii10037 afii10061 -100
+KPX afii10037 afii10017 -176
+KPX afii10037 afii10021 -222
+KPX afii10037 afii10022 -146
+KPX afii10037 afii10029 -176
+KPX afii10037 afii10030 -99
+KPX afii10037 afii10035 -186
+KPX afii10037 afii10036 -100
+KPX afii10037 afii10038 -120
+KPX afii10037 afii10043 -111
+KPX afii10037 afii10065 -115
+KPX afii10037 afii10068 -84
+KPX afii10037 afii10069 -115
+KPX afii10037 afii10070 -115
+KPX afii10037 afii10073 -68
+KPX afii10037 afii10077 -253
+KPX afii10037 afii10078 -191
+KPX afii10037 afii10080 -115
+KPX afii10037 afii10082 -115
+KPX afii10037 afii10083 -115
+KPX afii10037 afii10086 -115
+KPX afii10037 afii10095 -68
+KPX afii10037 afii10097 -110
+KPX afii10037 afii10071 -53
+KPX afii10037 afii10100 -84
+KPX afii10037 afii10101 -132
+KPX afii10037 afii10102 -84
+KPX afii10037 afii10104 -122
+KPX afii10037 afii10105 -106
+KPX afii10037 afii10106 -253
+KPX afii10037 afii10098 -84
+KPX afii10037 uni0493 -145
+KPX afii10037 uni04A3 -111
+KPX afii10037 uni04B1 -142
+KPX afii10037 uni04D8 -53
+KPX afii10037 afii10846 -146
+KPX afii10037 uni04E9 -115
+KPX afii10037 wdieresis -111
+
+KPX afii10038 afii10051 -180
+KPX afii10038 afii10060 -180
+KPX afii10038 afii10062 -57
+KPX afii10038 afii10021 -72
+KPX afii10038 afii10024 -103
+KPX afii10038 afii10031 -102
+KPX afii10038 afii10034 -99
+KPX afii10038 afii10036 -180
+KPX afii10038 afii10037 -127
+KPX afii10038 afii10039 -103
+KPX afii10038 afii10044 -49
+KPX afii10038 afii10047 -57
+KPX afii10038 afii10077 -57
+KPX afii10038 afii10083 -105
+KPX afii10038 afii10088 -105
+KPX afii10038 afii10104 -114
+KPX afii10038 afii10105 -95
+KPX afii10038 afii10106 -42
+KPX afii10038 uni0496 -103
+KPX afii10038 uni04AE -88
+KPX afii10038 uni04B2 -103
+KPX afii10038 uni04B8 -106
+KPX afii10038 afii10846 -102
+KPX afii10038 Ygrave -88
+
+KPX afii10039 afii10053 -70
+KPX afii10039 afii10032 -70
+KPX afii10039 afii10035 -70
+KPX afii10039 afii10038 -101
+KPX afii10039 afii10085 -70
+KPX afii10039 afii10089 -70
+KPX afii10039 afii10092 -66
+KPX afii10039 afii10105 -92
+KPX afii10039 uni04AF -70
+KPX afii10039 uni04B9 -70
+KPX afii10039 uni04D8 -70
+KPX afii10039 uni04E8 -70
+KPX afii10039 wgrave -70
+KPX afii10039 wacute -70
+KPX afii10039 wdieresis -70
+
+KPX afii10040 afii10104 -110
+
+KPX afii10041 afii10104 -109
+KPX afii10041 afii10105 -76
+
+KPX afii10042 afii10105 -78
+
+KPX afii10043 afii10023 -179
+KPX afii10043 afii10059 -167
+KPX afii10043 afii10035 -174
+KPX afii10043 afii10043 -99
+KPX afii10043 afii10083 -101
+KPX afii10043 afii10104 -109
+KPX afii10043 uni04A3 -161
+KPX afii10043 wdieresis -161
+
+KPX afii10044 afii10051 -162
+KPX afii10044 afii10060 -162
+KPX afii10044 afii10036 -162
+KPX afii10044 afii10041 -39
+KPX afii10044 afii10092 -50
+KPX afii10044 afii10104 -107
+KPX afii10044 afii10105 -77
+KPX afii10044 uni04AE -147
+KPX afii10044 uni04B8 -39
+KPX afii10044 Wgrave -39
+KPX afii10044 Wacute -39
+KPX afii10044 Wdieresis -39
+KPX afii10044 Ygrave -147
+
+KPX afii10045 afii10023 -182
+KPX afii10045 afii10059 -170
+KPX afii10045 afii10035 -178
+KPX afii10045 afii10043 -103
+KPX afii10045 afii10083 -104
+KPX afii10045 afii10104 -113
+KPX afii10045 afii10105 -77
+KPX afii10045 uni04A3 -164
+KPX afii10045 wdieresis -164
+
+KPX afii10046 afii10023 -110
+KPX afii10046 afii10051 -175
+KPX afii10046 afii10059 -98
+KPX afii10046 afii10060 -175
+KPX afii10046 afii10036 -175
+KPX afii10046 afii10044 -44
+KPX afii10046 afii10092 -63
+KPX afii10046 afii10104 -103
+KPX afii10046 afii10105 -90
+KPX afii10046 uni04AE -160
+KPX afii10046 Wgrave -52
+KPX afii10046 Wacute -52
+KPX afii10046 Wdieresis -52
+KPX afii10046 Ygrave -160
+
+KPX afii10047 afii10023 -115
+KPX afii10047 afii10051 -89
+KPX afii10047 afii10059 -104
+KPX afii10047 afii10060 -89
+KPX afii10047 afii10062 -43
+KPX afii10047 afii10021 -59
+KPX afii10047 afii10024 -59
+KPX afii10047 afii10036 -89
+KPX afii10047 afii10037 -43
+KPX afii10047 afii10039 -74
+KPX afii10047 afii10043 -98
+KPX afii10047 afii10104 -108
+KPX afii10047 afii10105 -81
+KPX afii10047 uni0496 -59
+KPX afii10047 uni04AE -59
+KPX afii10047 uni04B2 -74
+KPX afii10047 Ygrave -59
+
+KPX afii10048 afii10051 -90
+KPX afii10048 afii10060 -90
+KPX afii10048 afii10062 -44
+KPX afii10048 afii10021 -60
+KPX afii10048 afii10024 -60
+KPX afii10048 afii10036 -90
+KPX afii10048 afii10037 -44
+KPX afii10048 afii10039 -75
+KPX afii10048 afii10044 -51
+KPX afii10048 afii10077 -44
+KPX afii10048 afii10105 -97
+KPX afii10048 uni0496 -60
+KPX afii10048 uni04AE -60
+KPX afii10048 uni04B2 -75
+KPX afii10048 Ygrave -60
+
+KPX afii10049 afii10023 -189
+KPX afii10049 afii10059 -177
+KPX afii10049 afii10035 -185
+KPX afii10049 afii10043 -109
+KPX afii10049 afii10104 -120
+KPX afii10049 afii10105 -67
+KPX afii10049 uni04A3 -171
+KPX afii10049 wdieresis -171
+
+KPX afii10050 afii10053 -91
+KPX afii10050 afii10056 -193
+KPX afii10050 afii10057 -307
+KPX afii10050 afii10058 -184
+KPX afii10050 afii10017 -184
+KPX afii10050 afii10021 -229
+KPX afii10050 afii10029 -184
+KPX afii10050 afii10030 -106
+KPX afii10050 afii10032 -91
+KPX afii10050 afii10035 -91
+KPX afii10050 afii10038 -260
+KPX afii10050 afii10065 -220
+KPX afii10050 afii10066 -76
+KPX afii10050 afii10067 -208
+KPX afii10050 afii10068 -196
+KPX afii10050 afii10069 -245
+KPX afii10050 afii10070 -242
+KPX afii10050 afii10072 -227
+KPX afii10050 afii10073 -208
+KPX afii10050 afii10074 -211
+KPX afii10050 afii10076 -183
+KPX afii10050 afii10077 -229
+KPX afii10050 afii10078 -245
+KPX afii10050 afii10079 -223
+KPX afii10050 afii10080 -199
+KPX afii10050 afii10081 -236
+KPX afii10050 afii10082 -205
+KPX afii10050 afii10083 -196
+KPX afii10050 afii10084 -214
+KPX afii10050 afii10085 -187
+KPX afii10050 afii10086 -229
+KPX afii10050 afii10087 -187
+KPX afii10050 afii10088 -199
+KPX afii10050 afii10089 -211
+KPX afii10050 afii10090 -196
+KPX afii10050 afii10091 -183
+KPX afii10050 afii10092 -274
+KPX afii10050 afii10093 -254
+KPX afii10050 afii10094 -245
+KPX afii10050 afii10095 -217
+KPX afii10050 afii10096 -227
+KPX afii10050 afii10097 -222
+KPX afii10050 afii10071 -119
+KPX afii10050 afii10100 -106
+KPX afii10050 afii10101 -241
+KPX afii10050 afii10102 -229
+KPX afii10050 afii10104 -109
+KPX afii10050 afii10105 -132
+KPX afii10050 afii10106 -254
+KPX afii10050 afii10107 -248
+KPX afii10050 afii10109 -187
+KPX afii10050 afii10193 -227
+KPX afii10050 afii10098 -199
+KPX afii10050 uni0493 -254
+KPX afii10050 uni0497 -223
+KPX afii10050 uni049B -223
+KPX afii10050 uni049D -202
+KPX afii10050 uni04A3 -227
+KPX afii10050 uni04AF -248
+KPX afii10050 uni04B1 -239
+KPX afii10050 uni04B3 -217
+KPX afii10050 uni04B9 -223
+KPX afii10050 uni04D8 -91
+KPX afii10050 afii10846 -208
+KPX afii10050 uni04E8 -91
+KPX afii10050 uni04E9 -202
+KPX afii10050 wgrave -137
+KPX afii10050 wacute -217
+KPX afii10050 wdieresis -137
+
+KPX afii10051 afii10051 -60
+KPX afii10051 afii10056 -292
+KPX afii10051 afii10060 -60
+KPX afii10051 afii10145 -146
+KPX afii10051 afii10034 -101
+KPX afii10051 afii10036 -60
+KPX afii10051 afii10037 -237
+KPX afii10051 afii10049 -290
+KPX afii10051 afii10066 -294
+KPX afii10051 afii10067 -294
+KPX afii10051 afii10068 -286
+KPX afii10051 afii10069 -286
+KPX afii10051 afii10070 -292
+KPX afii10051 afii10072 -294
+KPX afii10051 afii10073 -294
+KPX afii10051 afii10075 -294
+KPX afii10051 afii10076 -287
+KPX afii10051 afii10077 -289
+KPX afii10051 afii10078 -292
+KPX afii10051 afii10079 -288
+KPX afii10051 afii10080 -293
+KPX afii10051 afii10081 -298
+KPX afii10051 afii10082 -286
+KPX afii10051 afii10083 -292
+KPX afii10051 afii10084 -271
+KPX afii10051 afii10085 -292
+KPX afii10051 afii10086 -288
+KPX afii10051 afii10087 -292
+KPX afii10051 afii10088 -292
+KPX afii10051 afii10089 -292
+KPX afii10051 afii10090 -294
+KPX afii10051 afii10091 -288
+KPX afii10051 afii10092 -294
+KPX afii10051 afii10093 -298
+KPX afii10051 afii10094 -294
+KPX afii10051 afii10095 -292
+KPX afii10051 afii10096 -296
+KPX afii10051 afii10097 -270
+KPX afii10051 afii10100 -294
+KPX afii10051 afii10101 -279
+KPX afii10051 afii10104 -146
+KPX afii10051 afii10105 -284
+KPX afii10051 afii10106 -270
+KPX afii10051 afii10108 -125
+KPX afii10051 afii10110 -292
+KPX afii10051 afii10050 -200
+KPX afii10051 uni0492 -294
+KPX afii10051 uni0496 -294
+KPX afii10051 uni049A -294
+KPX afii10051 uni049C -294
+KPX afii10051 uni04A2 -294
+KPX afii10051 uni04AE -294
+KPX afii10051 uni04B0 -321
+KPX afii10051 uni04B2 -292
+KPX afii10051 uni04B8 -292
+KPX afii10051 uni04D8 -286
+KPX afii10051 uni04E8 -288
+KPX afii10051 Wgrave -194
+KPX afii10051 Wacute -240
+KPX afii10051 Wdieresis -286
+KPX afii10051 Ygrave -60
+
+KPX afii10052 afii10053 -91
+KPX afii10052 afii10057 -307
+KPX afii10052 afii10058 -184
+KPX afii10052 afii10017 -184
+KPX afii10052 afii10021 -229
+KPX afii10052 afii10029 -184
+KPX afii10052 afii10030 -106
+KPX afii10052 afii10032 -91
+KPX afii10052 afii10035 -91
+KPX afii10052 afii10038 -214
+KPX afii10052 afii10065 -248
+KPX afii10052 afii10066 -61
+KPX afii10052 afii10067 -236
+KPX afii10052 afii10068 -220
+KPX afii10052 afii10069 -229
+KPX afii10052 afii10070 -217
+KPX afii10052 afii10072 -223
+KPX afii10052 afii10073 -217
+KPX afii10052 afii10074 -217
+KPX afii10052 afii10076 -196
+KPX afii10052 afii10077 -257
+KPX afii10052 afii10078 -294
+KPX afii10052 afii10079 -236
+KPX afii10052 afii10080 -245
+KPX afii10052 afii10081 -220
+KPX afii10052 afii10082 -245
+KPX afii10052 afii10083 -125
+KPX afii10052 afii10084 -254
+KPX afii10052 afii10085 -254
+KPX afii10052 afii10086 -229
+KPX afii10052 afii10087 -242
+KPX afii10052 afii10088 -242
+KPX afii10052 afii10089 -248
+KPX afii10052 afii10090 -239
+KPX afii10052 afii10091 -223
+KPX afii10052 afii10092 -265
+KPX afii10052 afii10093 -245
+KPX afii10052 afii10094 -229
+KPX afii10052 afii10095 -267
+KPX afii10052 afii10096 -267
+KPX afii10052 afii10097 -259
+KPX afii10052 afii10071 -110
+KPX afii10052 afii10100 -106
+KPX afii10052 afii10101 -241
+KPX afii10052 afii10102 -248
+KPX afii10052 afii10104 -103
+KPX afii10052 afii10105 -147
+KPX afii10052 afii10106 -248
+KPX afii10052 afii10107 -245
+KPX afii10052 afii10109 -181
+KPX afii10052 afii10193 -251
+KPX afii10052 afii10098 -199
+KPX afii10052 uni0493 -217
+KPX afii10052 uni0497 -285
+KPX afii10052 uni049B -232
+KPX afii10052 uni049D -236
+KPX afii10052 uni04A3 -270
+KPX afii10052 uni04AF -257
+KPX afii10052 uni04B0 -108
+KPX afii10052 uni04B1 -254
+KPX afii10052 uni04B3 -232
+KPX afii10052 uni04B9 -227
+KPX afii10052 uni04D8 -98
+KPX afii10052 afii10846 -245
+KPX afii10052 uni04E8 -107
+KPX afii10052 uni04E9 -229
+KPX afii10052 wgrave -196
+KPX afii10052 wacute -257
+KPX afii10052 wdieresis -192
+
+KPX afii10053 afii10038 -59
+KPX afii10053 afii10083 -136
+KPX afii10053 afii10085 -74
+KPX afii10053 afii10089 -105
+KPX afii10053 afii10092 -55
+KPX afii10053 afii10104 -113
+KPX afii10053 afii10105 -66
+KPX afii10053 uni04AF -105
+KPX afii10053 uni04B1 -59
+KPX afii10053 uni04B9 -89
+KPX afii10053 wgrave -43
+KPX afii10053 wacute -43
+KPX afii10053 wdieresis -43
+KPX afii10053 ygrave -59
+
+KPX afii10054 afii10092 -65
+KPX afii10054 afii10104 -143
+KPX afii10054 afii10105 -91
+
+KPX afii10055 afii10104 -160
+KPX afii10055 afii10105 -108
+
+KPX afii10056 afii10105 -111
+
+KPX afii10057 afii10023 -177
+KPX afii10057 afii10059 -165
+KPX afii10057 afii10035 -172
+KPX afii10057 afii10043 -98
+KPX afii10057 afii10083 -130
+KPX afii10057 afii10104 -108
+KPX afii10057 afii10105 -75
+KPX afii10057 uni04A3 -159
+KPX afii10057 wdieresis -159
+
+KPX afii10058 afii10023 -186
+KPX afii10058 afii10051 -183
+KPX afii10058 afii10059 -174
+KPX afii10058 afii10060 -183
+KPX afii10058 afii10035 -182
+KPX afii10058 afii10036 -183
+KPX afii10058 afii10041 -44
+KPX afii10058 afii10043 -107
+KPX afii10058 afii10044 -51
+KPX afii10058 afii10083 -140
+KPX afii10058 afii10092 -71
+KPX afii10058 afii10104 -117
+KPX afii10058 afii10105 -97
+KPX afii10058 uni04A3 -168
+KPX afii10058 uni04AE -167
+KPX afii10058 uni04B8 -44
+KPX afii10058 Wgrave -44
+KPX afii10058 Wacute -44
+KPX afii10058 Wdieresis -44
+KPX afii10058 wdieresis -168
+KPX afii10058 Ygrave -167
+
+KPX afii10059 afii10023 -157
+KPX afii10059 afii10051 -181
+KPX afii10059 afii10059 -160
+KPX afii10059 afii10060 -181
+KPX afii10059 afii10035 -152
+KPX afii10059 afii10036 -181
+KPX afii10059 afii10041 -43
+KPX afii10059 afii10043 -108
+KPX afii10059 afii10044 -50
+KPX afii10059 afii10092 -69
+KPX afii10059 afii10104 -118
+KPX afii10059 afii10105 -96
+KPX afii10059 uni04A3 -154
+KPX afii10059 uni04AE -166
+KPX afii10059 uni04B8 -43
+KPX afii10059 Wgrave -43
+KPX afii10059 Wacute -43
+KPX afii10059 Wdieresis -43
+KPX afii10059 wdieresis -154
+KPX afii10059 Ygrave -166
+
+KPX afii10060 afii10051 -60
+KPX afii10060 afii10060 -60
+KPX afii10060 afii10034 -106
+KPX afii10060 afii10036 -60
+KPX afii10060 afii10037 -135
+KPX afii10060 afii10083 -145
+KPX afii10060 afii10088 -160
+KPX afii10060 afii10092 -56
+KPX afii10060 afii10104 -122
+KPX afii10060 afii10105 -83
+KPX afii10060 afii10098 -101
+KPX afii10060 uni04AE -116
+KPX afii10060 uni04B8 -129
+KPX afii10060 Wgrave -44
+KPX afii10060 Wacute -44
+KPX afii10060 Wdieresis -44
+KPX afii10060 Ygrave -60
+
+KPX afii10061 afii10053 -61
+KPX afii10061 afii10056 -224
+KPX afii10061 afii10145 -155
+KPX afii10061 afii10032 -61
+KPX afii10061 afii10035 -61
+KPX afii10061 afii10038 -91
+KPX afii10061 afii10049 -145
+KPX afii10061 afii10068 -171
+KPX afii10061 afii10069 -141
+KPX afii10061 afii10072 -103
+KPX afii10061 afii10076 -172
+KPX afii10061 afii10079 -143
+KPX afii10061 afii10081 -153
+KPX afii10061 afii10082 -141
+KPX afii10061 afii10085 -147
+KPX afii10061 afii10089 -106
+KPX afii10061 afii10092 -56
+KPX afii10061 afii10096 -104
+KPX afii10061 afii10097 -109
+KPX afii10061 afii10100 -149
+KPX afii10061 afii10101 -104
+KPX afii10061 afii10104 -140
+KPX afii10061 afii10105 -154
+KPX afii10061 uni0492 -133
+KPX afii10061 uni04AF -122
+KPX afii10061 uni04B9 -106
+KPX afii10061 uni04D8 -172
+KPX afii10061 uni04E8 -143
+KPX afii10061 wgrave -76
+KPX afii10061 wacute -76
+KPX afii10061 wdieresis -76
+
+KPX afii10062 afii10057 -176
+KPX afii10062 afii10058 -176
+KPX afii10062 afii10017 -176
+KPX afii10062 afii10021 -222
+KPX afii10062 afii10029 -176
+KPX afii10062 afii10030 -99
+KPX afii10062 afii10038 -68
+KPX afii10062 afii10065 -115
+KPX afii10062 afii10068 -84
+KPX afii10062 afii10069 -115
+KPX afii10062 afii10070 -115
+KPX afii10062 afii10073 -68
+KPX afii10062 afii10077 -253
+KPX afii10062 afii10078 -191
+KPX afii10062 afii10080 -115
+KPX afii10062 afii10082 -115
+KPX afii10062 afii10083 -115
+KPX afii10062 afii10086 -115
+KPX afii10062 afii10095 -68
+KPX afii10062 afii10097 -110
+KPX afii10062 afii10071 -53
+KPX afii10062 afii10100 -84
+KPX afii10062 afii10101 -132
+KPX afii10062 afii10102 -84
+KPX afii10062 afii10105 -106
+KPX afii10062 afii10106 -253
+KPX afii10062 afii10098 -84
+KPX afii10062 uni0493 -161
+KPX afii10062 uni04D8 -53
+KPX afii10062 afii10846 -146
+KPX afii10062 uni04E9 -115
+
+KPX afii10065 afii10051 -176
+KPX afii10065 afii10060 -176
+KPX afii10065 afii10036 -176
+KPX afii10065 afii10044 -45
+KPX afii10065 afii10104 -121
+KPX afii10065 afii10105 -91
+KPX afii10065 uni04AE -161
+KPX afii10065 Ygrave -161
+
+KPX afii10066 afii10023 -185
+KPX afii10066 afii10059 -173
+KPX afii10066 afii10035 -181
+KPX afii10066 afii10043 -106
+KPX afii10066 afii10104 -116
+KPX afii10066 afii10105 -91
+KPX afii10066 uni04A3 -106
+KPX afii10066 wdieresis -106
+
+KPX afii10067 afii10023 -178
+KPX afii10067 afii10051 -182
+KPX afii10067 afii10056 -193
+KPX afii10067 afii10059 -166
+KPX afii10067 afii10060 -182
+KPX afii10067 afii10022 -133
+KPX afii10067 afii10035 -173
+KPX afii10067 afii10036 -182
+KPX afii10067 afii10043 -99
+KPX afii10067 afii10044 -51
+KPX afii10067 afii10046 -188
+KPX afii10067 afii10104 -109
+KPX afii10067 afii10105 -97
+KPX afii10067 uni0493 -147
+KPX afii10067 uni04AE -151
+KPX afii10067 Wgrave -44
+KPX afii10067 Wacute -44
+KPX afii10067 Wdieresis -44
+KPX afii10067 Ygrave -151
+
+KPX afii10068 afii10023 -162
+KPX afii10068 afii10051 -181
+KPX afii10068 afii10057 -175
+KPX afii10068 afii10058 -89
+KPX afii10068 afii10059 -150
+KPX afii10068 afii10060 -181
+KPX afii10068 afii10017 -89
+KPX afii10068 afii10021 -135
+KPX afii10068 afii10024 -120
+KPX afii10068 afii10029 -89
+KPX afii10068 afii10030 -42
+KPX afii10068 afii10035 -157
+KPX afii10068 afii10036 -181
+KPX afii10068 afii10039 -73
+KPX afii10068 afii10044 -50
+KPX afii10068 afii10047 -196
+KPX afii10068 afii10077 -135
+KPX afii10068 afii10078 -73
+KPX afii10068 afii10105 -96
+KPX afii10068 afii10106 -135
+KPX afii10068 uni0496 -120
+KPX afii10068 uni04A3 -113
+KPX afii10068 uni04AE -58
+KPX afii10068 uni04B0 -58
+KPX afii10068 uni04B2 -73
+KPX afii10068 uni04D8 -196
+KPX afii10068 wdieresis -113
+KPX afii10068 Ygrave -58
+
+KPX afii10069 afii10023 -177
+KPX afii10069 afii10051 -176
+KPX afii10069 afii10059 -165
+KPX afii10069 afii10060 -176
+KPX afii10069 afii10035 -172
+KPX afii10069 afii10036 -176
+KPX afii10069 afii10044 -45
+KPX afii10069 afii10104 -107
+KPX afii10069 uni04A3 -159
+KPX afii10069 uni04AE -161
+KPX afii10069 wdieresis -159
+KPX afii10069 Ygrave -161
+
+KPX afii10070 afii10023 -172
+KPX afii10070 afii10051 -176
+KPX afii10070 afii10059 -160
+KPX afii10070 afii10060 -176
+KPX afii10070 afii10035 -167
+KPX afii10070 afii10036 -176
+KPX afii10070 afii10044 -45
+KPX afii10070 afii10104 -103
+KPX afii10070 afii10105 -91
+KPX afii10070 uni04AE -161
+KPX afii10070 Ygrave -161
+
+KPX afii10071 afii10023 -179
+KPX afii10071 afii10051 -53
+KPX afii10071 afii10059 -167
+KPX afii10071 afii10060 -53
+KPX afii10071 afii10035 -174
+KPX afii10071 afii10036 -53
+KPX afii10071 afii10043 -100
+KPX afii10071 afii10105 -91
+KPX afii10071 uni04A3 -146
+KPX afii10071 uni04AE -53
+KPX afii10071 wdieresis -146
+KPX afii10071 Ygrave -53
+
+KPX afii10072 afii10023 -186
+KPX afii10072 afii10051 -180
+KPX afii10072 afii10059 -174
+KPX afii10072 afii10060 -180
+KPX afii10072 afii10035 -181
+KPX afii10072 afii10036 -180
+KPX afii10072 afii10043 -106
+KPX afii10072 afii10044 -49
+KPX afii10072 afii10104 -117
+KPX afii10072 afii10105 -95
+KPX afii10072 uni04A3 -106
+KPX afii10072 uni04AE -57
+KPX afii10072 uni04B0 -57
+KPX afii10072 wdieresis -106
+KPX afii10072 Ygrave -57
+
+KPX afii10073 afii10023 -187
+KPX afii10073 afii10051 -173
+KPX afii10073 afii10059 -174
+KPX afii10073 afii10060 -173
+KPX afii10073 afii10035 -182
+KPX afii10073 afii10036 -173
+KPX afii10073 afii10043 -107
+KPX afii10073 afii10044 -42
+KPX afii10073 afii10104 -117
+KPX afii10073 afii10105 -87
+KPX afii10073 uni04AE -111
+KPX afii10073 Ygrave -111
+
+KPX afii10074 afii10051 -168
+KPX afii10074 afii10060 -168
+KPX afii10074 afii10036 -168
+KPX afii10074 afii10104 -117
+KPX afii10074 afii10105 -83
+KPX afii10074 uni04AE -61
+KPX afii10074 Ygrave -61
+
+KPX afii10075 afii10023 -173
+KPX afii10075 afii10059 -162
+KPX afii10075 afii10035 -169
+KPX afii10075 afii10104 -104
+KPX afii10075 afii10105 -83
+
+KPX afii10076 afii10023 -166
+KPX afii10076 afii10051 -182
+KPX afii10076 afii10059 -154
+KPX afii10076 afii10060 -182
+KPX afii10076 afii10035 -162
+KPX afii10076 afii10036 -182
+KPX afii10076 afii10044 -51
+KPX afii10076 afii10105 -97
+KPX afii10076 uni04AE -59
+KPX afii10076 uni04B0 -59
+KPX afii10076 Ygrave -59
+
+KPX afii10077 afii10023 -172
+KPX afii10077 afii10051 -168
+KPX afii10077 afii10053 -45
+KPX afii10077 afii10059 -160
+KPX afii10077 afii10060 -168
+KPX afii10077 afii10032 -45
+KPX afii10077 afii10035 -167
+KPX afii10077 afii10036 -168
+KPX afii10077 afii10038 -61
+KPX afii10077 afii10041 -122
+KPX afii10077 afii10085 -106
+KPX afii10077 afii10089 -61
+KPX afii10077 afii10092 -72
+KPX afii10077 afii10104 -103
+KPX afii10077 afii10105 -83
+KPX afii10077 afii10110 -106
+KPX afii10077 uni04AE -153
+KPX afii10077 uni04AF -137
+KPX afii10077 uni04B0 -76
+KPX afii10077 uni04B8 -122
+KPX afii10077 uni04B9 -61
+KPX afii10077 uni04D8 -45
+KPX afii10077 uni04E8 -45
+KPX afii10077 Wgrave -106
+KPX afii10077 wgrave -76
+KPX afii10077 Wacute -106
+KPX afii10077 wacute -76
+KPX afii10077 Wdieresis -106
+KPX afii10077 wdieresis -76
+KPX afii10077 Ygrave -153
+KPX afii10077 ygrave -106
+
+KPX afii10078 afii10023 -172
+KPX afii10078 afii10051 -179
+KPX afii10078 afii10059 -160
+KPX afii10078 afii10060 -179
+KPX afii10078 afii10035 -167
+KPX afii10078 afii10036 -179
+KPX afii10078 afii10041 -71
+KPX afii10078 afii10044 -47
+KPX afii10078 afii10085 -71
+KPX afii10078 afii10092 -52
+KPX afii10078 afii10104 -103
+KPX afii10078 afii10105 -94
+KPX afii10078 afii10110 -71
+KPX afii10078 uni04AE -164
+KPX afii10078 uni04AF -71
+KPX afii10078 uni04B0 -41
+KPX afii10078 uni04B8 -71
+KPX afii10078 Wgrave -102
+KPX afii10078 wgrave -71
+KPX afii10078 Wacute -102
+KPX afii10078 wacute -71
+KPX afii10078 Wdieresis -102
+KPX afii10078 wdieresis -71
+KPX afii10078 Ygrave -164
+KPX afii10078 ygrave -71
+
+KPX afii10079 afii10023 -177
+KPX afii10079 afii10051 -171
+KPX afii10079 afii10059 -165
+KPX afii10079 afii10060 -171
+KPX afii10079 afii10035 -172
+KPX afii10079 afii10036 -171
+KPX afii10079 afii10044 -40
+KPX afii10079 afii10104 -107
+KPX afii10079 afii10105 -86
+KPX afii10079 uni04A3 -159
+KPX afii10079 uni04AE -63
+KPX afii10079 wdieresis -159
+KPX afii10079 Ygrave -63
+
+KPX afii10080 afii10023 -189
+KPX afii10080 afii10051 -176
+KPX afii10080 afii10059 -177
+KPX afii10080 afii10060 -176
+KPX afii10080 afii10035 -185
+KPX afii10080 afii10036 -176
+KPX afii10080 afii10043 -110
+KPX afii10080 afii10044 -45
+KPX afii10080 afii10104 -120
+KPX afii10080 afii10105 -91
+KPX afii10080 uni04AE -161
+KPX afii10080 Ygrave -161
+
+KPX afii10081 afii10023 -183
+KPX afii10081 afii10051 -168
+KPX afii10081 afii10059 -171
+KPX afii10081 afii10060 -168
+KPX afii10081 afii10035 -178
+KPX afii10081 afii10036 -168
+KPX afii10081 afii10043 -104
+KPX afii10081 afii10104 -114
+KPX afii10081 afii10105 -83
+KPX afii10081 uni04A3 -165
+KPX afii10081 uni04AE -153
+KPX afii10081 wdieresis -165
+KPX afii10081 Ygrave -153
+
+KPX afii10082 afii10023 -190
+KPX afii10082 afii10051 -176
+KPX afii10082 afii10059 -178
+KPX afii10082 afii10060 -176
+KPX afii10082 afii10035 -186
+KPX afii10082 afii10036 -176
+KPX afii10082 afii10043 -111
+KPX afii10082 afii10044 -45
+KPX afii10082 afii10104 -121
+KPX afii10082 afii10105 -91
+KPX afii10082 uni04A3 -111
+KPX afii10082 uni04AE -161
+KPX afii10082 uni04AF -111
+KPX afii10082 wdieresis -111
+KPX afii10082 Ygrave -161
+
+KPX afii10083 afii10023 -167
+KPX afii10083 afii10051 -175
+KPX afii10083 afii10056 -104
+KPX afii10083 afii10059 -155
+KPX afii10083 afii10060 -175
+KPX afii10083 afii10022 -106
+KPX afii10083 afii10035 -162
+KPX afii10083 afii10036 -175
+KPX afii10083 afii10044 -44
+KPX afii10083 afii10046 -100
+KPX afii10083 afii10104 -98
+KPX afii10083 afii10105 -90
+KPX afii10083 uni0493 -121
+KPX afii10083 uni04AE -114
+KPX afii10083 uni04B0 -114
+KPX afii10083 Ygrave -114
+
+KPX afii10084 afii10023 -175
+KPX afii10084 afii10051 -180
+KPX afii10084 afii10059 -164
+KPX afii10084 afii10060 -180
+KPX afii10084 afii10022 -115
+KPX afii10084 afii10035 -171
+KPX afii10084 afii10036 -180
+KPX afii10084 afii10044 -49
+KPX afii10084 afii10104 -106
+KPX afii10084 afii10105 -95
+KPX afii10084 uni0493 -129
+KPX afii10084 uni04AE -149
+KPX afii10084 Ygrave -149
+
+KPX afii10085 afii10023 -168
+KPX afii10085 afii10051 -175
+KPX afii10085 afii10058 -83
+KPX afii10085 afii10059 -156
+KPX afii10085 afii10060 -175
+KPX afii10085 afii10017 -83
+KPX afii10085 afii10021 -114
+KPX afii10085 afii10024 -114
+KPX afii10085 afii10029 -83
+KPX afii10085 afii10035 -164
+KPX afii10085 afii10036 -175
+KPX afii10085 afii10039 -83
+KPX afii10085 afii10044 -44
+KPX afii10085 afii10047 -83
+KPX afii10085 afii10077 -114
+KPX afii10085 afii10078 -67
+KPX afii10085 afii10104 -99
+KPX afii10085 afii10105 -90
+KPX afii10085 afii10106 -98
+KPX afii10085 uni0496 -114
+KPX afii10085 uni04A3 -135
+KPX afii10085 uni04AE -67
+KPX afii10085 uni04B2 -83
+KPX afii10085 wdieresis -135
+KPX afii10085 Ygrave -67
+
+KPX afii10086 afii10023 -170
+KPX afii10086 afii10051 -181
+KPX afii10086 afii10059 -158
+KPX afii10086 afii10060 -181
+KPX afii10086 afii10035 -166
+KPX afii10086 afii10036 -181
+KPX afii10086 afii10044 -50
+KPX afii10086 afii10104 -101
+KPX afii10086 afii10105 -96
+KPX afii10086 uni04AE -166
+KPX afii10086 Ygrave -166
+
+KPX afii10087 afii10023 -147
+KPX afii10087 afii10051 -175
+KPX afii10087 afii10059 -136
+KPX afii10087 afii10060 -175
+KPX afii10087 afii10035 -143
+KPX afii10087 afii10036 -175
+KPX afii10087 afii10044 -44
+KPX afii10087 afii10105 -90
+KPX afii10087 uni04A3 -99
+KPX afii10087 uni04AE -67
+KPX afii10087 uni04B0 -67
+KPX afii10087 wdieresis -99
+KPX afii10087 Ygrave -67
+
+KPX afii10088 afii10023 -170
+KPX afii10088 afii10051 -169
+KPX afii10088 afii10059 -158
+KPX afii10088 afii10060 -169
+KPX afii10088 afii10035 -166
+KPX afii10088 afii10036 -169
+KPX afii10088 afii10104 -101
+KPX afii10088 uni04AE -139
+KPX afii10088 Wgrave -62
+KPX afii10088 Wacute -62
+KPX afii10088 Wdieresis -62
+KPX afii10088 Ygrave -139
+
+KPX afii10089 afii10023 -170
+KPX afii10089 afii10051 -182
+KPX afii10089 afii10059 -158
+KPX afii10089 afii10060 -182
+KPX afii10089 afii10035 -166
+KPX afii10089 afii10036 -182
+KPX afii10089 afii10044 -51
+KPX afii10089 afii10104 -101
+KPX afii10089 afii10105 -97
+KPX afii10089 uni04AE -59
+KPX afii10089 Ygrave -59
+
+KPX afii10090 afii10023 -157
+KPX afii10090 afii10051 -180
+KPX afii10090 afii10059 -146
+KPX afii10090 afii10060 -180
+KPX afii10090 afii10035 -153
+KPX afii10090 afii10036 -180
+KPX afii10090 afii10044 -49
+KPX afii10090 afii10105 -95
+KPX afii10090 uni04A3 -109
+KPX afii10090 uni04AE -57
+KPX afii10090 wdieresis -109
+KPX afii10090 Ygrave -57
+
+KPX afii10091 afii10023 -170
+KPX afii10091 afii10051 -181
+KPX afii10091 afii10059 -158
+KPX afii10091 afii10060 -181
+KPX afii10091 afii10035 -166
+KPX afii10091 afii10036 -181
+KPX afii10091 afii10044 -50
+KPX afii10091 afii10083 -124
+KPX afii10091 afii10104 -101
+KPX afii10091 uni04A3 -152
+KPX afii10091 uni04AE -135
+KPX afii10091 uni04B0 -43
+KPX afii10091 Wgrave -58
+KPX afii10091 Wacute -58
+KPX afii10091 Wdieresis -58
+KPX afii10091 wdieresis -152
+KPX afii10091 Ygrave -135
+
+KPX afii10092 afii10023 -173
+KPX afii10092 afii10051 -165
+KPX afii10092 afii10059 -161
+KPX afii10092 afii10060 -165
+KPX afii10092 afii10035 -168
+KPX afii10092 afii10036 -165
+KPX afii10092 afii10041 -134
+KPX afii10092 afii10085 -42
+KPX afii10092 afii10092 -53
+KPX afii10092 afii10104 -104
+KPX afii10092 afii10105 -80
+KPX afii10092 afii10110 -42
+KPX afii10092 uni04AE -150
+KPX afii10092 uni04AF -58
+KPX afii10092 uni04B8 -134
+KPX afii10092 Wgrave -58
+KPX afii10092 Wacute -58
+KPX afii10092 Wdieresis -58
+KPX afii10092 Ygrave -150
+KPX afii10092 ygrave -42
+
+KPX afii10093 afii10023 -174
+KPX afii10093 afii10051 -176
+KPX afii10093 afii10059 -162
+KPX afii10093 afii10060 -176
+KPX afii10093 afii10035 -170
+KPX afii10093 afii10036 -176
+KPX afii10093 afii10044 -45
+KPX afii10093 afii10083 -127
+KPX afii10093 afii10104 -105
+KPX afii10093 afii10105 -91
+KPX afii10093 uni04A3 -156
+KPX afii10093 uni04AE -69
+KPX afii10093 wdieresis -156
+KPX afii10093 Ygrave -69
+
+KPX afii10094 afii10023 -181
+KPX afii10094 afii10051 -178
+KPX afii10094 afii10059 -169
+KPX afii10094 afii10060 -178
+KPX afii10094 afii10035 -177
+KPX afii10094 afii10036 -178
+KPX afii10094 afii10041 -147
+KPX afii10094 afii10043 -102
+KPX afii10094 afii10044 -47
+KPX afii10094 afii10085 -55
+KPX afii10094 afii10092 -66
+KPX afii10094 afii10104 -112
+KPX afii10094 afii10105 -93
+KPX afii10094 afii10110 -55
+KPX afii10094 uni04A3 -164
+KPX afii10094 uni04AE -163
+KPX afii10094 uni04AF -55
+KPX afii10094 uni04B1 -40
+KPX afii10094 uni04B8 -147
+KPX afii10094 Wgrave -70
+KPX afii10094 Wacute -70
+KPX afii10094 Wdieresis -70
+KPX afii10094 wdieresis -164
+KPX afii10094 Ygrave -163
+KPX afii10094 ygrave -55
+
+KPX afii10095 afii10023 -164
+KPX afii10095 afii10051 -175
+KPX afii10095 afii10059 -152
+KPX afii10095 afii10060 -175
+KPX afii10095 afii10035 -160
+KPX afii10095 afii10036 -175
+KPX afii10095 afii10044 -44
+KPX afii10095 afii10105 -90
+KPX afii10095 uni04A3 -146
+KPX afii10095 uni04AE -160
+KPX afii10095 wdieresis -146
+KPX afii10095 Ygrave -160
+
+KPX afii10096 afii10023 -189
+KPX afii10096 afii10051 -179
+KPX afii10096 afii10059 -178
+KPX afii10096 afii10060 -179
+KPX afii10096 afii10035 -185
+KPX afii10096 afii10036 -179
+KPX afii10096 afii10043 -110
+KPX afii10096 afii10044 -47
+KPX afii10096 afii10104 -121
+KPX afii10096 afii10105 -94
+KPX afii10096 uni04AE -164
+KPX afii10096 Ygrave -164
+
+KPX afii10097 afii10023 -187
+KPX afii10097 afii10051 -167
+KPX afii10097 afii10059 -175
+KPX afii10097 afii10060 -167
+KPX afii10097 afii10035 -183
+KPX afii10097 afii10036 -167
+KPX afii10097 afii10043 -108
+KPX afii10097 afii10104 -118
+KPX afii10097 afii10105 -82
+KPX afii10097 uni04A3 -139
+KPX afii10097 uni04AE -59
+KPX afii10097 wdieresis -139
+KPX afii10097 Ygrave -59
+
+KPX afii10098 afii10056 -312
+KPX afii10098 afii10057 -196
+KPX afii10098 afii10058 -89
+KPX afii10098 afii10145 -120
+KPX afii10098 afii10017 -89
+KPX afii10098 afii10021 -135
+KPX afii10098 afii10029 -89
+KPX afii10098 afii10030 -42
+KPX afii10098 afii10068 -151
+KPX afii10098 afii10070 -172
+KPX afii10098 afii10076 -137
+KPX afii10098 afii10077 -135
+KPX afii10098 afii10078 -73
+KPX afii10098 afii10083 -219
+KPX afii10098 afii10091 -168
+KPX afii10098 afii10104 -150
+KPX afii10098 afii10105 -134
+KPX afii10098 afii10106 -135
+KPX afii10098 uni0492 -98
+KPX afii10098 uni0496 -160
+KPX afii10098 uni04B0 -109
+KPX afii10098 uni04B2 -112
+KPX afii10098 uni04D8 -306
+
+KPX afii10099 afii10051 -169
+KPX afii10099 afii10056 -193
+KPX afii10099 afii10060 -169
+KPX afii10099 afii10036 -169
+KPX afii10099 afii10104 -109
+KPX afii10099 uni04AE -154
+KPX afii10099 Ygrave -154
+
+KPX afii10100 afii10023 -181
+KPX afii10100 afii10057 -196
+KPX afii10100 afii10058 -89
+KPX afii10100 afii10059 -169
+KPX afii10100 afii10017 -89
+KPX afii10100 afii10021 -135
+KPX afii10100 afii10029 -89
+KPX afii10100 afii10030 -42
+KPX afii10100 afii10035 -177
+KPX afii10100 afii10043 -102
+KPX afii10100 afii10077 -135
+KPX afii10100 afii10078 -73
+KPX afii10100 afii10104 -112
+KPX afii10100 afii10105 -96
+KPX afii10100 afii10106 -135
+KPX afii10100 uni04A3 -102
+KPX afii10100 uni04AF -102
+KPX afii10100 uni04D8 -135
+KPX afii10100 wdieresis -102
+
+KPX afii10101 afii10023 -194
+KPX afii10101 afii10051 -173
+KPX afii10101 afii10059 -183
+KPX afii10101 afii10060 -173
+KPX afii10101 afii10035 -190
+KPX afii10101 afii10036 -173
+KPX afii10101 afii10043 -115
+KPX afii10101 afii10044 -42
+KPX afii10101 afii10104 -125
+KPX afii10101 afii10105 -87
+KPX afii10101 uni04A3 -130
+KPX afii10101 uni04AE -111
+KPX afii10101 uni04B0 -81
+KPX afii10101 wdieresis -130
+KPX afii10101 Ygrave -111
+
+KPX afii10102 afii10051 -177
+KPX afii10102 afii10060 -177
+KPX afii10102 afii10036 -177
+KPX afii10102 afii10044 -45
+KPX afii10102 afii10104 -146
+KPX afii10102 afii10105 -91
+KPX afii10102 uni04AE -130
+KPX afii10102 uni04B0 -69
+KPX afii10102 Ygrave -130
+
+KPX afii10103 afii10104 -160
+KPX afii10103 afii10105 -87
+
+KPX afii10105 afii10023 -162
+KPX afii10105 afii10059 -150
+KPX afii10105 afii10035 -158
+KPX afii10105 afii10083 -115
+KPX afii10105 uni04A3 -144
+KPX afii10105 wdieresis -144
+
+KPX afii10106 afii10051 -169
+KPX afii10106 afii10060 -169
+KPX afii10106 afii10036 -169
+KPX afii10106 afii10041 -153
+KPX afii10106 afii10085 -46
+KPX afii10106 afii10092 -57
+KPX afii10106 afii10105 -83
+KPX afii10106 afii10110 -46
+KPX afii10106 uni04AE -153
+KPX afii10106 uni04AF -61
+KPX afii10106 uni04B8 -153
+KPX afii10106 Wgrave -77
+KPX afii10106 Wacute -77
+KPX afii10106 Wdieresis -77
+KPX afii10106 Ygrave -153
+KPX afii10106 ygrave -46
+
+KPX afii10107 afii10023 -135
+KPX afii10107 afii10051 -180
+KPX afii10107 afii10059 -123
+KPX afii10107 afii10060 -180
+KPX afii10107 afii10035 -131
+KPX afii10107 afii10036 -180
+KPX afii10107 afii10041 -149
+KPX afii10107 afii10043 -117
+KPX afii10107 afii10044 -49
+KPX afii10107 afii10085 -42
+KPX afii10107 afii10092 -68
+KPX afii10107 afii10104 -127
+KPX afii10107 afii10105 -95
+KPX afii10107 afii10110 -42
+KPX afii10107 uni04A3 -102
+KPX afii10107 uni04AE -165
+KPX afii10107 uni04AF -57
+KPX afii10107 uni04B8 -149
+KPX afii10107 Wgrave -72
+KPX afii10107 Wacute -72
+KPX afii10107 Wdieresis -72
+KPX afii10107 wdieresis -102
+KPX afii10107 Ygrave -165
+KPX afii10107 ygrave -42
+
+KPX afii10108 afii10051 -169
+KPX afii10108 afii10060 -169
+KPX afii10108 afii10036 -169
+KPX afii10108 afii10104 -104
+KPX afii10108 afii10105 -84
+KPX afii10108 uni04AE -154
+KPX afii10108 Ygrave -154
+
+KPX afii10109 afii10104 -106
+KPX afii10109 afii10105 -97
+
+KPX afii10110 afii10023 -182
+KPX afii10110 afii10058 -83
+KPX afii10110 afii10059 -169
+KPX afii10110 afii10017 -83
+KPX afii10110 afii10021 -114
+KPX afii10110 afii10029 -83
+KPX afii10110 afii10035 -177
+KPX afii10110 afii10043 -102
+KPX afii10110 afii10077 -114
+KPX afii10110 afii10078 -67
+KPX afii10110 afii10105 -90
+KPX afii10110 afii10106 -98
+
+KPX afii10145 afii10023 -175
+KPX afii10145 afii10059 -163
+KPX afii10145 afii10035 -155
+KPX afii10145 afii10104 -105
+KPX afii10145 afii10105 -76
+KPX afii10145 uni04A3 -157
+KPX afii10145 uni04E9 -109
+KPX afii10145 wgrave -109
+KPX afii10145 wacute -109
+KPX afii10145 wdieresis -157
+
+KPX afii10193 afii10051 -175
+KPX afii10193 afii10056 -295
+KPX afii10193 afii10060 -175
+KPX afii10193 afii10145 -150
+KPX afii10193 afii10031 -107
+KPX afii10193 afii10034 -104
+KPX afii10193 afii10036 -175
+KPX afii10193 afii10037 -256
+KPX afii10193 afii10044 -44
+KPX afii10193 afii10049 -293
+KPX afii10193 afii10066 -297
+KPX afii10193 afii10067 -297
+KPX afii10193 afii10068 -289
+KPX afii10193 afii10069 -290
+KPX afii10193 afii10070 -295
+KPX afii10193 afii10072 -297
+KPX afii10193 afii10073 -297
+KPX afii10193 afii10075 -297
+KPX afii10193 afii10076 -290
+KPX afii10193 afii10077 -292
+KPX afii10193 afii10078 -296
+KPX afii10193 afii10079 -292
+KPX afii10193 afii10080 -297
+KPX afii10193 afii10081 -302
+KPX afii10193 afii10082 -290
+KPX afii10193 afii10083 -295
+KPX afii10193 afii10084 -275
+KPX afii10193 afii10085 -295
+KPX afii10193 afii10086 -292
+KPX afii10193 afii10087 -295
+KPX afii10193 afii10088 -295
+KPX afii10193 afii10089 -296
+KPX afii10193 afii10090 -297
+KPX afii10193 afii10091 -291
+KPX afii10193 afii10092 -297
+KPX afii10193 afii10093 -301
+KPX afii10193 afii10094 -297
+KPX afii10193 afii10095 -296
+KPX afii10193 afii10096 -299
+KPX afii10193 afii10097 -273
+KPX afii10193 afii10100 -297
+KPX afii10193 afii10101 -283
+KPX afii10193 afii10104 -166
+KPX afii10193 afii10105 -287
+KPX afii10193 afii10106 -273
+KPX afii10193 afii10108 -128
+KPX afii10193 afii10110 -296
+KPX afii10193 afii10050 -203
+KPX afii10193 uni0492 -297
+KPX afii10193 uni0496 -297
+KPX afii10193 uni049A -297
+KPX afii10193 uni049C -297
+KPX afii10193 uni04A2 -297
+KPX afii10193 uni04AE -297
+KPX afii10193 uni04B0 -324
+KPX afii10193 uni04B2 -296
+KPX afii10193 uni04B8 -296
+KPX afii10193 uni04BB -106
+KPX afii10193 uni04D8 -290
+KPX afii10193 afii10846 -107
+KPX afii10193 uni04E8 -292
+KPX afii10193 Wgrave -197
+KPX afii10193 Wacute -244
+KPX afii10193 Wdieresis -290
+KPX afii10193 Ygrave -67
+
+KPX afii10846 afii10023 -123
+KPX afii10846 afii10051 -176
+KPX afii10846 afii10059 -111
+KPX afii10846 afii10060 -176
+KPX afii10846 afii10035 -118
+KPX afii10846 afii10036 -176
+KPX afii10846 afii10043 -105
+KPX afii10846 afii10044 -45
+KPX afii10846 afii10104 -115
+KPX afii10846 afii10105 -91
+KPX afii10846 uni04AE -161
+KPX afii10846 uni04B1 -104
+KPX afii10846 Ygrave -161
+
+KPX agrave T -75
+KPX agrave V -122
+KPX agrave W -78
+KPX agrave Y -109
+KPX agrave f -28
+KPX agrave j.001 -71
+KPX agrave t -44
+KPX agrave v -30
+KPX agrave y.001 -30
+KPX agrave Yacute -102
+KPX agrave icircumflex -28
+KPX agrave idieresis -32
+KPX agrave yacute -30
+KPX agrave ydieresis -30
+KPX agrave florin -76
+
+KPX alpha Epsilontonos -30
+KPX alpha Etatonos -11
+KPX alpha Iotatonos -8
+KPX alpha Upsilontonos -24
+KPX alpha iotadieresistonos -42
+KPX alpha Tau -178
+KPX alpha Upsilon -70
+KPX alpha Upsilondieresis -70
+
+KPX alphatonos Epsilontonos -8
+KPX alphatonos Etatonos -8
+KPX alphatonos Iotatonos 4
+KPX alphatonos Upsilontonos 1
+KPX alphatonos iotadieresistonos -18
+KPX alphatonos Tau -162
+KPX alphatonos Upsilon -70
+KPX alphatonos Upsilondieresis -70
+
+KPX aring T -54
+KPX aring V -46
+KPX aring W -78
+KPX aring Y -54
+KPX aring f -28
+KPX aring j.001 -93
+KPX aring t -44
+KPX aring v -30
+KPX aring y.001 -30
+KPX aring Yacute -58
+KPX aring icircumflex -28
+KPX aring idieresis -32
+KPX aring yacute -30
+KPX aring ydieresis -30
+KPX aring florin -76
+
+KPX aringacute T -100
+KPX aringacute V -84
+KPX aringacute Y -115
+KPX aringacute j.001 -91
+KPX aringacute Yacute -115
+KPX aringacute florin -76
+
+KPX atilde T -60
+KPX atilde V -60
+KPX atilde W -47
+KPX atilde Y -60
+KPX atilde f -28
+KPX atilde j.001 -88
+KPX atilde t -44
+KPX atilde v -30
+KPX atilde y.001 -30
+KPX atilde Yacute -60
+KPX atilde yacute -30
+KPX atilde ydieresis -30
+KPX atilde florin -76
+
+KPX b.001 A -29
+KPX b.001 T -136
+KPX b.001 V -63
+KPX b.001 W -78
+KPX b.001 X -60
+KPX b.001 Y -144
+KPX b.001 Z -60
+KPX b.001 f -28
+KPX b.001 j.001 -126
+KPX b.001 t -44
+KPX b.001 v -30
+KPX b.001 x -45
+KPX b.001 y.001 -30
+KPX b.001 z -45
+KPX b.001 Agrave -29
+KPX b.001 Aacute -29
+KPX b.001 Acircumflex -29
+KPX b.001 Atilde -29
+KPX b.001 Adieresis -29
+KPX b.001 Aring -29
+KPX b.001 AE -31
+KPX b.001 Yacute -125
+KPX b.001 icircumflex -28
+KPX b.001 idieresis -32
+KPX b.001 yacute -30
+KPX b.001 ydieresis -30
+KPX b.001 florin -76
+
+KPX beta Tau -52
+KPX beta Upsilon -52
+KPX beta Upsilondieresis -52
+
+KPX chi Epsilontonos -101
+KPX chi Etatonos -101
+KPX chi Iotatonos -101
+KPX chi Upsilontonos -55
+KPX chi iotadieresistonos -40
+KPX chi Tau -175
+KPX chi Upsilon -67
+KPX chi Upsilondieresis -67
+
+KPX d.001 A -29
+KPX d.001 j.001 -110
+KPX d.001 Agrave -29
+KPX d.001 Aacute -29
+KPX d.001 Acircumflex -29
+KPX d.001 Atilde -29
+KPX d.001 Adieresis -29
+KPX d.001 Aring -29
+KPX d.001 AE -31
+
+KPX dotlessi I -25
+KPX dotlessi T -237
+KPX dotlessi V -83
+KPX dotlessi W -40
+KPX dotlessi Y -129
+KPX dotlessi i -31
+KPX dotlessi j.001 -136
+KPX dotlessi Igrave -29
+KPX dotlessi Iacute -32
+KPX dotlessi Icircumflex -36
+KPX dotlessi Idieresis -25
+KPX dotlessi Yacute -129
+KPX dotlessi igrave -27
+KPX dotlessi iacute -25
+KPX dotlessi icircumflex -52
+KPX dotlessi idieresis -55
+KPX dotlessi dotlessi -25
+KPX dotlessi florin -46
+
+KPX e.001 A -45
+KPX e.001 T -154
+KPX e.001 V -122
+KPX e.001 W -78
+KPX e.001 X -60
+KPX e.001 Y -120
+KPX e.001 Z -60
+KPX e.001 f -28
+KPX e.001 j.001 -120
+KPX e.001 s -10
+KPX e.001 t -44
+KPX e.001 v -38
+KPX e.001 x -45
+KPX e.001 y.001 -30
+KPX e.001 z -45
+KPX e.001 Agrave -45
+KPX e.001 Aacute -45
+KPX e.001 Acircumflex -45
+KPX e.001 Atilde -45
+KPX e.001 Adieresis -45
+KPX e.001 Aring -45
+KPX e.001 AE -46
+KPX e.001 Yacute -105
+KPX e.001 icircumflex -28
+KPX e.001 idieresis -32
+KPX e.001 yacute -30
+KPX e.001 ydieresis -30
+KPX e.001 florin -76
+
+KPX ecircumflex A -45
+KPX ecircumflex S -59
+KPX ecircumflex T -99
+KPX ecircumflex V -49
+KPX ecircumflex W -78
+KPX ecircumflex X -60
+KPX ecircumflex Y -80
+KPX ecircumflex Z -60
+KPX ecircumflex f -28
+KPX ecircumflex j.001 -95
+KPX ecircumflex t -44
+KPX ecircumflex v -30
+KPX ecircumflex x -45
+KPX ecircumflex y.001 -30
+KPX ecircumflex z -45
+KPX ecircumflex Agrave -45
+KPX ecircumflex Aacute -45
+KPX ecircumflex Acircumflex -45
+KPX ecircumflex Atilde -45
+KPX ecircumflex Adieresis -45
+KPX ecircumflex Aring -45
+KPX ecircumflex AE -46
+KPX ecircumflex Yacute -80
+KPX ecircumflex yacute -30
+KPX ecircumflex ydieresis -30
+KPX ecircumflex florin -76
+
+KPX egrave A -45
+KPX egrave S -59
+KPX egrave T -103
+KPX egrave V -37
+KPX egrave W -78
+KPX egrave X -60
+KPX egrave Y -87
+KPX egrave Z -60
+KPX egrave f -28
+KPX egrave j.001 -91
+KPX egrave t -44
+KPX egrave v -30
+KPX egrave x -45
+KPX egrave y.001 -30
+KPX egrave z -45
+KPX egrave Agrave -45
+KPX egrave Aacute -45
+KPX egrave Acircumflex -45
+KPX egrave Atilde -45
+KPX egrave Adieresis -45
+KPX egrave Aring -45
+KPX egrave AE -46
+KPX egrave Yacute -102
+KPX egrave icircumflex -28
+KPX egrave idieresis -32
+KPX egrave yacute -30
+KPX egrave ydieresis -30
+KPX egrave florin -76
+
+KPX epsilon Epsilontonos -24
+KPX epsilon Etatonos -24
+KPX epsilon Iotatonos -21
+KPX epsilon Upsilontonos -15
+KPX epsilon Tau -166
+KPX epsilon Upsilon -104
+KPX epsilon Upsilondieresis -104
+
+KPX equivalence afii10083 -140
+KPX equivalence afii10104 -118
+
+KPX eta Epsilontonos -94
+KPX eta Etatonos -94
+KPX eta Iotatonos -94
+KPX eta Upsilontonos -106
+KPX eta Tau -168
+KPX eta Upsilon -153
+KPX eta Upsilondieresis -153
+
+KPX etatonos Epsilontonos -51
+KPX etatonos Etatonos -63
+KPX etatonos Iotatonos -63
+KPX etatonos Upsilontonos -63
+KPX etatonos Tau -45
+KPX etatonos Upsilon -45
+KPX etatonos Upsilondieresis -45
+
+KPX eth T -65
+KPX eth V -65
+KPX eth W -52
+KPX eth X -49
+KPX eth Y -64
+KPX eth Z -50
+KPX eth j.001 -98
+KPX eth t -33
+KPX eth x -35
+KPX eth y.001 -20
+KPX eth z -35
+KPX eth AE -21
+KPX eth Yacute -64
+KPX eth idieresis -21
+KPX eth yacute -20
+KPX eth ydieresis -20
+KPX eth florin -76
+
+KPX florin A -75
+KPX florin J -75
+KPX florin j.001 -51
+KPX florin Agrave -75
+KPX florin Aacute -75
+KPX florin Acircumflex -75
+KPX florin Atilde -75
+KPX florin Adieresis -75
+KPX florin Aring -75
+KPX florin AE -75
+KPX florin Aringacute -75
+KPX florin AEacute -75
+
+KPX g.001 T -139
+KPX g.001 V -122
+KPX g.001 W -78
+KPX g.001 Y -124
+KPX g.001 f -28
+KPX g.001 j.001 -30
+KPX g.001 t -44
+KPX g.001 v -30
+KPX g.001 y.001 -30
+KPX g.001 Yacute -124
+KPX g.001 icircumflex -28
+KPX g.001 idieresis -32
+KPX g.001 yacute -30
+KPX g.001 ydieresis -30
+
+KPX gamma Alphatonos -91
+KPX gamma Epsilontonos -51
+KPX gamma Etatonos -94
+KPX gamma Iotatonos -94
+KPX gamma Upsilontonos -88
+KPX gamma Alpha -91
+KPX gamma uni0394 -106
+KPX gamma Zeta -122
+KPX gamma Lambda -91
+KPX gamma Sigma -76
+KPX gamma Tau -168
+KPX gamma Upsilon -61
+KPX gamma Chi -76
+KPX gamma Upsilondieresis -61
+KPX gamma lambda -106
+
+KPX idieresis A -20
+KPX idieresis T 9
+KPX idieresis a.001 -21
+KPX idieresis c -20
+KPX idieresis d.001 -21
+KPX idieresis e.001 -21
+KPX idieresis g.001 -21
+KPX idieresis j.001 -89
+KPX idieresis m -24
+KPX idieresis n -21
+KPX idieresis o -21
+KPX idieresis p.001 -21
+KPX idieresis q.001 -21
+KPX idieresis s -20
+KPX idieresis u -21
+KPX idieresis v -21
+KPX idieresis w -23
+KPX idieresis x -20
+KPX idieresis y.001 -20
+KPX idieresis z -20
+KPX idieresis Agrave -20
+KPX idieresis Aacute -20
+KPX idieresis Acircumflex -20
+KPX idieresis Atilde -20
+KPX idieresis Adieresis -20
+KPX idieresis Aring -20
+KPX idieresis AE -21
+KPX idieresis agrave -21
+KPX idieresis aacute -21
+KPX idieresis aring -21
+KPX idieresis ae -27
+KPX idieresis ccedilla -20
+KPX idieresis egrave -21
+KPX idieresis eacute -21
+KPX idieresis ograve -21
+KPX idieresis oacute -21
+KPX idieresis oslash -21
+KPX idieresis ugrave -21
+KPX idieresis uacute -21
+KPX idieresis yacute -20
+KPX idieresis dotlessi -53
+
+KPX igrave T -20
+KPX igrave j.001 -129
+KPX igrave dotlessi -22
+KPX igrave florin -47
+
+KPX iota iotadieresistonos -26
+KPX iota Tau -208
+KPX iota Upsilon -101
+KPX iota Upsilondieresis -101
+
+KPX iotadieresistonos iota -66
+
+KPX j.001 period 10
+KPX j.001 b.001 6
+KPX j.001 j.001 -20
+KPX j.001 k 6
+KPX j.001 l 20
+KPX j.001 n 10
+KPX j.001 nacute 6
+
+KPX kappa Epsilontonos -101
+KPX kappa Etatonos -101
+KPX kappa Iotatonos -101
+KPX kappa Upsilontonos -89
+KPX kappa iotadieresistonos -40
+KPX kappa Tau -175
+KPX kappa Upsilon -67
+KPX kappa Upsilondieresis -67
+
+KPX lambda Epsilontonos -101
+KPX lambda Etatonos -101
+KPX lambda Iotatonos -101
+KPX lambda Omicrontonos -40
+KPX lambda Upsilontonos -101
+KPX lambda iotadieresistonos -40
+KPX lambda Tau -175
+KPX lambda Upsilon -160
+KPX lambda Psi -98
+KPX lambda Upsilondieresis -160
+KPX lambda gamma -98
+KPX lambda nu -98
+KPX lambda tau -98
+
+KPX longs A -79
+KPX longs C -48
+KPX longs G -48
+KPX longs J -79
+KPX longs O -48
+KPX longs Q -48
+KPX longs a.001 -79
+KPX longs c -79
+KPX longs d.001 -79
+KPX longs e.001 -79
+KPX longs g.001 -79
+KPX longs j.001 -56
+KPX longs m -79
+KPX longs n -79
+KPX longs o -79
+KPX longs p.001 -79
+KPX longs q.001 -79
+KPX longs r -79
+KPX longs s -79
+KPX longs u -79
+KPX longs v -79
+KPX longs w -79
+KPX longs x -79
+KPX longs y.001 -79
+KPX longs z -79
+KPX longs Agrave -79
+KPX longs Aacute -79
+KPX longs Acircumflex -79
+KPX longs Atilde -79
+KPX longs Adieresis -79
+KPX longs Aring -79
+KPX longs AE -79
+KPX longs Ccedilla -48
+KPX longs Ograve -48
+KPX longs Oacute -48
+KPX longs Ocircumflex -48
+KPX longs Otilde -48
+KPX longs Odieresis -48
+KPX longs Oslash -48
+KPX longs agrave -64
+KPX longs aacute -79
+KPX longs acircumflex -64
+KPX longs aring -64
+KPX longs ae -79
+KPX longs ccedilla -79
+KPX longs egrave -64
+KPX longs eacute -79
+KPX longs ecircumflex -64
+KPX longs eth -79
+KPX longs ograve -64
+KPX longs oacute -79
+KPX longs ocircumflex -64
+KPX longs oslash -79
+KPX longs ugrave -48
+KPX longs uacute -79
+KPX longs ucircumflex -48
+KPX longs yacute -79
+KPX longs dotlessi -118
+KPX longs zacute -79
+KPX longs zdotaccent -79
+KPX longs florin -102
+KPX longs Aringacute -79
+KPX longs aringacute -64
+KPX longs AEacute -79
+KPX longs aeacute -79
+KPX longs Oslashacute -48
+KPX longs oslashacute -79
+
+KPX ntilde T -37
+KPX ntilde V -37
+KPX ntilde W -24
+KPX ntilde Y -37
+KPX ntilde f -21
+KPX ntilde j.001 -93
+KPX ntilde t -36
+KPX ntilde v -22
+KPX ntilde y.001 -22
+KPX ntilde Yacute -37
+KPX ntilde yacute -22
+KPX ntilde ydieresis -22
+KPX ntilde florin -67
+
+KPX nu Alphatonos -91
+KPX nu Epsilontonos -94
+KPX nu Etatonos -94
+KPX nu Iotatonos -94
+KPX nu Upsilontonos -79
+KPX nu Alpha -91
+KPX nu uni0394 -106
+KPX nu Zeta -137
+KPX nu Lambda -91
+KPX nu Sigma -76
+KPX nu Tau -168
+KPX nu Upsilon -61
+KPX nu Chi -76
+KPX nu Upsilondieresis -61
+KPX nu lambda -106
+
+KPX ograve A -29
+KPX ograve T -56
+KPX ograve V -122
+KPX ograve W -78
+KPX ograve X -60
+KPX ograve Y -83
+KPX ograve Z -60
+KPX ograve f -28
+KPX ograve j.001 -117
+KPX ograve t -44
+KPX ograve v -30
+KPX ograve x -45
+KPX ograve y.001 -30
+KPX ograve z -45
+KPX ograve Agrave -29
+KPX ograve Aacute -29
+KPX ograve Acircumflex -29
+KPX ograve Atilde -29
+KPX ograve Adieresis -29
+KPX ograve Aring -29
+KPX ograve AE -31
+KPX ograve Yacute -83
+KPX ograve icircumflex -28
+KPX ograve idieresis -32
+KPX ograve yacute -30
+KPX ograve ydieresis -30
+KPX ograve florin -76
+
+KPX omega Epsilontonos -104
+KPX omega Etatonos -104
+KPX omega Iotatonos -104
+KPX omega Upsilontonos -73
+KPX omega iotadieresistonos -42
+KPX omega Tau -178
+KPX omega Upsilon -147
+KPX omega Upsilondieresis -147
+
+KPX omegatonos Epsilontonos -104
+KPX omegatonos Etatonos -104
+KPX omegatonos Iotatonos -104
+KPX omegatonos Upsilontonos -119
+KPX omegatonos iotadieresistonos -42
+KPX omegatonos Tau -116
+KPX omegatonos Upsilon -116
+KPX omegatonos Upsilondieresis -116
+
+KPX omicron Epsilontonos -103
+KPX omicron Etatonos -103
+KPX omicron Iotatonos -103
+KPX omicron Upsilontonos -62
+KPX omicron iotadieresistonos -41
+KPX omicron Tau -176
+KPX omicron Upsilon -161
+KPX omicron Upsilondieresis -161
+
+KPX omicrontonos Epsilontonos -87
+KPX omicrontonos Etatonos -87
+KPX omicrontonos Iotatonos -87
+KPX omicrontonos Upsilontonos -87
+KPX omicrontonos iotadieresistonos -41
+KPX omicrontonos Tau -69
+KPX omicrontonos Upsilon -69
+KPX omicrontonos Upsilondieresis -69
+
+KPX oslash A -29
+KPX oslash T -80
+KPX oslash V -60
+KPX oslash X -60
+KPX oslash Y -106
+KPX oslash Z -60
+KPX oslash j.001 -91
+KPX oslash Agrave -29
+KPX oslash Aacute -29
+KPX oslash Acircumflex -29
+KPX oslash Atilde -29
+KPX oslash Adieresis -29
+KPX oslash Aring -29
+KPX oslash AE -31
+KPX oslash Yacute -106
+KPX oslash icircumflex -28
+KPX oslash idieresis -32
+
+KPX oslashacute T -84
+KPX oslashacute Y -69
+KPX oslashacute j.001 -91
+KPX oslashacute Yacute -69
+
+KPX otilde A -29
+KPX otilde T -41
+KPX otilde V -60
+KPX otilde W -47
+KPX otilde X -60
+KPX otilde Y -60
+KPX otilde Z -60
+KPX otilde f -28
+KPX otilde j.001 -94
+KPX otilde t -44
+KPX otilde v -30
+KPX otilde x -45
+KPX otilde y.001 -30
+KPX otilde z -45
+KPX otilde Agrave -29
+KPX otilde Aacute -29
+KPX otilde Acircumflex -29
+KPX otilde Atilde -29
+KPX otilde Adieresis -29
+KPX otilde Aring -29
+KPX otilde AE -31
+KPX otilde Yacute -60
+KPX otilde yacute -30
+KPX otilde ydieresis -30
+KPX otilde florin -76
+
+KPX p.001 A -29
+KPX p.001 T -145
+KPX p.001 V -122
+KPX p.001 W -78
+KPX p.001 X -60
+KPX p.001 Y -111
+KPX p.001 Z -60
+KPX p.001 f -28
+KPX p.001 i -12
+KPX p.001 j.001 -110
+KPX p.001 t -44
+KPX p.001 v -30
+KPX p.001 x -45
+KPX p.001 y.001 -30
+KPX p.001 z -45
+KPX p.001 Agrave -29
+KPX p.001 Aacute -29
+KPX p.001 Acircumflex -29
+KPX p.001 Atilde -29
+KPX p.001 Adieresis -29
+KPX p.001 Aring -29
+KPX p.001 AE -31
+KPX p.001 Yacute -111
+KPX p.001 icircumflex -28
+KPX p.001 idieresis -32
+KPX p.001 yacute -30
+KPX p.001 ydieresis -30
+KPX p.001 florin -76
+
+KPX phi Epsilontonos -103
+KPX phi Etatonos -103
+KPX phi Iotatonos -103
+KPX phi Upsilontonos -25
+KPX phi iotadieresistonos -41
+KPX phi Tau -176
+KPX phi Upsilon -161
+KPX phi Upsilondieresis -161
+
+KPX pi Epsilontonos -60
+KPX pi Etatonos -65
+KPX pi Iotatonos -103
+KPX pi Upsilontonos -71
+KPX pi iotadieresistonos -41
+KPX pi Tau -176
+KPX pi Upsilon -69
+KPX pi Upsilondieresis -69
+
+KPX psi Epsilontonos -39
+KPX psi Etatonos -104
+KPX psi Iotatonos -104
+KPX psi Upsilontonos -61
+KPX psi iotadieresistonos -42
+KPX psi Tau -178
+KPX psi Upsilon -70
+KPX psi Upsilondieresis -70
+
+KPX q.001 T -128
+KPX q.001 V -59
+KPX q.001 W -78
+KPX q.001 Y -121
+KPX q.001 f -28
+KPX q.001 t -44
+KPX q.001 v -30
+KPX q.001 y.001 -30
+KPX q.001 Yacute -121
+KPX q.001 icircumflex -28
+KPX q.001 idieresis -32
+KPX q.001 yacute -30
+KPX q.001 ydieresis -30
+
+KPX rho Epsilontonos -103
+KPX rho Etatonos -103
+KPX rho Iotatonos -103
+KPX rho Upsilontonos -38
+KPX rho iotadieresistonos -41
+KPX rho Tau -176
+KPX rho Upsilon -161
+KPX rho Upsilondieresis -161
+
+KPX sigma Alphatonos -55
+KPX sigma Epsilontonos -104
+KPX sigma Etatonos -104
+KPX sigma Iotatonos -104
+KPX sigma Upsilontonos -76
+KPX sigma iotadieresistonos -42
+KPX sigma Alpha -55
+KPX sigma uni0394 -70
+KPX sigma Zeta -85
+KPX sigma Lambda -55
+KPX sigma Xi -55
+KPX sigma Sigma -85
+KPX sigma Tau -178
+KPX sigma Upsilon -70
+KPX sigma Chi -85
+KPX sigma Upsilondieresis -70
+KPX sigma lambda -70
+
+KPX sigma1 Epsilontonos -108
+KPX sigma1 Etatonos -108
+KPX sigma1 Iotatonos -108
+KPX sigma1 Upsilontonos -59
+KPX sigma1 iotadieresistonos -47
+KPX sigma1 Tau -182
+KPX sigma1 Upsilon -90
+KPX sigma1 Upsilondieresis -90
+
+KPX tau Alphatonos -98
+KPX tau Epsilontonos -101
+KPX tau Etatonos -101
+KPX tau Iotatonos -101
+KPX tau Upsilontonos -37
+KPX tau iotadieresistonos -40
+KPX tau Alpha -98
+KPX tau uni0394 -98
+KPX tau Zeta -129
+KPX tau Lambda -98
+KPX tau Xi -80
+KPX tau Sigma -83
+KPX tau Tau -175
+KPX tau Upsilon -67
+KPX tau Chi -83
+KPX tau Upsilondieresis -67
+KPX tau lambda -114
+
+KPX thorn A -29
+KPX thorn T -123
+KPX thorn V -122
+KPX thorn W -78
+KPX thorn X -60
+KPX thorn Y -126
+KPX thorn Z -60
+KPX thorn f -28
+KPX thorn j.001 -122
+KPX thorn t -44
+KPX thorn v -30
+KPX thorn x -45
+KPX thorn y.001 -30
+KPX thorn z -45
+KPX thorn Agrave -29
+KPX thorn Aacute -29
+KPX thorn Acircumflex -29
+KPX thorn Atilde -29
+KPX thorn Adieresis -29
+KPX thorn Aring -29
+KPX thorn AE -31
+KPX thorn Yacute -119
+KPX thorn icircumflex -28
+KPX thorn idieresis -32
+KPX thorn yacute -30
+KPX thorn ydieresis -30
+KPX thorn florin -76
+
+KPX ucircumflex T -65
+KPX ucircumflex V -52
+KPX ucircumflex W -24
+KPX ucircumflex Y -35
+KPX ucircumflex j.001 -100
+KPX ucircumflex Yacute -35
+
+KPX ugrave T -94
+KPX ugrave V -52
+KPX ugrave W -24
+KPX ugrave Y -47
+KPX ugrave j.001 -97
+KPX ugrave Yacute -47
+KPX ugrave icircumflex -21
+KPX ugrave idieresis -24
+
+KPX uni0394 Epsilontonos -88
+KPX uni0394 Etatonos -88
+KPX uni0394 Iotatonos -88
+KPX uni0394 Omicrontonos -42
+KPX uni0394 Upsilontonos -88
+KPX uni0394 iotadieresistonos -42
+KPX uni0394 Tau -178
+KPX uni0394 Upsilon -162
+KPX uni0394 Psi -85
+KPX uni0394 Upsilondieresis -162
+KPX uni0394 gamma -101
+KPX uni0394 nu -101
+KPX uni0394 tau -101
+KPX uni0394 chi -39
+
+KPX uni03A9 Tau -88
+KPX uni03A9 Upsilon -72
+KPX uni03A9 Upsilondieresis -72
+
+KPX uni03BC Epsilontonos -94
+KPX uni03BC Etatonos -94
+KPX uni03BC Iotatonos -94
+KPX uni03BC Upsilontonos -84
+KPX uni03BC Tau -167
+KPX uni03BC Upsilon -60
+KPX uni03BC Upsilondieresis -60
+
+KPX uni0492 afii10023 -185
+KPX uni0492 afii10053 -92
+KPX uni0492 afii10057 -308
+KPX uni0492 afii10058 -185
+KPX uni0492 afii10059 -173
+KPX uni0492 afii10017 -185
+KPX uni0492 afii10021 -231
+KPX uni0492 afii10022 -140
+KPX uni0492 afii10029 -185
+KPX uni0492 afii10030 -108
+KPX uni0492 afii10032 -92
+KPX uni0492 afii10035 -180
+KPX uni0492 afii10038 -92
+KPX uni0492 afii10043 -105
+KPX uni0492 afii10046 -241
+KPX uni0492 afii10065 -108
+KPX uni0492 afii10066 -62
+KPX uni0492 afii10067 -92
+KPX uni0492 afii10068 -92
+KPX uni0492 afii10069 -108
+KPX uni0492 afii10070 -108
+KPX uni0492 afii10072 -169
+KPX uni0492 afii10073 -92
+KPX uni0492 afii10074 -92
+KPX uni0492 afii10076 -92
+KPX uni0492 afii10077 -231
+KPX uni0492 afii10078 -200
+KPX uni0492 afii10079 -92
+KPX uni0492 afii10080 -108
+KPX uni0492 afii10081 -92
+KPX uni0492 afii10082 -108
+KPX uni0492 afii10083 -108
+KPX uni0492 afii10084 -92
+KPX uni0492 afii10085 -123
+KPX uni0492 afii10086 -92
+KPX uni0492 afii10087 -139
+KPX uni0492 afii10088 -92
+KPX uni0492 afii10089 -92
+KPX uni0492 afii10090 -92
+KPX uni0492 afii10091 -92
+KPX uni0492 afii10092 -227
+KPX uni0492 afii10093 -92
+KPX uni0492 afii10094 -92
+KPX uni0492 afii10095 -108
+KPX uni0492 afii10096 -92
+KPX uni0492 afii10097 -119
+KPX uni0492 afii10071 -62
+KPX uni0492 afii10100 -92
+KPX uni0492 afii10101 -110
+KPX uni0492 afii10102 -92
+KPX uni0492 afii10104 -116
+KPX uni0492 afii10105 -100
+KPX uni0492 afii10106 -231
+KPX uni0492 afii10107 -92
+KPX uni0492 afii10109 -92
+KPX uni0492 afii10193 -92
+KPX uni0492 afii10098 -92
+KPX uni0492 uni0493 -154
+KPX uni0492 uni0497 -169
+KPX uni0492 uni049B -92
+KPX uni0492 uni049D -92
+KPX uni0492 uni04A3 -92
+KPX uni0492 uni04AF -123
+KPX uni0492 uni04B1 -123
+KPX uni0492 uni04B3 -139
+KPX uni0492 uni04B9 -92
+KPX uni0492 uni04D8 -92
+KPX uni0492 afii10846 -185
+KPX uni0492 uni04E8 -92
+KPX uni0492 uni04E9 -108
+KPX uni0492 wgrave -123
+KPX uni0492 wacute -123
+KPX uni0492 wdieresis -123
+
+KPX uni0493 afii10051 -182
+KPX uni0493 afii10057 -44
+KPX uni0493 afii10058 -90
+KPX uni0493 afii10060 -182
+KPX uni0493 afii10017 -90
+KPX uni0493 afii10021 -136
+KPX uni0493 afii10024 -121
+KPX uni0493 afii10029 -90
+KPX uni0493 afii10030 -44
+KPX uni0493 afii10036 -182
+KPX uni0493 afii10037 -113
+KPX uni0493 afii10039 -75
+KPX uni0493 afii10044 -51
+KPX uni0493 afii10047 -198
+KPX uni0493 afii10077 -136
+KPX uni0493 afii10078 -75
+KPX uni0493 afii10083 -122
+KPX uni0493 afii10088 -122
+KPX uni0493 afii10105 -97
+KPX uni0493 afii10106 -136
+KPX uni0493 uni0496 -121
+KPX uni0493 uni04AE -59
+KPX uni0493 uni04B0 -59
+KPX uni0493 uni04B2 -75
+KPX uni0493 uni04B8 -107
+KPX uni0493 uni04D8 -44
+KPX uni0493 Ygrave -59
+
+KPX uni0496 afii10023 -175
+KPX uni0496 afii10053 -60
+KPX uni0496 afii10059 -163
+KPX uni0496 afii10032 -60
+KPX uni0496 afii10035 -171
+KPX uni0496 afii10038 -90
+KPX uni0496 afii10085 -75
+KPX uni0496 afii10089 -105
+KPX uni0496 afii10092 -71
+KPX uni0496 uni04AF -121
+KPX uni0496 uni04B9 -105
+KPX uni0496 uni04D8 -60
+KPX uni0496 uni04E8 -60
+KPX uni0496 wgrave -75
+KPX uni0496 wacute -75
+KPX uni0496 wdieresis -75
+
+KPX uni0497 afii10051 -180
+KPX uni0497 afii10060 -180
+KPX uni0497 afii10036 -180
+KPX uni0497 afii10037 -125
+KPX uni0497 afii10044 -49
+KPX uni0497 afii10083 -135
+KPX uni0497 afii10088 -150
+KPX uni0497 uni04AE -106
+KPX uni0497 uni04B0 -57
+KPX uni0497 uni04B8 -120
+KPX uni0497 Ygrave -57
+
+KPX uni049A afii10023 -172
+KPX uni049A afii10053 -61
+KPX uni049A afii10059 -161
+KPX uni049A afii10032 -61
+KPX uni049A afii10035 -168
+KPX uni049A afii10038 -91
+KPX uni049A afii10085 -76
+KPX uni049A afii10089 -106
+KPX uni049A afii10092 -72
+KPX uni049A uni04AF -122
+KPX uni049A uni04B9 -106
+KPX uni049A uni04D8 -61
+KPX uni049A uni04E8 -61
+KPX uni049A wgrave -76
+KPX uni049A wacute -76
+KPX uni049A wdieresis -76
+
+KPX uni049B afii10051 -182
+KPX uni049B afii10060 -182
+KPX uni049B afii10034 -102
+KPX uni049B afii10036 -182
+KPX uni049B afii10037 -131
+KPX uni049B afii10044 -51
+KPX uni049B afii10083 -140
+KPX uni049B afii10088 -155
+KPX uni049B afii10104 -118
+KPX uni049B uni04AE -111
+KPX uni049B uni04B0 -59
+KPX uni049B uni04B8 -125
+KPX uni049B Ygrave -59
+
+KPX uni049C afii10023 -171
+KPX uni049C afii10053 -61
+KPX uni049C afii10059 -159
+KPX uni049C afii10032 -61
+KPX uni049C afii10035 -167
+KPX uni049C afii10038 -91
+KPX uni049C afii10085 -106
+KPX uni049C afii10089 -106
+KPX uni049C afii10092 -56
+KPX uni049C afii10104 -102
+KPX uni049C afii10105 -83
+KPX uni049C uni04AF -106
+KPX uni049C uni04B9 -106
+KPX uni049C uni04D8 -61
+KPX uni049C uni04E8 -61
+KPX uni049C wgrave -76
+KPX uni049C wacute -76
+KPX uni049C wdieresis -76
+
+KPX uni049D afii10051 -182
+KPX uni049D afii10060 -182
+KPX uni049D afii10036 -182
+KPX uni049D afii10044 -51
+KPX uni049D afii10105 -97
+KPX uni049D uni04AE -59
+KPX uni049D uni04B0 -59
+KPX uni049D Ygrave -59
+
+KPX uni04A2 afii10023 -167
+KPX uni04A2 afii10059 -155
+KPX uni04A2 afii10035 -163
+KPX uni04A2 uni04A3 -119
+KPX uni04A2 wdieresis -119
+
+KPX uni04A3 afii10051 -153
+KPX uni04A3 afii10056 -150
+KPX uni04A3 afii10060 -153
+KPX uni04A3 afii10145 -128
+KPX uni04A3 afii10036 -153
+KPX uni04A3 afii10037 -111
+KPX uni04A3 afii10049 -148
+KPX uni04A3 afii10068 -144
+KPX uni04A3 afii10069 -145
+KPX uni04A3 afii10072 -106
+KPX uni04A3 afii10076 -145
+KPX uni04A3 afii10079 -146
+KPX uni04A3 afii10081 -157
+KPX uni04A3 afii10082 -145
+KPX uni04A3 afii10085 -150
+KPX uni04A3 afii10096 -108
+KPX uni04A3 afii10097 -113
+KPX uni04A3 afii10100 -152
+KPX uni04A3 afii10101 -107
+KPX uni04A3 afii10104 -128
+KPX uni04A3 afii10105 -142
+KPX uni04A3 uni0492 -137
+KPX uni04A3 uni04AE -122
+KPX uni04A3 uni04D8 -145
+KPX uni04A3 uni04E8 -146
+KPX uni04A3 Ygrave -122
+
+KPX uni04AE afii10023 -185
+KPX uni04AE afii10053 -53
+KPX uni04AE afii10057 -161
+KPX uni04AE afii10058 -161
+KPX uni04AE afii10059 -173
+KPX uni04AE afii10017 -161
+KPX uni04AE afii10021 -161
+KPX uni04AE afii10022 -109
+KPX uni04AE afii10029 -161
+KPX uni04AE afii10030 -100
+KPX uni04AE afii10032 -53
+KPX uni04AE afii10035 -181
+KPX uni04AE afii10038 -84
+KPX uni04AE afii10043 -105
+KPX uni04AE afii10065 -161
+KPX uni04AE afii10067 -53
+KPX uni04AE afii10068 -115
+KPX uni04AE afii10069 -161
+KPX uni04AE afii10070 -161
+KPX uni04AE afii10072 -53
+KPX uni04AE afii10073 -115
+KPX uni04AE afii10074 -53
+KPX uni04AE afii10076 -53
+KPX uni04AE afii10077 -161
+KPX uni04AE afii10078 -161
+KPX uni04AE afii10079 -53
+KPX uni04AE afii10080 -161
+KPX uni04AE afii10081 -53
+KPX uni04AE afii10082 -161
+KPX uni04AE afii10083 -161
+KPX uni04AE afii10084 -53
+KPX uni04AE afii10085 -53
+KPX uni04AE afii10086 -161
+KPX uni04AE afii10087 -53
+KPX uni04AE afii10088 -53
+KPX uni04AE afii10089 -53
+KPX uni04AE afii10090 -53
+KPX uni04AE afii10091 -53
+KPX uni04AE afii10092 -49
+KPX uni04AE afii10093 -53
+KPX uni04AE afii10094 -53
+KPX uni04AE afii10095 -100
+KPX uni04AE afii10096 -53
+KPX uni04AE afii10097 -142
+KPX uni04AE afii10071 -53
+KPX uni04AE afii10100 -84
+KPX uni04AE afii10101 -164
+KPX uni04AE afii10102 -115
+KPX uni04AE afii10104 -101
+KPX uni04AE afii10105 -106
+KPX uni04AE afii10106 -161
+KPX uni04AE afii10107 -53
+KPX uni04AE afii10109 -53
+KPX uni04AE afii10193 -53
+KPX uni04AE afii10098 -115
+KPX uni04AE uni0493 -124
+KPX uni04AE uni0497 -53
+KPX uni04AE uni049B -53
+KPX uni04AE uni049D -53
+KPX uni04AE uni04A3 -53
+KPX uni04AE uni04AF -53
+KPX uni04AE uni04B1 -53
+KPX uni04AE uni04B3 -53
+KPX uni04AE uni04B9 -53
+KPX uni04AE uni04D8 -69
+KPX uni04AE afii10846 -161
+KPX uni04AE uni04E8 -53
+KPX uni04AE uni04E9 -161
+KPX uni04AE wgrave -53
+KPX uni04AE wacute -53
+KPX uni04AE wdieresis -53
+
+KPX uni04AF afii10051 -168
+KPX uni04AF afii10056 -150
+KPX uni04AF afii10057 -45
+KPX uni04AF afii10058 -91
+KPX uni04AF afii10060 -168
+KPX uni04AF afii10017 -91
+KPX uni04AF afii10021 -122
+KPX uni04AF afii10024 -122
+KPX uni04AF afii10029 -91
+KPX uni04AF afii10030 -45
+KPX uni04AF afii10036 -168
+KPX uni04AF afii10039 -76
+KPX uni04AF afii10047 -91
+KPX uni04AF afii10077 -122
+KPX uni04AF afii10078 -76
+KPX uni04AF afii10104 -128
+KPX uni04AF afii10105 -83
+KPX uni04AF afii10106 -122
+KPX uni04AF uni0496 -122
+KPX uni04AF uni04AE -61
+KPX uni04AF uni04B0 -45
+KPX uni04AF uni04B2 -76
+KPX uni04AF Ygrave -61
+
+KPX uni04B0 afii10023 -186
+KPX uni04B0 afii10058 -53
+KPX uni04B0 afii10059 -173
+KPX uni04B0 afii10017 -53
+KPX uni04B0 afii10021 -100
+KPX uni04B0 afii10029 -53
+KPX uni04B0 afii10035 -181
+KPX uni04B0 afii10043 -106
+KPX uni04B0 afii10072 -53
+KPX uni04B0 afii10077 -84
+KPX uni04B0 afii10087 -53
+KPX uni04B0 afii10092 -49
+KPX uni04B0 afii10095 -84
+KPX uni04B0 afii10105 -106
+KPX uni04B0 afii10106 -69
+KPX uni04B0 uni0497 -53
+KPX uni04B0 uni04AF -53
+KPX uni04B0 uni04B3 -53
+
+KPX uni04B1 afii10051 -168
+KPX uni04B1 afii10057 -45
+KPX uni04B1 afii10060 -168
+KPX uni04B1 afii10036 -168
+KPX uni04B1 afii10037 -116
+KPX uni04B1 afii10047 -76
+KPX uni04B1 afii10105 -83
+KPX uni04B1 uni04AE -61
+KPX uni04B1 uni04B0 -45
+KPX uni04B1 Ygrave -61
+
+KPX uni04B2 afii10023 -147
+KPX uni04B2 afii10053 -70
+KPX uni04B2 afii10059 -135
+KPX uni04B2 afii10032 -70
+KPX uni04B2 afii10035 -143
+KPX uni04B2 afii10038 -101
+KPX uni04B2 afii10085 -70
+KPX uni04B2 afii10089 -70
+KPX uni04B2 afii10092 -66
+KPX uni04B2 uni04AF -70
+KPX uni04B2 uni04B9 -70
+KPX uni04B2 uni04D8 -70
+KPX uni04B2 uni04E8 -70
+KPX uni04B2 wgrave -70
+KPX uni04B2 wacute -70
+KPX uni04B2 wdieresis -70
+
+KPX uni04B3 afii10051 -175
+KPX uni04B3 afii10060 -175
+KPX uni04B3 afii10036 -175
+KPX uni04B3 afii10044 -44
+KPX uni04B3 afii10104 -110
+KPX uni04B3 uni04AE -67
+KPX uni04B3 uni04B0 -67
+KPX uni04B3 Ygrave -67
+
+KPX uni04B8 afii10023 -170
+KPX uni04B8 afii10059 -158
+KPX uni04B8 afii10035 -166
+KPX uni04B8 afii10104 -101
+KPX uni04B8 afii10105 -76
+
+KPX uni04B9 afii10023 -189
+KPX uni04B9 afii10051 -182
+KPX uni04B9 afii10059 -178
+KPX uni04B9 afii10060 -182
+KPX uni04B9 afii10035 -185
+KPX uni04B9 afii10036 -182
+KPX uni04B9 afii10043 -110
+KPX uni04B9 afii10044 -51
+KPX uni04B9 afii10104 -121
+KPX uni04B9 afii10105 -97
+KPX uni04B9 uni04A3 -156
+KPX uni04B9 uni04AE -59
+KPX uni04B9 wdieresis -156
+KPX uni04B9 Ygrave -59
+
+KPX uni04BA afii10023 -199
+KPX uni04BA afii10051 -176
+KPX uni04BA afii10059 -187
+KPX uni04BA afii10060 -176
+KPX uni04BA afii10035 -195
+KPX uni04BA afii10036 -176
+KPX uni04BA afii10043 -120
+KPX uni04BA afii10044 -45
+KPX uni04BA afii10092 -64
+KPX uni04BA afii10104 -130
+KPX uni04BA afii10105 -91
+KPX uni04BA uni04A3 -150
+KPX uni04BA uni04AE -161
+KPX uni04BA wdieresis -150
+KPX uni04BA Ygrave -161
+
+KPX uni04BB afii10023 -124
+KPX uni04BB afii10051 -168
+KPX uni04BB afii10059 -112
+KPX uni04BB afii10060 -168
+KPX uni04BB afii10035 -119
+KPX uni04BB afii10036 -168
+KPX uni04BB afii10043 -106
+KPX uni04BB afii10104 -116
+KPX uni04BB afii10105 -83
+KPX uni04BB uni04AE -153
+KPX uni04BB uni04B1 -105
+KPX uni04BB Ygrave -153
+
+KPX uni04D8 afii10023 -177
+KPX uni04D8 afii10051 -88
+KPX uni04D8 afii10059 -165
+KPX uni04D8 afii10060 -88
+KPX uni04D8 afii10062 -42
+KPX uni04D8 afii10021 -57
+KPX uni04D8 afii10024 -72
+KPX uni04D8 afii10035 -172
+KPX uni04D8 afii10036 -88
+KPX uni04D8 afii10037 -42
+KPX uni04D8 afii10039 -72
+KPX uni04D8 afii10044 -49
+KPX uni04D8 afii10077 -42
+KPX uni04D8 afii10104 -107
+KPX uni04D8 afii10105 -95
+KPX uni04D8 afii10106 -42
+KPX uni04D8 uni0496 -72
+KPX uni04D8 uni04A3 -159
+KPX uni04D8 uni04AE -72
+KPX uni04D8 uni04B2 -72
+KPX uni04D8 wdieresis -159
+KPX uni04D8 Ygrave -72
+
+KPX uni04E8 afii10023 -177
+KPX uni04E8 afii10051 -88
+KPX uni04E8 afii10059 -165
+KPX uni04E8 afii10060 -88
+KPX uni04E8 afii10062 -42
+KPX uni04E8 afii10021 -57
+KPX uni04E8 afii10024 -72
+KPX uni04E8 afii10035 -172
+KPX uni04E8 afii10036 -88
+KPX uni04E8 afii10037 -42
+KPX uni04E8 afii10039 -72
+KPX uni04E8 afii10044 -49
+KPX uni04E8 afii10077 -42
+KPX uni04E8 afii10104 -107
+KPX uni04E8 afii10105 -95
+KPX uni04E8 afii10106 -42
+KPX uni04E8 uni0496 -72
+KPX uni04E8 uni04A3 -159
+KPX uni04E8 uni04AE -72
+KPX uni04E8 uni04B2 -72
+KPX uni04E8 wdieresis -159
+KPX uni04E8 Ygrave -72
+
+KPX uni04E9 afii10051 -176
+KPX uni04E9 afii10060 -176
+KPX uni04E9 afii10036 -176
+KPX uni04E9 afii10044 -45
+KPX uni04E9 afii10068 -112
+KPX uni04E9 afii10076 -113
+KPX uni04E9 afii10104 -127
+KPX uni04E9 afii10105 -91
+KPX uni04E9 uni04AE -161
+KPX uni04E9 Ygrave -161
+
+KPX upsilon Epsilontonos -94
+KPX upsilon Etatonos -94
+KPX upsilon Iotatonos -94
+KPX upsilon Upsilontonos -48
+KPX upsilon Tau -168
+KPX upsilon Upsilon -61
+KPX upsilon Upsilondieresis -61
+
+KPX upsilondieresis Tau -45
+KPX upsilondieresis Upsilon -45
+KPX upsilondieresis Upsilondieresis -45
+
+KPX upsilontonos Epsilontonos -63
+KPX upsilontonos Etatonos -63
+KPX upsilontonos Iotatonos -63
+KPX upsilontonos Upsilontonos -63
+KPX upsilontonos Tau -45
+KPX upsilontonos Upsilon -45
+KPX upsilontonos Upsilondieresis -45
+
+KPX wacute afii10051 -148
+KPX wacute afii10058 -71
+KPX wacute afii10060 -148
+KPX wacute afii10017 -71
+KPX wacute afii10021 -71
+KPX wacute afii10024 -71
+KPX wacute afii10029 -71
+KPX wacute afii10030 -41
+KPX wacute afii10036 -148
+KPX wacute afii10039 -71
+KPX wacute afii10044 -47
+KPX wacute afii10047 -56
+KPX wacute afii10068 -112
+KPX wacute afii10076 -113
+KPX wacute afii10077 -71
+KPX wacute afii10078 -71
+KPX wacute afii10104 -127
+KPX wacute afii10105 -94
+KPX wacute afii10106 -71
+KPX wacute uni0496 -71
+KPX wacute uni04AE -56
+KPX wacute uni04B2 -71
+KPX wacute Ygrave -56
+
+KPX wdieresis afii10051 -133
+KPX wdieresis afii10056 -150
+KPX wdieresis afii10058 -71
+KPX wdieresis afii10060 -133
+KPX wdieresis afii10145 -128
+KPX wdieresis afii10017 -71
+KPX wdieresis afii10021 -71
+KPX wdieresis afii10024 -71
+KPX wdieresis afii10029 -71
+KPX wdieresis afii10030 -41
+KPX wdieresis afii10036 -133
+KPX wdieresis afii10037 -111
+KPX wdieresis afii10039 -71
+KPX wdieresis afii10044 -47
+KPX wdieresis afii10047 -56
+KPX wdieresis afii10049 -148
+KPX wdieresis afii10068 -144
+KPX wdieresis afii10069 -145
+KPX wdieresis afii10072 -106
+KPX wdieresis afii10076 -145
+KPX wdieresis afii10077 -71
+KPX wdieresis afii10078 -71
+KPX wdieresis afii10079 -146
+KPX wdieresis afii10081 -157
+KPX wdieresis afii10082 -145
+KPX wdieresis afii10085 -150
+KPX wdieresis afii10096 -108
+KPX wdieresis afii10097 -113
+KPX wdieresis afii10100 -152
+KPX wdieresis afii10101 -107
+KPX wdieresis afii10104 -128
+KPX wdieresis afii10105 -142
+KPX wdieresis afii10106 -71
+KPX wdieresis uni0492 -137
+KPX wdieresis uni0496 -71
+KPX wdieresis uni04AE -56
+KPX wdieresis uni04B2 -71
+KPX wdieresis uni04D8 -145
+KPX wdieresis uni04E8 -146
+KPX wdieresis Ygrave -56
+
+KPX wgrave afii10051 -179
+KPX wgrave afii10058 -71
+KPX wgrave afii10060 -179
+KPX wgrave afii10017 -71
+KPX wgrave afii10021 -71
+KPX wgrave afii10024 -71
+KPX wgrave afii10029 -71
+KPX wgrave afii10030 -41
+KPX wgrave afii10036 -179
+KPX wgrave afii10039 -71
+KPX wgrave afii10044 -47
+KPX wgrave afii10047 -56
+KPX wgrave afii10068 -112
+KPX wgrave afii10076 -113
+KPX wgrave afii10077 -71
+KPX wgrave afii10078 -71
+KPX wgrave afii10104 -127
+KPX wgrave afii10105 -94
+KPX wgrave afii10106 -71
+KPX wgrave uni0496 -71
+KPX wgrave uni04AE -56
+KPX wgrave uni04B2 -71
+KPX wgrave Ygrave -56
+
+KPX y.001 A -61
+KPX y.001 J -43
+KPX y.001 T -149
+KPX y.001 V -44
+KPX y.001 X -38
+KPX y.001 Y -46
+KPX y.001 Z -58
+KPX y.001 j.001 -110
+KPX y.001 Agrave -42
+KPX y.001 Aacute -42
+KPX y.001 Acircumflex -42
+KPX y.001 Atilde -42
+KPX y.001 Adieresis -42
+KPX y.001 Aring -42
+KPX y.001 AE -58
+KPX y.001 Yacute -27
+KPX y.001 Zdotaccent -114
+KPX y.001 Zcaron -114
+KPX y.001 Aringacute -83
+KPX y.001 AEacute -114
+
+KPX ydieresis A -61
+KPX ydieresis J -43
+KPX ydieresis T -81
+KPX ydieresis V -29
+KPX ydieresis X -27
+KPX ydieresis Y -31
+KPX ydieresis Z -65
+KPX ydieresis j.001 -111
+KPX ydieresis Agrave -57
+KPX ydieresis Aacute -50
+KPX ydieresis Acircumflex -61
+KPX ydieresis Atilde -57
+KPX ydieresis Adieresis -61
+KPX ydieresis Aring -46
+KPX ydieresis AE -69
+KPX ydieresis Yacute -42
+KPX ydieresis Aringacute -83
+KPX ydieresis AEacute -114
+
+KPX ygrave afii10051 -175
+KPX ygrave afii10058 -83
+KPX ygrave afii10060 -175
+KPX ygrave afii10017 -83
+KPX ygrave afii10021 -114
+KPX ygrave afii10024 -114
+KPX ygrave afii10029 -83
+KPX ygrave afii10036 -175
+KPX ygrave afii10039 -83
+KPX ygrave afii10044 -44
+KPX ygrave afii10047 -83
+KPX ygrave afii10077 -114
+KPX ygrave afii10078 -67
+KPX ygrave afii10105 -90
+KPX ygrave afii10106 -98
+KPX ygrave uni0496 -114
+KPX ygrave uni04AE -67
+KPX ygrave uni04B2 -83
+KPX ygrave Ygrave -67
+
+KPX zeta Theta -83
+KPX zeta Omicron -83
+KPX zeta Phi -175
+KPX zeta alphatonos -98
+KPX zeta alpha -98
+KPX zeta gamma -145
+KPX zeta nu -175
+KPX zeta omicron -98
+KPX zeta sigma1 -98
+KPX zeta sigma -98
+KPX zeta tau -160
+KPX zeta upsilon -83
+KPX zeta phi -98
+KPX zeta psi -114
+KPX zeta upsilondieresis -52
+KPX zeta omicrontonos -98
+KPX zeta upsilontonos -83
+
+EndKernPairs
+EndKernData
+EndFontMetrics
