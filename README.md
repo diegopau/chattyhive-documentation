@@ -1,6 +1,8 @@
 Chattyhive Docs and Resources
 =============================
-In this repo you will find the following docs and resources:
+In this repo you will find a lot of docs and resources related with the project.
+
+[Chattyhive promotional video](https://youtu.be/CdCOUl3rjUw)
  
 
 The chattyhive Project
