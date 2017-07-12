@@ -8,6 +8,13 @@ In this repo you will find a lot of docs and resources related with the project.
 The chattyhive Project
 ======================
 
+API & Dev documentation
+-----------------------
+ - [API Documentation (English)](https://docs.google.com/document/d/1ivUpGlNiY1s6CJldyP1rZYgtF1vZphSUvDcsu3QmZPI/edit?usp=sharing)
+ - [API Methods examples (English)](https://docs.google.com/document/d/18tg-MQ5VWgu519k9KIeWpYev4uEiqS7hCv0LU56ZLU0/edit?usp=sharing)  
+ - [The Bible (English)](https://docs.google.com/document/d/1WH7zUVjVpw4GChMHHBJKN_w6ORyyWgvyn8kXd1pHBNc/edit?usp=sharing)
+
+
 Repositories
 ------------
  - [Docs and Resources](https://github.com/diegopau/chattyhive-resources)
